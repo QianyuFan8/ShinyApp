@@ -1,0 +1,26 @@
+# Core Shiny
+shiny>=0.7.0
+htmltools>=0.5.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# API calls
+requests>=2.31.0
+
+# String matching (for patient analyzer)
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+
+# Visualization
+plotly>=5.18.0
+
+# Network visualization (we'll use JavaScript library via Shiny)
+# No Python equivalent needed - will use vis.js in HTML
+
+# Caching
+pickle-mixin
+
+# Optional: Progress bars
+tqdm>=4.65.0

@@ -1,0 +1,25 @@
+{
+  "app_title": "RxCheck: Drug Interaction Checker",
+  "app_version": "1.0.0",
+  "data_files": {
+    "drugs": "data/processed/drug_master.csv",
+    "interactions": "data/processed/interactions.csv",
+    "drug_info": "data/processed/drug_info.csv",
+    "side_effects": "data/processed/side_effects.csv",
+    "network": "data/processed/network_data.json",
+    "search_index": "data/processed/search_index.json",
+    "lookup": "data/processed/quick_lookup.json",
+    "metadata": "data/processed/metadata.json"
+  },
+  "severity_colors": {
+    "High": "#E74C3C",
+    "Medium": "#F39C12",
+    "Low": "#27AE60"
+  },
+  "ui_settings": {
+    "max_drugs_select": 10,
+    "max_network_depth": 3,
+    "default_network_depth": 2,
+    "max_csv_upload_mb": 10
+  }
+}

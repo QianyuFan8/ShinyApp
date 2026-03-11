@@ -1,0 +1,2633 @@
+drug_name,side_effect,severity,found_in_text,severity_order
+Albuterol,Angioedema,Serious,True,1
+Albuterol,Arrhythmia,Serious,True,1
+Albuterol,Hypersensitivity,Serious,True,1
+Albuterol,Back Pain,Common,True,2
+Albuterol,Cough,Common,True,2
+Albuterol,Edema,Common,True,2
+Albuterol,Headache,Common,True,2
+Albuterol,Hyperglycemia,Common,True,2
+Albuterol,Hypertension,Common,True,2
+Albuterol,Hypotension,Common,True,2
+Albuterol,Insomnia,Common,True,2
+Albuterol,Muscle Cramps,Common,True,2
+Albuterol,Nervousness,Common,True,2
+Albuterol,Palpitations,Common,True,2
+Albuterol,Pharyngitis,Common,True,2
+Albuterol,Rash,Common,True,2
+Albuterol,Tachycardia,Common,True,2
+Albuterol,Tremor,Common,True,2
+Albuterol,Upper Respiratory Infection,Common,True,2
+Albuterol,Urticaria,Common,True,2
+Albuterol,Vomiting,Common,True,2
+Alprazolam,Angioedema,Serious,True,1
+Alprazolam,Dependence,Serious,False,1
+Alprazolam,Hallucinations,Serious,True,1
+Alprazolam,Hepatitis,Serious,True,1
+Alprazolam,Jaundice,Serious,True,1
+Alprazolam,Respiratory Depression,Serious,False,1
+Alprazolam,Seizure,Serious,True,1
+Alprazolam,Stevens-Johnson Syndrome,Serious,True,1
+Alprazolam,Agitation,Common,True,2
+Alprazolam,Anorexia,Common,True,2
+Alprazolam,Anxiety,Common,True,2
+Alprazolam,Blurred Vision,Common,True,2
+Alprazolam,Confusion,Common,True,2
+Alprazolam,Constipation,Common,True,2
+Alprazolam,Decreased Libido,Common,True,2
+Alprazolam,Depression,Common,True,2
+Alprazolam,Diarrhea,Common,True,2
+Alprazolam,Dizziness,Common,True,2
+Alprazolam,Drowsiness,Common,True,2
+Alprazolam,Dry Mouth,Common,True,2
+Alprazolam,Edema,Common,True,2
+Alprazolam,Fatigue,Common,True,2
+Alprazolam,Headache,Common,True,2
+Alprazolam,Hypotension,Common,True,2
+Alprazolam,Insomnia,Common,True,2
+Alprazolam,Irritability,Common,True,2
+Alprazolam,Itching,Common,True,2
+Alprazolam,Memory Problems,Common,False,2
+Alprazolam,Nausea,Common,True,2
+Alprazolam,Pruritus,Common,True,2
+Alprazolam,Rash,Common,True,2
+Alprazolam,Sedation,Common,True,2
+Alprazolam,Sexual Dysfunction,Common,True,2
+Alprazolam,Sleep Disturbance,Common,True,2
+Alprazolam,Sweating,Common,True,2
+Alprazolam,Tachycardia,Common,True,2
+Alprazolam,Urinary Retention,Common,True,2
+Alprazolam,Vomiting,Common,True,2
+Alprazolam,Weakness,Common,True,2
+Alprazolam,Weight Gain,Common,True,2
+Alprazolam,Weight Loss,Common,True,2
+Amitriptyline,Agranulocytosis,Serious,True,1
+Amitriptyline,Arrhythmia,Serious,True,1
+Amitriptyline,Hallucinations,Serious,True,1
+Amitriptyline,Hepatitis,Serious,True,1
+Amitriptyline,Jaundice,Serious,True,1
+Amitriptyline,Myocardial Infarction,Serious,True,1
+Amitriptyline,Neuroleptic Malignant Syndrome,Serious,True,1
+Amitriptyline,Seizure,Serious,True,1
+Amitriptyline,Serotonin Syndrome,Serious,True,1
+Amitriptyline,Stroke,Serious,True,1
+Amitriptyline,Thrombocytopenia,Serious,True,1
+Amitriptyline,Anorexia,Common,True,2
+Amitriptyline,Anxiety,Common,True,2
+Amitriptyline,Blurred Vision,Common,True,2
+Amitriptyline,Confusion,Common,True,2
+Amitriptyline,Constipation,Common,True,2
+Amitriptyline,Decreased Libido,Common,True,2
+Amitriptyline,Depression,Common,True,2
+Amitriptyline,Diarrhea,Common,True,2
+Amitriptyline,Dizziness,Common,True,2
+Amitriptyline,Drowsiness,Common,True,2
+Amitriptyline,Dry Mouth,Common,True,2
+Amitriptyline,Edema,Common,True,2
+Amitriptyline,Fatigue,Common,True,2
+Amitriptyline,Fever,Common,True,2
+Amitriptyline,Headache,Common,True,2
+Amitriptyline,Hypertension,Common,True,2
+Amitriptyline,Hypotension,Common,True,2
+Amitriptyline,Insomnia,Common,True,2
+Amitriptyline,Irritability,Common,True,2
+Amitriptyline,Malaise,Common,True,2
+Amitriptyline,Nausea,Common,True,2
+Amitriptyline,Rash,Common,True,2
+Amitriptyline,Sleep Disturbance,Common,True,2
+Amitriptyline,Swelling,Common,True,2
+Amitriptyline,Tachycardia,Common,True,2
+Amitriptyline,Tinnitus,Common,True,2
+Amitriptyline,Tremor,Common,True,2
+Amitriptyline,Urinary Retention,Common,True,2
+Amitriptyline,Urticaria,Common,True,2
+Amitriptyline,Vomiting,Common,True,2
+Amitriptyline,Weakness,Common,True,2
+Amitriptyline,Weight Gain,Common,True,2
+Amlodipine,Angioedema,Serious,True,1
+Amlodipine,Arrhythmia,Serious,True,1
+Amlodipine,Hepatitis,Serious,True,1
+Amlodipine,Jaundice,Serious,True,1
+Amlodipine,Pancreatitis,Serious,True,1
+Amlodipine,Thrombocytopenia,Serious,True,1
+Amlodipine,Abdominal Pain,Common,True,2
+Amlodipine,Anorexia,Common,True,2
+Amlodipine,Anxiety,Common,True,2
+Amlodipine,Arthralgia,Common,True,2
+Amlodipine,Back Pain,Common,True,2
+Amlodipine,Chest Pain,Common,True,2
+Amlodipine,Constipation,Common,True,2
+Amlodipine,Depression,Common,True,2
+Amlodipine,Diarrhea,Common,True,2
+Amlodipine,Dizziness,Common,True,2
+Amlodipine,Dry Mouth,Common,True,2
+Amlodipine,Dyspnea,Common,True,2
+Amlodipine,Edema,Common,True,2
+Amlodipine,Fatigue,Common,True,2
+Amlodipine,Flushing,Common,True,2
+Amlodipine,Hyperglycemia,Common,True,2
+Amlodipine,Insomnia,Common,True,2
+Amlodipine,Malaise,Common,True,2
+Amlodipine,Muscle Cramps,Common,True,2
+Amlodipine,Myalgia,Common,True,2
+Amlodipine,Nausea,Common,True,2
+Amlodipine,Nervousness,Common,True,2
+Amlodipine,Palpitations,Common,True,2
+Amlodipine,Pruritus,Common,True,2
+Amlodipine,Rash,Common,True,2
+Amlodipine,Sexual Dysfunction,Common,True,2
+Amlodipine,Somnolence,Common,True,2
+Amlodipine,Sweating,Common,True,2
+Amlodipine,Tachycardia,Common,True,2
+Amlodipine,Tinnitus,Common,True,2
+Amlodipine,Tremor,Common,True,2
+Amlodipine,Vertigo,Common,True,2
+Amlodipine,Vomiting,Common,True,2
+Amlodipine,Weight Gain,Common,True,2
+Amoxicillin,Agranulocytosis,Serious,True,1
+Amoxicillin,Anaphylaxis,Serious,True,1
+Amoxicillin,Hepatitis,Serious,True,1
+Amoxicillin,Hypersensitivity,Serious,True,1
+Amoxicillin,Jaundice,Serious,True,1
+Amoxicillin,Stevens-Johnson Syndrome,Serious,True,1
+Amoxicillin,Thrombocytopenia,Serious,True,1
+Amoxicillin,Toxic Epidermal Necrolysis,Serious,True,1
+Amoxicillin,Agitation,Common,True,2
+Amoxicillin,Anxiety,Common,True,2
+Amoxicillin,Confusion,Common,True,2
+Amoxicillin,Diarrhea,Common,True,2
+Amoxicillin,Dizziness,Common,True,2
+Amoxicillin,Headache,Common,True,2
+Amoxicillin,Insomnia,Common,True,2
+Amoxicillin,Nausea,Common,True,2
+Amoxicillin,Rash,Common,True,2
+Amoxicillin,Urticaria,Common,True,2
+Amoxicillin,Vomiting,Common,True,2
+Apixaban,Bleeding,Serious,True,1
+Apixaban,Embolism,Serious,True,1
+Apixaban,Hematoma,Serious,True,1
+Apixaban,Hemorrhage,Serious,True,1
+Apixaban,Hypersensitivity,Serious,True,1
+Apixaban,Intracranial Bleeding,Serious,True,1
+Apixaban,Stroke,Serious,True,1
+Apixaban,Thrombocytopenia,Serious,True,1
+Apixaban,Thrombosis,Serious,True,1
+Apixaban,Easy Bruising,Common,False,2
+Apixaban,Edema,Common,True,2
+Apixaban,Hypotension,Common,True,2
+Apixaban,Nausea,Common,True,2
+Apixaban,Rash,Common,True,2
+Aspirin,GI Bleeding,Serious,False,1
+Aspirin,Kidney Problems,Serious,False,1
+Aspirin,Ulcers,Serious,False,1
+Aspirin,GI Upset,Common,False,2
+Aspirin,Heartburn,Common,False,2
+Aspirin,Nausea,Common,False,2
+Atenolol,Agranulocytosis,Serious,True,1
+Atenolol,Arrhythmia,Serious,True,1
+Atenolol,Bradycardia,Serious,False,1
+Atenolol,Cardiac Arrest,Serious,True,1
+Atenolol,Hallucinations,Serious,True,1
+Atenolol,Myocardial Infarction,Serious,True,1
+Atenolol,Renal Failure,Serious,True,1
+Atenolol,Thrombocytopenia,Serious,True,1
+Atenolol,Thrombosis,Serious,True,1
+Atenolol,Cold Extremities,Common,False,2
+Atenolol,Depression,Common,True,2
+Atenolol,Diarrhea,Common,True,2
+Atenolol,Dizziness,Common,True,2
+Atenolol,Drowsiness,Common,True,2
+Atenolol,Dry Mouth,Common,True,2
+Atenolol,Dyspnea,Common,True,2
+Atenolol,Fatigue,Common,True,2
+Atenolol,Fever,Common,True,2
+Atenolol,Headache,Common,True,2
+Atenolol,Hypotension,Common,True,2
+Atenolol,Nausea,Common,True,2
+Atenolol,Rash,Common,True,2
+Atenolol,Tachycardia,Common,True,2
+Atenolol,Vertigo,Common,True,2
+Atenolol,Visual Disturbance,Common,True,2
+Atorvastatin,Anaphylaxis,Serious,True,1
+Atorvastatin,Hepatitis,Serious,True,1
+Atorvastatin,Jaundice,Serious,True,1
+Atorvastatin,Liver Problems,Serious,False,1
+Atorvastatin,Pancreatitis,Serious,True,1
+Atorvastatin,Rhabdomyolysis,Serious,True,1
+Atorvastatin,Stevens-Johnson Syndrome,Serious,True,1
+Atorvastatin,Stroke,Serious,True,1
+Atorvastatin,Toxic Epidermal Necrolysis,Serious,True,1
+Atorvastatin,Arthralgia,Common,True,2
+Atorvastatin,Confusion,Common,True,2
+Atorvastatin,Depression,Common,True,2
+Atorvastatin,Diarrhea,Common,True,2
+Atorvastatin,Dizziness,Common,True,2
+Atorvastatin,Dyspepsia,Common,True,2
+Atorvastatin,Edema,Common,True,2
+Atorvastatin,Fatigue,Common,True,2
+Atorvastatin,Headache,Common,False,2
+Atorvastatin,Hyperglycemia,Common,True,2
+Atorvastatin,Insomnia,Common,True,2
+Atorvastatin,Malaise,Common,True,2
+Atorvastatin,Muscle Pain,Common,False,2
+Atorvastatin,Myalgia,Common,True,2
+Atorvastatin,Nausea,Common,True,2
+Atorvastatin,Pharyngitis,Common,True,2
+Atorvastatin,Rash,Common,True,2
+Atorvastatin,Swelling,Common,True,2
+Atorvastatin,Tinnitus,Common,True,2
+Atorvastatin,Urticaria,Common,True,2
+Azithromycin,Anaphylaxis,Serious,True,1
+Azithromycin,Angioedema,Serious,True,1
+Azithromycin,Arrhythmia,Serious,True,1
+Azithromycin,Hepatitis,Serious,True,1
+Azithromycin,Hepatotoxicity,Serious,True,1
+Azithromycin,Hypersensitivity,Serious,True,1
+Azithromycin,Jaundice,Serious,True,1
+Azithromycin,Neutropenia,Serious,True,1
+Azithromycin,Pancreatitis,Serious,True,1
+Azithromycin,Renal Failure,Serious,True,1
+Azithromycin,Stevens-Johnson Syndrome,Serious,True,1
+Azithromycin,Thrombocytopenia,Serious,True,1
+Azithromycin,Toxic Epidermal Necrolysis,Serious,True,1
+Azithromycin,Abdominal Pain,Common,True,2
+Azithromycin,Agitation,Common,True,2
+Azithromycin,Anorexia,Common,True,2
+Azithromycin,Anxiety,Common,True,2
+Azithromycin,Arthralgia,Common,True,2
+Azithromycin,Constipation,Common,True,2
+Azithromycin,Diarrhea,Common,True,2
+Azithromycin,Dizziness,Common,True,2
+Azithromycin,Dyspepsia,Common,True,2
+Azithromycin,Dyspnea,Common,True,2
+Azithromycin,Edema,Common,True,2
+Azithromycin,Fatigue,Common,True,2
+Azithromycin,Headache,Common,True,2
+Azithromycin,Hypotension,Common,True,2
+Azithromycin,Malaise,Common,True,2
+Azithromycin,Nausea,Common,True,2
+Azithromycin,Nervousness,Common,True,2
+Azithromycin,Pruritus,Common,True,2
+Azithromycin,Rash,Common,True,2
+Azithromycin,Somnolence,Common,True,2
+Azithromycin,Tachycardia,Common,True,2
+Azithromycin,Tinnitus,Common,True,2
+Azithromycin,Urticaria,Common,True,2
+Azithromycin,Vertigo,Common,True,2
+Azithromycin,Vomiting,Common,True,2
+Baclofen,Arrhythmia,Serious,True,1
+Baclofen,Hallucinations,Serious,True,1
+Baclofen,Hemorrhage,Serious,True,1
+Baclofen,Kidney Failure,Serious,True,1
+Baclofen,Abdominal Pain,Common,True,2
+Baclofen,Agitation,Common,True,2
+Baclofen,Anorexia,Common,True,2
+Baclofen,Anxiety,Common,True,2
+Baclofen,Back Pain,Common,True,2
+Baclofen,Chest Pain,Common,True,2
+Baclofen,Chills,Common,True,2
+Baclofen,Confusion,Common,True,2
+Baclofen,Constipation,Common,True,2
+Baclofen,Decreased Libido,Common,True,2
+Baclofen,Depression,Common,True,2
+Baclofen,Diarrhea,Common,True,2
+Baclofen,Dizziness,Common,True,2
+Baclofen,Dry Mouth,Common,True,2
+Baclofen,Dyspepsia,Common,True,2
+Baclofen,Dyspnea,Common,True,2
+Baclofen,Edema,Common,True,2
+Baclofen,Erectile Dysfunction,Common,True,2
+Baclofen,Fever,Common,True,2
+Baclofen,Headache,Common,True,2
+Baclofen,Hyperglycemia,Common,True,2
+Baclofen,Hypertension,Common,True,2
+Baclofen,Hypotension,Common,True,2
+Baclofen,Insomnia,Common,True,2
+Baclofen,Itching,Common,True,2
+Baclofen,Malaise,Common,True,2
+Baclofen,Nausea,Common,True,2
+Baclofen,Palpitations,Common,True,2
+Baclofen,Pruritus,Common,True,2
+Baclofen,Rash,Common,True,2
+Baclofen,Sexual Dysfunction,Common,True,2
+Baclofen,Somnolence,Common,True,2
+Baclofen,Sweating,Common,True,2
+Baclofen,Tachycardia,Common,True,2
+Baclofen,Tinnitus,Common,True,2
+Baclofen,Tremor,Common,True,2
+Baclofen,Urinary Retention,Common,True,2
+Baclofen,Urticaria,Common,True,2
+Baclofen,Vomiting,Common,True,2
+Baclofen,Weight Loss,Common,True,2
+Budesonide,Anaphylaxis,Serious,True,1
+Budesonide,Angioedema,Serious,True,1
+Budesonide,Hyperglycemia,Serious,False,1
+Budesonide,Hypersensitivity,Serious,True,1
+Budesonide,Osteoporosis,Serious,False,1
+Budesonide,Abdominal Pain,Common,True,2
+Budesonide,Anxiety,Common,True,2
+Budesonide,Arthralgia,Common,True,2
+Budesonide,Back Pain,Common,True,2
+Budesonide,Cough,Common,True,2
+Budesonide,Depression,Common,True,2
+Budesonide,Dry Mouth,Common,True,2
+Budesonide,Dyspepsia,Common,True,2
+Budesonide,Edema,Common,True,2
+Budesonide,Fever,Common,True,2
+Budesonide,Headache,Common,True,2
+Budesonide,Increased Appetite,Common,False,2
+Budesonide,Insomnia,Common,True,2
+Budesonide,Irritability,Common,True,2
+Budesonide,Mood Changes,Common,False,2
+Budesonide,Myalgia,Common,True,2
+Budesonide,Nasal Congestion,Common,True,2
+Budesonide,Nausea,Common,True,2
+Budesonide,Nervousness,Common,True,2
+Budesonide,Pharyngitis,Common,True,2
+Budesonide,Rash,Common,True,2
+Budesonide,Urticaria,Common,True,2
+Budesonide,Vomiting,Common,True,2
+Budesonide,Weight Gain,Common,True,2
+Bupropion,Angioedema,Serious,True,1
+Bupropion,Arrhythmia,Serious,True,1
+Bupropion,Embolism,Serious,True,1
+Bupropion,Hemorrhage,Serious,True,1
+Bupropion,Hepatitis,Serious,True,1
+Bupropion,Hypersensitivity,Serious,True,1
+Bupropion,Jaundice,Serious,True,1
+Bupropion,Myocardial Infarction,Serious,True,1
+Bupropion,Pancreatitis,Serious,True,1
+Bupropion,Rhabdomyolysis,Serious,True,1
+Bupropion,Seizure,Serious,True,1
+Bupropion,Stroke,Serious,True,1
+Bupropion,Suicide Attempt,Serious,True,1
+Bupropion,Thrombocytopenia,Serious,True,1
+Bupropion,Abdominal Pain,Common,True,2
+Bupropion,Agitation,Common,True,2
+Bupropion,Anorexia,Common,True,2
+Bupropion,Anxiety,Common,True,2
+Bupropion,Arthralgia,Common,True,2
+Bupropion,Blurred Vision,Common,True,2
+Bupropion,Chest Pain,Common,True,2
+Bupropion,Chills,Common,True,2
+Bupropion,Confusion,Common,True,2
+Bupropion,Constipation,Common,True,2
+Bupropion,Cough,Common,True,2
+Bupropion,Decreased Libido,Common,True,2
+Bupropion,Diarrhea,Common,True,2
+Bupropion,Dizziness,Common,True,2
+Bupropion,Dry Mouth,Common,True,2
+Bupropion,Edema,Common,True,2
+Bupropion,Fever,Common,True,2
+Bupropion,Flushing,Common,True,2
+Bupropion,Headache,Common,True,2
+Bupropion,Hyperglycemia,Common,True,2
+Bupropion,Hypertension,Common,True,2
+Bupropion,Hypoglycemia,Common,True,2
+Bupropion,Hypotension,Common,True,2
+Bupropion,Insomnia,Common,True,2
+Bupropion,Irritability,Common,True,2
+Bupropion,Malaise,Common,True,2
+Bupropion,Muscle Weakness,Common,True,2
+Bupropion,Myalgia,Common,True,2
+Bupropion,Nausea,Common,True,2
+Bupropion,Nervousness,Common,True,2
+Bupropion,Pharyngitis,Common,True,2
+Bupropion,Pruritus,Common,True,2
+Bupropion,Rash,Common,True,2
+Bupropion,Sleep Disturbance,Common,True,2
+Bupropion,Somnolence,Common,True,2
+Bupropion,Sweating,Common,True,2
+Bupropion,Tinnitus,Common,True,2
+Bupropion,Tremor,Common,True,2
+Bupropion,Urinary Retention,Common,True,2
+Bupropion,Urticaria,Common,True,2
+Bupropion,Vertigo,Common,True,2
+Bupropion,Vomiting,Common,True,2
+Bupropion,Weakness,Common,True,2
+Bupropion,Weight Gain,Common,True,2
+Bupropion,Weight Loss,Common,True,2
+Carvedilol,Angioedema,Serious,True,1
+Carvedilol,Aplastic Anemia,Serious,True,1
+Carvedilol,Bleeding,Serious,True,1
+Carvedilol,Bradycardia,Serious,False,1
+Carvedilol,Hemorrhage,Serious,True,1
+Carvedilol,Hypersensitivity,Serious,True,1
+Carvedilol,Myocardial Infarction,Serious,True,1
+Carvedilol,Stevens-Johnson Syndrome,Serious,True,1
+Carvedilol,Thrombocytopenia,Serious,True,1
+Carvedilol,Toxic Epidermal Necrolysis,Serious,True,1
+Carvedilol,Arthralgia,Common,True,2
+Carvedilol,Blurred Vision,Common,True,2
+Carvedilol,Cold Extremities,Common,False,2
+Carvedilol,Cough,Common,True,2
+Carvedilol,Decreased Libido,Common,True,2
+Carvedilol,Depression,Common,True,2
+Carvedilol,Diarrhea,Common,True,2
+Carvedilol,Dizziness,Common,True,2
+Carvedilol,Dry Mouth,Common,True,2
+Carvedilol,Dyspnea,Common,True,2
+Carvedilol,Edema,Common,True,2
+Carvedilol,Fatigue,Common,True,2
+Carvedilol,Fever,Common,True,2
+Carvedilol,Headache,Common,True,2
+Carvedilol,Hyperglycemia,Common,True,2
+Carvedilol,Hypertension,Common,True,2
+Carvedilol,Hypoglycemia,Common,True,2
+Carvedilol,Hypotension,Common,True,2
+Carvedilol,Insomnia,Common,True,2
+Carvedilol,Malaise,Common,True,2
+Carvedilol,Muscle Cramps,Common,True,2
+Carvedilol,Nausea,Common,True,2
+Carvedilol,Nervousness,Common,True,2
+Carvedilol,Pruritus,Common,True,2
+Carvedilol,Rash,Common,True,2
+Carvedilol,Somnolence,Common,True,2
+Carvedilol,Sweating,Common,True,2
+Carvedilol,Tachycardia,Common,True,2
+Carvedilol,Tinnitus,Common,True,2
+Carvedilol,Urticaria,Common,True,2
+Carvedilol,Vertigo,Common,True,2
+Carvedilol,Vomiting,Common,True,2
+Carvedilol,Weight Loss,Common,True,2
+Cephalexin,Agranulocytosis,Serious,True,1
+Cephalexin,Aplastic Anemia,Serious,True,1
+Cephalexin,Hallucinations,Serious,True,1
+Cephalexin,Hemorrhage,Serious,True,1
+Cephalexin,Hepatitis,Serious,True,1
+Cephalexin,Hypersensitivity,Serious,True,1
+Cephalexin,Jaundice,Serious,True,1
+Cephalexin,Neutropenia,Serious,True,1
+Cephalexin,Seizure,Serious,True,1
+Cephalexin,Thrombocytopenia,Serious,True,1
+Cephalexin,Abdominal Pain,Common,True,2
+Cephalexin,Agitation,Common,True,2
+Cephalexin,Arthralgia,Common,True,2
+Cephalexin,Confusion,Common,True,2
+Cephalexin,Diarrhea,Common,True,2
+Cephalexin,Dizziness,Common,True,2
+Cephalexin,Dyspepsia,Common,True,2
+Cephalexin,Fatigue,Common,True,2
+Cephalexin,Fever,Common,True,2
+Cephalexin,Headache,Common,True,2
+Cephalexin,Nausea,Common,True,2
+Cephalexin,Pruritus,Common,True,2
+Cephalexin,Vomiting,Common,True,2
+Ciprofloxacin,Anaphylactic Shock,Serious,True,1
+Ciprofloxacin,Angioedema,Serious,True,1
+Ciprofloxacin,Arrhythmia,Serious,True,1
+Ciprofloxacin,Bleeding,Serious,True,1
+Ciprofloxacin,Gastrointestinal Bleeding,Serious,True,1
+Ciprofloxacin,Hallucinations,Serious,True,1
+Ciprofloxacin,Hepatitis,Serious,True,1
+Ciprofloxacin,Hepatotoxicity,Serious,True,1
+Ciprofloxacin,Hypersensitivity,Serious,True,1
+Ciprofloxacin,Jaundice,Serious,True,1
+Ciprofloxacin,Myocardial Infarction,Serious,True,1
+Ciprofloxacin,Pancreatitis,Serious,True,1
+Ciprofloxacin,Renal Failure,Serious,True,1
+Ciprofloxacin,Seizure,Serious,True,1
+Ciprofloxacin,Stevens-Johnson Syndrome,Serious,True,1
+Ciprofloxacin,Suicidal Ideation,Serious,True,1
+Ciprofloxacin,Toxic Epidermal Necrolysis,Serious,True,1
+Ciprofloxacin,Abdominal Pain,Common,True,2
+Ciprofloxacin,Agitation,Common,True,2
+Ciprofloxacin,Anorexia,Common,True,2
+Ciprofloxacin,Arthralgia,Common,True,2
+Ciprofloxacin,Back Pain,Common,True,2
+Ciprofloxacin,Blurred Vision,Common,True,2
+Ciprofloxacin,Confusion,Common,True,2
+Ciprofloxacin,Depression,Common,True,2
+Ciprofloxacin,Diarrhea,Common,True,2
+Ciprofloxacin,Dizziness,Common,True,2
+Ciprofloxacin,Dyspepsia,Common,True,2
+Ciprofloxacin,Dyspnea,Common,True,2
+Ciprofloxacin,Edema,Common,True,2
+Ciprofloxacin,Fever,Common,True,2
+Ciprofloxacin,Flushing,Common,True,2
+Ciprofloxacin,Headache,Common,True,2
+Ciprofloxacin,Hyperglycemia,Common,True,2
+Ciprofloxacin,Hypoglycemia,Common,True,2
+Ciprofloxacin,Hypotension,Common,True,2
+Ciprofloxacin,Insomnia,Common,True,2
+Ciprofloxacin,Irritability,Common,True,2
+Ciprofloxacin,Itching,Common,True,2
+Ciprofloxacin,Malaise,Common,True,2
+Ciprofloxacin,Muscle Weakness,Common,True,2
+Ciprofloxacin,Myalgia,Common,True,2
+Ciprofloxacin,Nausea,Common,True,2
+Ciprofloxacin,Nervousness,Common,True,2
+Ciprofloxacin,Pruritus,Common,True,2
+Ciprofloxacin,Rash,Common,True,2
+Ciprofloxacin,Somnolence,Common,True,2
+Ciprofloxacin,Sweating,Common,True,2
+Ciprofloxacin,Tachycardia,Common,True,2
+Ciprofloxacin,Tinnitus,Common,True,2
+Ciprofloxacin,Tremor,Common,True,2
+Ciprofloxacin,Urticaria,Common,True,2
+Ciprofloxacin,Vomiting,Common,True,2
+Ciprofloxacin,Weakness,Common,True,2
+Citalopram,Anaphylaxis,Serious,True,1
+Citalopram,Angioedema,Serious,True,1
+Citalopram,Arrhythmia,Serious,True,1
+Citalopram,Bleeding,Serious,True,1
+Citalopram,Cardiac Arrest,Serious,True,1
+Citalopram,Embolism,Serious,True,1
+Citalopram,Hemorrhage,Serious,True,1
+Citalopram,Hepatitis,Serious,True,1
+Citalopram,Hypersensitivity,Serious,True,1
+Citalopram,Jaundice,Serious,True,1
+Citalopram,Myocardial Infarction,Serious,True,1
+Citalopram,Pancreatitis,Serious,True,1
+Citalopram,Renal Failure,Serious,True,1
+Citalopram,Rhabdomyolysis,Serious,True,1
+Citalopram,Seizure,Serious,True,1
+Citalopram,Serotonin Syndrome,Serious,True,1
+Citalopram,Suicidal Ideation,Serious,False,1
+Citalopram,Suicide Attempt,Serious,True,1
+Citalopram,Thrombocytopenia,Serious,True,1
+Citalopram,Thrombosis,Serious,True,1
+Citalopram,Abdominal Pain,Common,True,2
+Citalopram,Agitation,Common,True,2
+Citalopram,Anorexia,Common,True,2
+Citalopram,Anxiety,Common,True,2
+Citalopram,Arthralgia,Common,True,2
+Citalopram,Back Pain,Common,True,2
+Citalopram,Confusion,Common,True,2
+Citalopram,Constipation,Common,True,2
+Citalopram,Cough,Common,True,2
+Citalopram,Decreased Libido,Common,True,2
+Citalopram,Depression,Common,True,2
+Citalopram,Diarrhea,Common,True,2
+Citalopram,Dizziness,Common,True,2
+Citalopram,Dry Mouth,Common,True,2
+Citalopram,Dyspepsia,Common,True,2
+Citalopram,Dyspnea,Common,True,2
+Citalopram,Edema,Common,True,2
+Citalopram,Fatigue,Common,True,2
+Citalopram,Fever,Common,True,2
+Citalopram,Flushing,Common,True,2
+Citalopram,Headache,Common,True,2
+Citalopram,Hypertension,Common,True,2
+Citalopram,Hypoglycemia,Common,True,2
+Citalopram,Hypotension,Common,True,2
+Citalopram,Insomnia,Common,True,2
+Citalopram,Muscle Weakness,Common,True,2
+Citalopram,Myalgia,Common,True,2
+Citalopram,Nausea,Common,True,2
+Citalopram,Nervousness,Common,True,2
+Citalopram,Pharyngitis,Common,True,2
+Citalopram,Pruritus,Common,True,2
+Citalopram,Rash,Common,True,2
+Citalopram,Sexual Dysfunction,Common,True,2
+Citalopram,Somnolence,Common,True,2
+Citalopram,Sweating,Common,True,2
+Citalopram,Tachycardia,Common,True,2
+Citalopram,Tinnitus,Common,True,2
+Citalopram,Tremor,Common,True,2
+Citalopram,Urinary Retention,Common,True,2
+Citalopram,Urticaria,Common,True,2
+Citalopram,Vertigo,Common,True,2
+Citalopram,Vomiting,Common,True,2
+Citalopram,Weakness,Common,True,2
+Citalopram,Weight Loss,Common,True,2
+Clindamycin,Agranulocytosis,Serious,True,1
+Clindamycin,Anaphylactic Shock,Serious,True,1
+Clindamycin,Angioedema,Serious,True,1
+Clindamycin,Hypersensitivity,Serious,True,1
+Clindamycin,Jaundice,Serious,True,1
+Clindamycin,Myocardial Infarction,Serious,True,1
+Clindamycin,Neutropenia,Serious,True,1
+Clindamycin,Stevens-Johnson Syndrome,Serious,True,1
+Clindamycin,Thrombocytopenia,Serious,True,1
+Clindamycin,Toxic Epidermal Necrolysis,Serious,True,1
+Clindamycin,Abdominal Pain,Common,True,2
+Clindamycin,Edema,Common,True,2
+Clindamycin,Hypotension,Common,True,2
+Clindamycin,Nausea,Common,True,2
+Clindamycin,Pruritus,Common,True,2
+Clindamycin,Rash,Common,True,2
+Clindamycin,Urticaria,Common,True,2
+Clindamycin,Vomiting,Common,True,2
+Clonazepam,Bleeding,Serious,True,1
+Clonazepam,Dependence,Serious,False,1
+Clonazepam,Hallucinations,Serious,True,1
+Clonazepam,Respiratory Depression,Serious,False,1
+Clonazepam,Seizure,Serious,True,1
+Clonazepam,Thrombocytopenia,Serious,True,1
+Clonazepam,Abdominal Pain,Common,True,2
+Clonazepam,Agitation,Common,True,2
+Clonazepam,Anorexia,Common,True,2
+Clonazepam,Anxiety,Common,True,2
+Clonazepam,Arthralgia,Common,True,2
+Clonazepam,Back Pain,Common,True,2
+Clonazepam,Blurred Vision,Common,True,2
+Clonazepam,Chest Pain,Common,True,2
+Clonazepam,Confusion,Common,True,2
+Clonazepam,Constipation,Common,True,2
+Clonazepam,Cough,Common,True,2
+Clonazepam,Depression,Common,True,2
+Clonazepam,Diarrhea,Common,True,2
+Clonazepam,Dizziness,Common,True,2
+Clonazepam,Drowsiness,Common,True,2
+Clonazepam,Dry Mouth,Common,True,2
+Clonazepam,Dyspepsia,Common,True,2
+Clonazepam,Dyspnea,Common,True,2
+Clonazepam,Edema,Common,True,2
+Clonazepam,Fatigue,Common,True,2
+Clonazepam,Fever,Common,True,2
+Clonazepam,Flushing,Common,True,2
+Clonazepam,Headache,Common,True,2
+Clonazepam,Hypotension,Common,True,2
+Clonazepam,Insomnia,Common,True,2
+Clonazepam,Irritability,Common,True,2
+Clonazepam,Itching,Common,True,2
+Clonazepam,Malaise,Common,True,2
+Clonazepam,Memory Problems,Common,False,2
+Clonazepam,Muscle Weakness,Common,True,2
+Clonazepam,Myalgia,Common,True,2
+Clonazepam,Nausea,Common,True,2
+Clonazepam,Nervousness,Common,True,2
+Clonazepam,Palpitations,Common,True,2
+Clonazepam,Pharyngitis,Common,True,2
+Clonazepam,Pruritus,Common,True,2
+Clonazepam,Rash,Common,True,2
+Clonazepam,Shortness Of Breath,Common,True,2
+Clonazepam,Sleep Disturbance,Common,True,2
+Clonazepam,Somnolence,Common,True,2
+Clonazepam,Swelling,Common,True,2
+Clonazepam,Tremor,Common,True,2
+Clonazepam,Urinary Retention,Common,True,2
+Clonazepam,Vertigo,Common,True,2
+Clonazepam,Visual Disturbance,Common,True,2
+Clonazepam,Weakness,Common,True,2
+Clonazepam,Weight Loss,Common,True,2
+Clopidogrel,Agranulocytosis,Serious,True,1
+Clopidogrel,Angioedema,Serious,True,1
+Clopidogrel,Aplastic Anemia,Serious,True,1
+Clopidogrel,Bleeding,Serious,True,1
+Clopidogrel,Hallucinations,Serious,True,1
+Clopidogrel,Hematoma,Serious,True,1
+Clopidogrel,Hemorrhage,Serious,True,1
+Clopidogrel,Hepatitis,Serious,True,1
+Clopidogrel,Hypersensitivity,Serious,True,1
+Clopidogrel,Liver Failure,Serious,True,1
+Clopidogrel,Pancreatitis,Serious,True,1
+Clopidogrel,Stevens-Johnson Syndrome,Serious,True,1
+Clopidogrel,Stroke,Serious,True,1
+Clopidogrel,Toxic Epidermal Necrolysis,Serious,True,1
+Clopidogrel,Arthralgia,Common,True,2
+Clopidogrel,Confusion,Common,True,2
+Clopidogrel,Diarrhea,Common,True,2
+Clopidogrel,Edema,Common,True,2
+Clopidogrel,Fever,Common,True,2
+Clopidogrel,Headache,Common,True,2
+Clopidogrel,Hypoglycemia,Common,True,2
+Clopidogrel,Hypotension,Common,True,2
+Clopidogrel,Myalgia,Common,True,2
+Clopidogrel,Pruritus,Common,True,2
+Clopidogrel,Rash,Common,True,2
+Clopidogrel,Urticaria,Common,True,2
+Cyclobenzaprine,Anaphylaxis,Serious,True,1
+Cyclobenzaprine,Angioedema,Serious,True,1
+Cyclobenzaprine,Arrhythmia,Serious,True,1
+Cyclobenzaprine,Hallucinations,Serious,True,1
+Cyclobenzaprine,Hepatitis,Serious,True,1
+Cyclobenzaprine,Hypersensitivity,Serious,True,1
+Cyclobenzaprine,Jaundice,Serious,True,1
+Cyclobenzaprine,Myocardial Infarction,Serious,True,1
+Cyclobenzaprine,Seizure,Serious,True,1
+Cyclobenzaprine,Serotonin Syndrome,Serious,True,1
+Cyclobenzaprine,Stroke,Serious,True,1
+Cyclobenzaprine,Thrombocytopenia,Serious,True,1
+Cyclobenzaprine,Abdominal Pain,Common,True,2
+Cyclobenzaprine,Agitation,Common,True,2
+Cyclobenzaprine,Anorexia,Common,True,2
+Cyclobenzaprine,Anxiety,Common,True,2
+Cyclobenzaprine,Blurred Vision,Common,True,2
+Cyclobenzaprine,Chest Pain,Common,True,2
+Cyclobenzaprine,Confusion,Common,True,2
+Cyclobenzaprine,Constipation,Common,True,2
+Cyclobenzaprine,Depression,Common,True,2
+Cyclobenzaprine,Diarrhea,Common,True,2
+Cyclobenzaprine,Dizziness,Common,True,2
+Cyclobenzaprine,Drowsiness,Common,True,2
+Cyclobenzaprine,Dry Mouth,Common,True,2
+Cyclobenzaprine,Dyspepsia,Common,True,2
+Cyclobenzaprine,Dyspnea,Common,True,2
+Cyclobenzaprine,Edema,Common,True,2
+Cyclobenzaprine,Fatigue,Common,True,2
+Cyclobenzaprine,Headache,Common,True,2
+Cyclobenzaprine,Hypertension,Common,True,2
+Cyclobenzaprine,Hypotension,Common,True,2
+Cyclobenzaprine,Insomnia,Common,True,2
+Cyclobenzaprine,Irritability,Common,True,2
+Cyclobenzaprine,Itching,Common,True,2
+Cyclobenzaprine,Malaise,Common,True,2
+Cyclobenzaprine,Myalgia,Common,True,2
+Cyclobenzaprine,Nausea,Common,True,2
+Cyclobenzaprine,Nervousness,Common,True,2
+Cyclobenzaprine,Pharyngitis,Common,True,2
+Cyclobenzaprine,Pruritus,Common,True,2
+Cyclobenzaprine,Rash,Common,True,2
+Cyclobenzaprine,Sweating,Common,True,2
+Cyclobenzaprine,Swelling,Common,True,2
+Cyclobenzaprine,Tachycardia,Common,True,2
+Cyclobenzaprine,Tinnitus,Common,True,2
+Cyclobenzaprine,Tremor,Common,True,2
+Cyclobenzaprine,Upper Respiratory Infection,Common,True,2
+Cyclobenzaprine,Urticaria,Common,True,2
+Cyclobenzaprine,Vertigo,Common,True,2
+Cyclobenzaprine,Vomiting,Common,True,2
+Cyclobenzaprine,Weakness,Common,True,2
+Cyclobenzaprine,Weight Gain,Common,True,2
+Dexamethasone,Anaphylaxis,Serious,True,1
+Dexamethasone,Angioedema,Serious,True,1
+Dexamethasone,Arrhythmia,Serious,True,1
+Dexamethasone,Cardiac Arrest,Serious,True,1
+Dexamethasone,Embolism,Serious,True,1
+Dexamethasone,Hemorrhage,Serious,True,1
+Dexamethasone,Myocardial Infarction,Serious,True,1
+Dexamethasone,Osteoporosis,Serious,False,1
+Dexamethasone,Pancreatitis,Serious,True,1
+Dexamethasone,Depression,Common,True,2
+Dexamethasone,Edema,Common,True,2
+Dexamethasone,Headache,Common,True,2
+Dexamethasone,Hyperglycemia,Common,True,2
+Dexamethasone,Hypertension,Common,True,2
+Dexamethasone,Increased Appetite,Common,False,2
+Dexamethasone,Insomnia,Common,True,2
+Dexamethasone,Malaise,Common,True,2
+Dexamethasone,Mood Changes,Common,False,2
+Dexamethasone,Muscle Weakness,Common,True,2
+Dexamethasone,Nausea,Common,True,2
+Dexamethasone,Rash,Common,True,2
+Dexamethasone,Sweating,Common,True,2
+Dexamethasone,Tachycardia,Common,True,2
+Dexamethasone,Urticaria,Common,True,2
+Dexamethasone,Vertigo,Common,True,2
+Dexamethasone,Weakness,Common,True,2
+Dexamethasone,Weight Gain,Common,True,2
+Diazepam,Dependence,Serious,False,1
+Diazepam,Hallucinations,Serious,True,1
+Diazepam,Jaundice,Serious,True,1
+Diazepam,Neutropenia,Serious,True,1
+Diazepam,Respiratory Depression,Serious,False,1
+Diazepam,Agitation,Common,True,2
+Diazepam,Anxiety,Common,True,2
+Diazepam,Blurred Vision,Common,True,2
+Diazepam,Confusion,Common,True,2
+Diazepam,Constipation,Common,True,2
+Diazepam,Depression,Common,True,2
+Diazepam,Dizziness,Common,True,2
+Diazepam,Drowsiness,Common,True,2
+Diazepam,Dry Mouth,Common,True,2
+Diazepam,Fatigue,Common,True,2
+Diazepam,Headache,Common,True,2
+Diazepam,Hypotension,Common,True,2
+Diazepam,Insomnia,Common,True,2
+Diazepam,Irritability,Common,True,2
+Diazepam,Memory Problems,Common,False,2
+Diazepam,Muscle Weakness,Common,True,2
+Diazepam,Nausea,Common,True,2
+Diazepam,Sleep Disturbance,Common,True,2
+Diazepam,Tremor,Common,True,2
+Diazepam,Urinary Retention,Common,True,2
+Diazepam,Vertigo,Common,True,2
+Diazepam,Weakness,Common,True,2
+Diclofenac,GI Bleeding,Serious,False,1
+Diclofenac,Kidney Problems,Serious,False,1
+Diclofenac,Ulcers,Serious,False,1
+Diclofenac,GI Upset,Common,False,2
+Diclofenac,Heartburn,Common,False,2
+Diclofenac,Nausea,Common,False,2
+Digoxin,Arrhythmia,Serious,True,1
+Digoxin,Thrombocytopenia,Serious,True,1
+Digoxin,Abdominal Pain,Common,True,2
+Digoxin,Anxiety,Common,True,2
+Digoxin,Confusion,Common,True,2
+Digoxin,Depression,Common,True,2
+Digoxin,Dizziness,Common,True,2
+Digoxin,Headache,Common,True,2
+Digoxin,Nausea,Common,True,2
+Digoxin,Rash,Common,True,2
+Digoxin,Vomiting,Common,True,2
+Digoxin,Weakness,Common,True,2
+Diltiazem,Angioedema,Serious,True,1
+Diltiazem,Bleeding,Serious,True,1
+Diltiazem,Hallucinations,Serious,True,1
+Diltiazem,Myocardial Infarction,Serious,True,1
+Diltiazem,Stevens-Johnson Syndrome,Serious,True,1
+Diltiazem,Thrombocytopenia,Serious,True,1
+Diltiazem,Toxic Epidermal Necrolysis,Serious,True,1
+Diltiazem,Anorexia,Common,True,2
+Diltiazem,Constipation,Common,True,2
+Diltiazem,Depression,Common,True,2
+Diltiazem,Diarrhea,Common,True,2
+Diltiazem,Dizziness,Common,True,2
+Diltiazem,Dry Mouth,Common,True,2
+Diltiazem,Dyspepsia,Common,True,2
+Diltiazem,Dyspnea,Common,True,2
+Diltiazem,Edema,Common,True,2
+Diltiazem,Headache,Common,True,2
+Diltiazem,Hyperglycemia,Common,True,2
+Diltiazem,Hypertension,Common,True,2
+Diltiazem,Insomnia,Common,True,2
+Diltiazem,Muscle Cramps,Common,True,2
+Diltiazem,Nasal Congestion,Common,True,2
+Diltiazem,Nervousness,Common,True,2
+Diltiazem,Palpitations,Common,True,2
+Diltiazem,Pruritus,Common,True,2
+Diltiazem,Rash,Common,True,2
+Diltiazem,Somnolence,Common,True,2
+Diltiazem,Tinnitus,Common,True,2
+Diltiazem,Tremor,Common,True,2
+Diltiazem,Urticaria,Common,True,2
+Diltiazem,Vomiting,Common,True,2
+Doxycycline,Anaphylaxis,Serious,True,1
+Doxycycline,Hepatotoxicity,Serious,True,1
+Doxycycline,Hypersensitivity,Serious,True,1
+Doxycycline,Neutropenia,Serious,True,1
+Doxycycline,Pancreatitis,Serious,True,1
+Doxycycline,Stevens-Johnson Syndrome,Serious,True,1
+Doxycycline,Thrombocytopenia,Serious,True,1
+Doxycycline,Toxic Epidermal Necrolysis,Serious,True,1
+Doxycycline,Anorexia,Common,True,2
+Doxycycline,Diarrhea,Common,True,2
+Doxycycline,Edema,Common,True,2
+Doxycycline,Hypertension,Common,True,2
+Doxycycline,Nausea,Common,True,2
+Doxycycline,Rash,Common,True,2
+Doxycycline,Urticaria,Common,True,2
+Doxycycline,Vomiting,Common,True,2
+Dulaglutide,Angioedema,Serious,True,1
+Dulaglutide,Hepatitis,Serious,True,1
+Dulaglutide,Hypersensitivity,Serious,True,1
+Dulaglutide,Pancreatitis,Serious,True,1
+Dulaglutide,Renal Failure,Serious,True,1
+Dulaglutide,Abdominal Pain,Common,True,2
+Dulaglutide,Constipation,Common,True,2
+Dulaglutide,Diarrhea,Common,True,2
+Dulaglutide,Dyspepsia,Common,True,2
+Dulaglutide,Edema,Common,True,2
+Dulaglutide,Fatigue,Common,True,2
+Dulaglutide,Hypoglycemia,Common,True,2
+Dulaglutide,Malaise,Common,True,2
+Dulaglutide,Nausea,Common,True,2
+Dulaglutide,Rash,Common,True,2
+Dulaglutide,Swelling,Common,True,2
+Dulaglutide,Tachycardia,Common,True,2
+Dulaglutide,Urticaria,Common,True,2
+Dulaglutide,Vomiting,Common,True,2
+Duloxetine,Arrhythmia,Serious,True,1
+Duloxetine,Bleeding,Serious,True,1
+Duloxetine,Hallucinations,Serious,True,1
+Duloxetine,Hemorrhage,Serious,True,1
+Duloxetine,Hepatotoxicity,Serious,True,1
+Duloxetine,Hypersensitivity,Serious,True,1
+Duloxetine,Myocardial Infarction,Serious,True,1
+Duloxetine,Pancreatitis,Serious,True,1
+Duloxetine,Seizure,Serious,True,1
+Duloxetine,Serotonin Syndrome,Serious,True,1
+Duloxetine,Suicide Attempt,Serious,True,1
+Duloxetine,Abdominal Pain,Common,True,2
+Duloxetine,Agitation,Common,True,2
+Duloxetine,Anxiety,Common,True,2
+Duloxetine,Back Pain,Common,True,2
+Duloxetine,Chills,Common,True,2
+Duloxetine,Confusion,Common,True,2
+Duloxetine,Constipation,Common,True,2
+Duloxetine,Cough,Common,True,2
+Duloxetine,Diarrhea,Common,True,2
+Duloxetine,Dizziness,Common,True,2
+Duloxetine,Dry Mouth,Common,True,2
+Duloxetine,Dyspepsia,Common,True,2
+Duloxetine,Edema,Common,True,2
+Duloxetine,Erectile Dysfunction,Common,True,2
+Duloxetine,Fatigue,Common,True,2
+Duloxetine,Flushing,Common,True,2
+Duloxetine,Headache,Common,True,2
+Duloxetine,Hyperglycemia,Common,True,2
+Duloxetine,Hypertension,Common,True,2
+Duloxetine,Hypotension,Common,True,2
+Duloxetine,Insomnia,Common,True,2
+Duloxetine,Irritability,Common,True,2
+Duloxetine,Itching,Common,True,2
+Duloxetine,Malaise,Common,True,2
+Duloxetine,Myalgia,Common,True,2
+Duloxetine,Nausea,Common,True,2
+Duloxetine,Nervousness,Common,True,2
+Duloxetine,Palpitations,Common,True,2
+Duloxetine,Pharyngitis,Common,True,2
+Duloxetine,Pruritus,Common,True,2
+Duloxetine,Rash,Common,True,2
+Duloxetine,Sedation,Common,True,2
+Duloxetine,Sexual Dysfunction,Common,True,2
+Duloxetine,Somnolence,Common,True,2
+Duloxetine,Tachycardia,Common,True,2
+Duloxetine,Tinnitus,Common,True,2
+Duloxetine,Tremor,Common,True,2
+Duloxetine,Urticaria,Common,True,2
+Duloxetine,Vertigo,Common,True,2
+Duloxetine,Vomiting,Common,True,2
+Duloxetine,Weight Gain,Common,True,2
+Duloxetine,Weight Loss,Common,True,2
+Empagliflozin,Angioedema,Serious,True,1
+Empagliflozin,Hypersensitivity,Serious,True,1
+Empagliflozin,Arthralgia,Common,True,2
+Empagliflozin,Constipation,Common,True,2
+Empagliflozin,Edema,Common,True,2
+Empagliflozin,Hypoglycemia,Common,True,2
+Empagliflozin,Hypotension,Common,True,2
+Empagliflozin,Nausea,Common,True,2
+Empagliflozin,Rash,Common,True,2
+Empagliflozin,Urticaria,Common,True,2
+Escitalopram,Anaphylaxis,Serious,True,1
+Escitalopram,Angioedema,Serious,True,1
+Escitalopram,Aplastic Anemia,Serious,True,1
+Escitalopram,Arrhythmia,Serious,True,1
+Escitalopram,Bleeding,Serious,True,1
+Escitalopram,Embolism,Serious,True,1
+Escitalopram,Hallucinations,Serious,True,1
+Escitalopram,Hemorrhage,Serious,True,1
+Escitalopram,Hepatitis,Serious,True,1
+Escitalopram,Myocardial Infarction,Serious,True,1
+Escitalopram,Pancreatitis,Serious,True,1
+Escitalopram,Renal Failure,Serious,True,1
+Escitalopram,Rhabdomyolysis,Serious,True,1
+Escitalopram,Seizure,Serious,True,1
+Escitalopram,Serotonin Syndrome,Serious,True,1
+Escitalopram,Suicidal Ideation,Serious,True,1
+Escitalopram,Suicide Attempt,Serious,True,1
+Escitalopram,Thrombocytopenia,Serious,True,1
+Escitalopram,Thrombosis,Serious,True,1
+Escitalopram,Toxic Epidermal Necrolysis,Serious,True,1
+Escitalopram,Abdominal Pain,Common,True,2
+Escitalopram,Agitation,Common,True,2
+Escitalopram,Anxiety,Common,True,2
+Escitalopram,Arthralgia,Common,True,2
+Escitalopram,Back Pain,Common,True,2
+Escitalopram,Chest Pain,Common,True,2
+Escitalopram,Confusion,Common,True,2
+Escitalopram,Constipation,Common,True,2
+Escitalopram,Cough,Common,True,2
+Escitalopram,Decreased Libido,Common,True,2
+Escitalopram,Depression,Common,True,2
+Escitalopram,Diarrhea,Common,True,2
+Escitalopram,Dizziness,Common,True,2
+Escitalopram,Dry Mouth,Common,True,2
+Escitalopram,Dyspnea,Common,True,2
+Escitalopram,Edema,Common,True,2
+Escitalopram,Fatigue,Common,True,2
+Escitalopram,Fever,Common,True,2
+Escitalopram,Flushing,Common,True,2
+Escitalopram,Headache,Common,True,2
+Escitalopram,Heartburn,Common,True,2
+Escitalopram,Hyperglycemia,Common,True,2
+Escitalopram,Hypertension,Common,True,2
+Escitalopram,Hypoglycemia,Common,True,2
+Escitalopram,Hypotension,Common,True,2
+Escitalopram,Indigestion,Common,True,2
+Escitalopram,Insomnia,Common,True,2
+Escitalopram,Irritability,Common,True,2
+Escitalopram,Malaise,Common,True,2
+Escitalopram,Muscle Weakness,Common,True,2
+Escitalopram,Myalgia,Common,True,2
+Escitalopram,Nasal Congestion,Common,True,2
+Escitalopram,Nausea,Common,True,2
+Escitalopram,Nervousness,Common,True,2
+Escitalopram,Pharyngitis,Common,True,2
+Escitalopram,Rash,Common,True,2
+Escitalopram,Sexual Dysfunction,Common,True,2
+Escitalopram,Somnolence,Common,True,2
+Escitalopram,Sweating,Common,True,2
+Escitalopram,Tachycardia,Common,True,2
+Escitalopram,Tinnitus,Common,True,2
+Escitalopram,Tremor,Common,True,2
+Escitalopram,Urinary Retention,Common,True,2
+Escitalopram,Urticaria,Common,True,2
+Escitalopram,Vertigo,Common,True,2
+Escitalopram,Visual Disturbance,Common,True,2
+Escitalopram,Vomiting,Common,True,2
+Escitalopram,Weakness,Common,True,2
+Esomeprazole,Vitamin B12 Deficiency,Serious,False,1
+Esomeprazole,Abdominal Pain,Common,False,2
+Esomeprazole,Diarrhea,Common,False,2
+Esomeprazole,Headache,Common,False,2
+Esomeprazole,Nausea,Common,False,2
+Finasteride,Angioedema,Serious,True,1
+Finasteride,Hypersensitivity,Serious,True,1
+Finasteride,Suicidal Ideation,Serious,True,1
+Finasteride,Decreased Libido,Common,True,2
+Finasteride,Depression,Common,True,2
+Finasteride,Dizziness,Common,True,2
+Finasteride,Dyspnea,Common,True,2
+Finasteride,Edema,Common,True,2
+Finasteride,Erectile Dysfunction,Common,True,2
+Finasteride,Headache,Common,True,2
+Finasteride,Hypotension,Common,True,2
+Finasteride,Pruritus,Common,True,2
+Finasteride,Rash,Common,True,2
+Finasteride,Sexual Dysfunction,Common,True,2
+Finasteride,Somnolence,Common,True,2
+Finasteride,Swelling,Common,True,2
+Finasteride,Urticaria,Common,True,2
+Fish Oil,Constipation,Common,True,2
+Fish Oil,Dyspepsia,Common,True,2
+Fish Oil,Pruritus,Common,True,2
+Fish Oil,Rash,Common,True,2
+Fish Oil,Urticaria,Common,True,2
+Fish Oil,Vomiting,Common,True,2
+Fluoxetine,Aplastic Anemia,Serious,True,1
+Fluoxetine,Arrhythmia,Serious,True,1
+Fluoxetine,Bleeding,Serious,True,1
+Fluoxetine,Embolism,Serious,True,1
+Fluoxetine,Hemorrhage,Serious,True,1
+Fluoxetine,Hepatitis,Serious,True,1
+Fluoxetine,Jaundice,Serious,True,1
+Fluoxetine,Kidney Failure,Serious,True,1
+Fluoxetine,Pancreatitis,Serious,True,1
+Fluoxetine,Seizure,Serious,True,1
+Fluoxetine,Serotonin Syndrome,Serious,True,1
+Fluoxetine,Stevens-Johnson Syndrome,Serious,True,1
+Fluoxetine,Suicidal Ideation,Serious,False,1
+Fluoxetine,Suicide Attempt,Serious,True,1
+Fluoxetine,Thrombocytopenia,Serious,True,1
+Fluoxetine,Agitation,Common,True,2
+Fluoxetine,Anorexia,Common,True,2
+Fluoxetine,Anxiety,Common,True,2
+Fluoxetine,Chills,Common,True,2
+Fluoxetine,Constipation,Common,True,2
+Fluoxetine,Decreased Libido,Common,True,2
+Fluoxetine,Diarrhea,Common,True,2
+Fluoxetine,Dizziness,Common,True,2
+Fluoxetine,Dry Mouth,Common,True,2
+Fluoxetine,Dyspepsia,Common,True,2
+Fluoxetine,Edema,Common,True,2
+Fluoxetine,Fever,Common,True,2
+Fluoxetine,Headache,Common,True,2
+Fluoxetine,Hypertension,Common,True,2
+Fluoxetine,Hypoglycemia,Common,True,2
+Fluoxetine,Hypotension,Common,True,2
+Fluoxetine,Insomnia,Common,True,2
+Fluoxetine,Nausea,Common,True,2
+Fluoxetine,Nervousness,Common,True,2
+Fluoxetine,Pharyngitis,Common,True,2
+Fluoxetine,Pruritus,Common,True,2
+Fluoxetine,Rash,Common,True,2
+Fluoxetine,Sexual Dysfunction,Common,True,2
+Fluoxetine,Somnolence,Common,True,2
+Fluoxetine,Sweating,Common,True,2
+Fluoxetine,Tachycardia,Common,True,2
+Fluoxetine,Tremor,Common,True,2
+Fluoxetine,Vomiting,Common,True,2
+Fluoxetine,Weight Loss,Common,True,2
+Fluticasone,Anaphylaxis,Serious,True,1
+Fluticasone,Angioedema,Serious,True,1
+Fluticasone,Hematoma,Serious,True,1
+Fluticasone,Hypersensitivity,Serious,True,1
+Fluticasone,Osteoporosis,Serious,False,1
+Fluticasone,Agitation,Common,True,2
+Fluticasone,Anxiety,Common,True,2
+Fluticasone,Arthralgia,Common,True,2
+Fluticasone,Cough,Common,True,2
+Fluticasone,Depression,Common,True,2
+Fluticasone,Dizziness,Common,True,2
+Fluticasone,Dyspnea,Common,True,2
+Fluticasone,Edema,Common,True,2
+Fluticasone,Fatigue,Common,True,2
+Fluticasone,Fever,Common,True,2
+Fluticasone,Headache,Common,True,2
+Fluticasone,Hyperglycemia,Common,True,2
+Fluticasone,Increased Appetite,Common,False,2
+Fluticasone,Insomnia,Common,False,2
+Fluticasone,Irritability,Common,True,2
+Fluticasone,Malaise,Common,True,2
+Fluticasone,Mood Changes,Common,False,2
+Fluticasone,Muscle Cramps,Common,True,2
+Fluticasone,Muscle Pain,Common,True,2
+Fluticasone,Nasal Congestion,Common,True,2
+Fluticasone,Nausea,Common,True,2
+Fluticasone,Palpitations,Common,True,2
+Fluticasone,Pruritus,Common,True,2
+Fluticasone,Rash,Common,True,2
+Fluticasone,Swelling,Common,True,2
+Fluticasone,Vomiting,Common,True,2
+Fluticasone,Weight Gain,Common,True,2
+Folic Acid,Anorexia,Common,True,2
+Folic Acid,Constipation,Common,True,2
+Folic Acid,Diarrhea,Common,True,2
+Folic Acid,Heartburn,Common,True,2
+Folic Acid,Nausea,Common,True,2
+Folic Acid,Vomiting,Common,True,2
+Furosemide,Agranulocytosis,Serious,True,1
+Furosemide,Aplastic Anemia,Serious,True,1
+Furosemide,Electrolyte Imbalance,Serious,False,1
+Furosemide,Hypersensitivity,Serious,True,1
+Furosemide,Jaundice,Serious,True,1
+Furosemide,Pancreatitis,Serious,True,1
+Furosemide,Stevens-Johnson Syndrome,Serious,True,1
+Furosemide,Thrombocytopenia,Serious,True,1
+Furosemide,Toxic Epidermal Necrolysis,Serious,True,1
+Furosemide,Anorexia,Common,True,2
+Furosemide,Blurred Vision,Common,True,2
+Furosemide,Constipation,Common,True,2
+Furosemide,Dehydration,Common,False,2
+Furosemide,Diarrhea,Common,True,2
+Furosemide,Dizziness,Common,True,2
+Furosemide,Fever,Common,True,2
+Furosemide,Headache,Common,True,2
+Furosemide,Hyperglycemia,Common,True,2
+Furosemide,Hypotension,Common,True,2
+Furosemide,Increased Urination,Common,False,2
+Furosemide,Nausea,Common,True,2
+Furosemide,Rash,Common,True,2
+Furosemide,Tinnitus,Common,True,2
+Furosemide,Urticaria,Common,True,2
+Furosemide,Vertigo,Common,True,2
+Furosemide,Vomiting,Common,True,2
+Furosemide,Weakness,Common,True,2
+Gabapentin,Anaphylaxis,Serious,True,1
+Gabapentin,Angioedema,Serious,True,1
+Gabapentin,Hypersensitivity,Serious,True,1
+Gabapentin,Jaundice,Serious,True,1
+Gabapentin,Rhabdomyolysis,Serious,True,1
+Gabapentin,Seizure,Serious,True,1
+Gabapentin,Stevens-Johnson Syndrome,Serious,True,1
+Gabapentin,Suicidal Ideation,Serious,True,1
+Gabapentin,Agitation,Common,True,2
+Gabapentin,Anorexia,Common,True,2
+Gabapentin,Anxiety,Common,True,2
+Gabapentin,Back Pain,Common,True,2
+Gabapentin,Blurred Vision,Common,True,2
+Gabapentin,Confusion,Common,True,2
+Gabapentin,Constipation,Common,True,2
+Gabapentin,Cough,Common,True,2
+Gabapentin,Depression,Common,True,2
+Gabapentin,Diarrhea,Common,True,2
+Gabapentin,Dizziness,Common,True,2
+Gabapentin,Dry Mouth,Common,True,2
+Gabapentin,Dyspepsia,Common,True,2
+Gabapentin,Dyspnea,Common,True,2
+Gabapentin,Edema,Common,True,2
+Gabapentin,Fatigue,Common,True,2
+Gabapentin,Fever,Common,True,2
+Gabapentin,Headache,Common,True,2
+Gabapentin,Hyperglycemia,Common,True,2
+Gabapentin,Insomnia,Common,True,2
+Gabapentin,Malaise,Common,True,2
+Gabapentin,Nausea,Common,True,2
+Gabapentin,Pharyngitis,Common,True,2
+Gabapentin,Sedation,Common,True,2
+Gabapentin,Somnolence,Common,True,2
+Gabapentin,Sweating,Common,True,2
+Gabapentin,Tremor,Common,True,2
+Gabapentin,Upper Respiratory Infection,Common,True,2
+Gabapentin,Vomiting,Common,True,2
+Gabapentin,Weight Gain,Common,True,2
+Glipizide,Agranulocytosis,Serious,True,1
+Glipizide,Aplastic Anemia,Serious,True,1
+Glipizide,Bleeding,Serious,True,1
+Glipizide,Gastrointestinal Bleeding,Serious,True,1
+Glipizide,Jaundice,Serious,True,1
+Glipizide,Thrombocytopenia,Serious,True,1
+Glipizide,Abdominal Pain,Common,True,2
+Glipizide,Constipation,Common,True,2
+Glipizide,Diarrhea,Common,True,2
+Glipizide,Dizziness,Common,True,2
+Glipizide,Dyspepsia,Common,True,2
+Glipizide,Hypoglycemia,Common,True,2
+Glipizide,Nausea,Common,True,2
+Glipizide,Nervousness,Common,True,2
+Glipizide,Rash,Common,True,2
+Glipizide,Tremor,Common,True,2
+Glipizide,Urticaria,Common,True,2
+Glipizide,Vomiting,Common,True,2
+Glyburide,Agranulocytosis,Serious,True,1
+Glyburide,Angioedema,Serious,True,1
+Glyburide,Aplastic Anemia,Serious,True,1
+Glyburide,Hepatitis,Serious,True,1
+Glyburide,Jaundice,Serious,True,1
+Glyburide,Liver Failure,Serious,True,1
+Glyburide,Thrombocytopenia,Serious,True,1
+Glyburide,Arthralgia,Common,True,2
+Glyburide,Blurred Vision,Common,True,2
+Glyburide,Edema,Common,True,2
+Glyburide,Heartburn,Common,True,2
+Glyburide,Hypoglycemia,Common,True,2
+Glyburide,Myalgia,Common,True,2
+Glyburide,Nausea,Common,True,2
+Glyburide,Pruritus,Common,True,2
+Glyburide,Urticaria,Common,True,2
+Hydrochlorothiazide,Agranulocytosis,Serious,True,1
+Hydrochlorothiazide,Angioedema,Serious,True,1
+Hydrochlorothiazide,Aplastic Anemia,Serious,True,1
+Hydrochlorothiazide,Arrhythmia,Serious,True,1
+Hydrochlorothiazide,Cardiac Arrest,Serious,True,1
+Hydrochlorothiazide,Electrolyte Imbalance,Serious,False,1
+Hydrochlorothiazide,Embolism,Serious,True,1
+Hydrochlorothiazide,Hallucinations,Serious,True,1
+Hydrochlorothiazide,Hepatitis,Serious,True,1
+Hydrochlorothiazide,Hypersensitivity,Serious,True,1
+Hydrochlorothiazide,Jaundice,Serious,True,1
+Hydrochlorothiazide,Myocardial Infarction,Serious,True,1
+Hydrochlorothiazide,Neutropenia,Serious,True,1
+Hydrochlorothiazide,Pancreatitis,Serious,True,1
+Hydrochlorothiazide,Renal Failure,Serious,True,1
+Hydrochlorothiazide,Stevens-Johnson Syndrome,Serious,True,1
+Hydrochlorothiazide,Stroke,Serious,True,1
+Hydrochlorothiazide,Thrombocytopenia,Serious,True,1
+Hydrochlorothiazide,Toxic Epidermal Necrolysis,Serious,True,1
+Hydrochlorothiazide,Abdominal Pain,Common,True,2
+Hydrochlorothiazide,Anorexia,Common,True,2
+Hydrochlorothiazide,Arthralgia,Common,True,2
+Hydrochlorothiazide,Back Pain,Common,True,2
+Hydrochlorothiazide,Blurred Vision,Common,True,2
+Hydrochlorothiazide,Chest Pain,Common,True,2
+Hydrochlorothiazide,Chills,Common,True,2
+Hydrochlorothiazide,Confusion,Common,True,2
+Hydrochlorothiazide,Constipation,Common,True,2
+Hydrochlorothiazide,Cough,Common,True,2
+Hydrochlorothiazide,Decreased Libido,Common,True,2
+Hydrochlorothiazide,Dehydration,Common,False,2
+Hydrochlorothiazide,Depression,Common,True,2
+Hydrochlorothiazide,Diarrhea,Common,True,2
+Hydrochlorothiazide,Dizziness,Common,True,2
+Hydrochlorothiazide,Dry Mouth,Common,True,2
+Hydrochlorothiazide,Dyspepsia,Common,True,2
+Hydrochlorothiazide,Dyspnea,Common,True,2
+Hydrochlorothiazide,Edema,Common,True,2
+Hydrochlorothiazide,Fatigue,Common,True,2
+Hydrochlorothiazide,Fever,Common,True,2
+Hydrochlorothiazide,Flushing,Common,True,2
+Hydrochlorothiazide,Headache,Common,True,2
+Hydrochlorothiazide,Heartburn,Common,True,2
+Hydrochlorothiazide,Hypertension,Common,True,2
+Hydrochlorothiazide,Hypotension,Common,True,2
+Hydrochlorothiazide,Increased Urination,Common,False,2
+Hydrochlorothiazide,Insomnia,Common,True,2
+Hydrochlorothiazide,Irritability,Common,True,2
+Hydrochlorothiazide,Joint Pain,Common,True,2
+Hydrochlorothiazide,Malaise,Common,True,2
+Hydrochlorothiazide,Muscle Cramps,Common,True,2
+Hydrochlorothiazide,Myalgia,Common,True,2
+Hydrochlorothiazide,Nasal Congestion,Common,True,2
+Hydrochlorothiazide,Nausea,Common,True,2
+Hydrochlorothiazide,Nervousness,Common,True,2
+Hydrochlorothiazide,Pharyngitis,Common,True,2
+Hydrochlorothiazide,Pruritus,Common,True,2
+Hydrochlorothiazide,Rash,Common,True,2
+Hydrochlorothiazide,Somnolence,Common,True,2
+Hydrochlorothiazide,Tachycardia,Common,True,2
+Hydrochlorothiazide,Taste Disturbance,Common,True,2
+Hydrochlorothiazide,Tinnitus,Common,True,2
+Hydrochlorothiazide,Tremor,Common,True,2
+Hydrochlorothiazide,Upper Respiratory Infection,Common,True,2
+Hydrochlorothiazide,Urticaria,Common,True,2
+Hydrochlorothiazide,Vertigo,Common,True,2
+Hydrochlorothiazide,Vomiting,Common,True,2
+Hydrochlorothiazide,Weakness,Common,True,2
+Hydrochlorothiazide,Weight Gain,Common,True,2
+Hydrochlorothiazide,Weight Loss,Common,True,2
+Ibuprofen,GI Bleeding,Serious,False,1
+Ibuprofen,Kidney Problems,Serious,False,1
+Ibuprofen,Ulcers,Serious,False,1
+Ibuprofen,GI Upset,Common,False,2
+Ibuprofen,Heartburn,Common,False,2
+Ibuprofen,Nausea,Common,False,2
+Insulin Aspart,Anaphylaxis,Serious,True,1
+Insulin Aspart,Hypersensitivity,Serious,True,1
+Insulin Aspart,Abdominal Pain,Common,True,2
+Insulin Aspart,Chest Pain,Common,True,2
+Insulin Aspart,Depression,Common,True,2
+Insulin Aspart,Diarrhea,Common,True,2
+Insulin Aspart,Edema,Common,True,2
+Insulin Aspart,Headache,Common,True,2
+Insulin Aspart,Hyperglycemia,Common,True,2
+Insulin Aspart,Hypoglycemia,Common,True,2
+Insulin Aspart,Nausea,Common,True,2
+Insulin Aspart,Pruritus,Common,True,2
+Insulin Aspart,Rash,Common,True,2
+Insulin Aspart,Weight Gain,Common,True,2
+Insulin Glargine,Anaphylaxis,Serious,True,1
+Insulin Glargine,Angioedema,Serious,True,1
+Insulin Glargine,Hypersensitivity,Serious,True,1
+Insulin Glargine,Arthralgia,Common,True,2
+Insulin Glargine,Back Pain,Common,True,2
+Insulin Glargine,Cough,Common,True,2
+Insulin Glargine,Depression,Common,True,2
+Insulin Glargine,Diarrhea,Common,True,2
+Insulin Glargine,Edema,Common,True,2
+Insulin Glargine,Headache,Common,True,2
+Insulin Glargine,Hyperglycemia,Common,True,2
+Insulin Glargine,Hypertension,Common,True,2
+Insulin Glargine,Hypoglycemia,Common,True,2
+Insulin Glargine,Hypotension,Common,True,2
+Insulin Glargine,Itching,Common,True,2
+Insulin Glargine,Pharyngitis,Common,True,2
+Insulin Glargine,Pruritus,Common,True,2
+Insulin Glargine,Rash,Common,True,2
+Insulin Glargine,Urticaria,Common,True,2
+Insulin Glargine,Weight Gain,Common,True,2
+Lansoprazole,Vitamin B12 Deficiency,Serious,False,1
+Lansoprazole,Abdominal Pain,Common,False,2
+Lansoprazole,Diarrhea,Common,False,2
+Lansoprazole,Headache,Common,False,2
+Lansoprazole,Nausea,Common,False,2
+Levofloxacin,Anaphylactic Shock,Serious,True,1
+Levofloxacin,Aplastic Anemia,Serious,True,1
+Levofloxacin,Arrhythmia,Serious,True,1
+Levofloxacin,Cardiac Arrest,Serious,True,1
+Levofloxacin,Hepatitis,Serious,True,1
+Levofloxacin,Hepatotoxicity,Serious,True,1
+Levofloxacin,Hypersensitivity,Serious,True,1
+Levofloxacin,Jaundice,Serious,True,1
+Levofloxacin,Pancreatitis,Serious,True,1
+Levofloxacin,Renal Failure,Serious,True,1
+Levofloxacin,Rhabdomyolysis,Serious,True,1
+Levofloxacin,Stevens-Johnson Syndrome,Serious,True,1
+Levofloxacin,Suicidal Ideation,Serious,True,1
+Levofloxacin,Suicide Attempt,Serious,True,1
+Levofloxacin,Thrombocytopenia,Serious,True,1
+Levofloxacin,Toxic Epidermal Necrolysis,Serious,True,1
+Levofloxacin,Abdominal Pain,Common,True,2
+Levofloxacin,Agitation,Common,True,2
+Levofloxacin,Anorexia,Common,True,2
+Levofloxacin,Anxiety,Common,True,2
+Levofloxacin,Arthralgia,Common,True,2
+Levofloxacin,Chest Pain,Common,True,2
+Levofloxacin,Confusion,Common,True,2
+Levofloxacin,Constipation,Common,True,2
+Levofloxacin,Depression,Common,True,2
+Levofloxacin,Diarrhea,Common,True,2
+Levofloxacin,Dizziness,Common,True,2
+Levofloxacin,Dyspepsia,Common,True,2
+Levofloxacin,Dyspnea,Common,True,2
+Levofloxacin,Edema,Common,True,2
+Levofloxacin,Headache,Common,True,2
+Levofloxacin,Hyperglycemia,Common,True,2
+Levofloxacin,Hypoglycemia,Common,True,2
+Levofloxacin,Insomnia,Common,True,2
+Levofloxacin,Myalgia,Common,True,2
+Levofloxacin,Nausea,Common,True,2
+Levofloxacin,Pruritus,Common,True,2
+Levofloxacin,Rash,Common,True,2
+Levofloxacin,Somnolence,Common,True,2
+Levofloxacin,Tachycardia,Common,True,2
+Levofloxacin,Tinnitus,Common,True,2
+Levofloxacin,Tremor,Common,True,2
+Levofloxacin,Urticaria,Common,True,2
+Levofloxacin,Vertigo,Common,True,2
+Levofloxacin,Vomiting,Common,True,2
+Levothyroxine,Angioedema,Serious,True,1
+Levothyroxine,Arrhythmia,Serious,True,1
+Levothyroxine,Cardiac Arrest,Serious,True,1
+Levothyroxine,Hypersensitivity,Serious,True,1
+Levothyroxine,Myocardial Infarction,Serious,True,1
+Levothyroxine,Seizure,Serious,True,1
+Levothyroxine,Abdominal Pain,Common,True,2
+Levothyroxine,Anxiety,Common,True,2
+Levothyroxine,Arthralgia,Common,True,2
+Levothyroxine,Diarrhea,Common,True,2
+Levothyroxine,Dyspnea,Common,True,2
+Levothyroxine,Edema,Common,True,2
+Levothyroxine,Fatigue,Common,True,2
+Levothyroxine,Fever,Common,True,2
+Levothyroxine,Flushing,Common,True,2
+Levothyroxine,Headache,Common,True,2
+Levothyroxine,Insomnia,Common,True,2
+Levothyroxine,Irritability,Common,True,2
+Levothyroxine,Muscle Weakness,Common,True,2
+Levothyroxine,Nausea,Common,True,2
+Levothyroxine,Nervousness,Common,True,2
+Levothyroxine,Palpitations,Common,True,2
+Levothyroxine,Pruritus,Common,True,2
+Levothyroxine,Rash,Common,True,2
+Levothyroxine,Sweating,Common,True,2
+Levothyroxine,Tachycardia,Common,True,2
+Levothyroxine,Tremor,Common,True,2
+Levothyroxine,Urticaria,Common,True,2
+Levothyroxine,Vomiting,Common,True,2
+Levothyroxine,Weakness,Common,True,2
+Levothyroxine,Weight Loss,Common,True,2
+Lisinopril,Angioedema,Serious,False,1
+Lisinopril,Hallucinations,Serious,True,1
+Lisinopril,Hyperkalemia,Serious,False,1
+Lisinopril,Myocardial Infarction,Serious,True,1
+Lisinopril,Neutropenia,Serious,True,1
+Lisinopril,Pancreatitis,Serious,True,1
+Lisinopril,Thrombocytopenia,Serious,True,1
+Lisinopril,Toxic Epidermal Necrolysis,Serious,True,1
+Lisinopril,Arthralgia,Common,True,2
+Lisinopril,Blurred Vision,Common,True,2
+Lisinopril,Chest Pain,Common,True,2
+Lisinopril,Confusion,Common,True,2
+Lisinopril,Constipation,Common,True,2
+Lisinopril,Cough,Common,True,2
+Lisinopril,Depression,Common,True,2
+Lisinopril,Diarrhea,Common,True,2
+Lisinopril,Dizziness,Common,True,2
+Lisinopril,Dry Mouth,Common,True,2
+Lisinopril,Fatigue,Common,True,2
+Lisinopril,Fever,Common,True,2
+Lisinopril,Flushing,Common,True,2
+Lisinopril,Headache,Common,True,2
+Lisinopril,Hypertension,Common,True,2
+Lisinopril,Hypoglycemia,Common,True,2
+Lisinopril,Hypotension,Common,True,2
+Lisinopril,Myalgia,Common,True,2
+Lisinopril,Pruritus,Common,True,2
+Lisinopril,Rash,Common,True,2
+Lisinopril,Taste Disturbance,Common,True,2
+Lisinopril,Tinnitus,Common,True,2
+Lisinopril,Urticaria,Common,True,2
+Lisinopril,Vertigo,Common,True,2
+Lorazepam,Arrhythmia,Serious,True,1
+Lorazepam,Dependence,Serious,False,1
+Lorazepam,Hallucinations,Serious,True,1
+Lorazepam,Hemorrhage,Serious,True,1
+Lorazepam,Neuroleptic Malignant Syndrome,Serious,True,1
+Lorazepam,Respiratory Depression,Serious,False,1
+Lorazepam,Respiratory Failure,Serious,True,1
+Lorazepam,Thrombocytopenia,Serious,True,1
+Lorazepam,Agitation,Common,True,2
+Lorazepam,Blurred Vision,Common,True,2
+Lorazepam,Chills,Common,True,2
+Lorazepam,Confusion,Common,True,2
+Lorazepam,Depression,Common,True,2
+Lorazepam,Dizziness,Common,True,2
+Lorazepam,Drowsiness,Common,True,2
+Lorazepam,Edema,Common,True,2
+Lorazepam,Headache,Common,True,2
+Lorazepam,Hypertension,Common,True,2
+Lorazepam,Hypotension,Common,True,2
+Lorazepam,Irritability,Common,True,2
+Lorazepam,Memory Problems,Common,False,2
+Lorazepam,Nausea,Common,True,2
+Lorazepam,Nervousness,Common,True,2
+Lorazepam,Rash,Common,True,2
+Lorazepam,Sedation,Common,True,2
+Lorazepam,Somnolence,Common,True,2
+Lorazepam,Tachycardia,Common,True,2
+Lorazepam,Tremor,Common,True,2
+Lorazepam,Vomiting,Common,True,2
+Losartan,Angioedema,Serious,True,1
+Losartan,Hepatitis,Serious,True,1
+Losartan,Hypersensitivity,Serious,True,1
+Losartan,Rhabdomyolysis,Serious,True,1
+Losartan,Thrombocytopenia,Serious,True,1
+Losartan,Abdominal Pain,Common,True,2
+Losartan,Arthralgia,Common,True,2
+Losartan,Back Pain,Common,True,2
+Losartan,Chest Pain,Common,True,2
+Losartan,Constipation,Common,True,2
+Losartan,Cough,Common,True,2
+Losartan,Depression,Common,True,2
+Losartan,Diarrhea,Common,True,2
+Losartan,Dizziness,Common,True,2
+Losartan,Dyspnea,Common,True,2
+Losartan,Edema,Common,True,2
+Losartan,Fatigue,Common,True,2
+Losartan,Headache,Common,True,2
+Losartan,Hypertension,Common,True,2
+Losartan,Hypoglycemia,Common,True,2
+Losartan,Hypotension,Common,True,2
+Losartan,Malaise,Common,True,2
+Losartan,Myalgia,Common,True,2
+Losartan,Nasal Congestion,Common,True,2
+Losartan,Nausea,Common,True,2
+Losartan,Palpitations,Common,True,2
+Losartan,Pruritus,Common,True,2
+Losartan,Rash,Common,True,2
+Losartan,Somnolence,Common,True,2
+Losartan,Swelling,Common,True,2
+Losartan,Tinnitus,Common,True,2
+Losartan,Upper Respiratory Infection,Common,True,2
+Losartan,Urticaria,Common,True,2
+Losartan,Vertigo,Common,True,2
+Losartan,Vomiting,Common,True,2
+Losartan,Weakness,Common,True,2
+Meloxicam,Agranulocytosis,Serious,True,1
+Meloxicam,Angioedema,Serious,True,1
+Meloxicam,Arrhythmia,Serious,True,1
+Meloxicam,Bleeding,Serious,True,1
+Meloxicam,Gi Bleeding,Serious,True,1
+Meloxicam,Hemorrhage,Serious,True,1
+Meloxicam,Hepatitis,Serious,True,1
+Meloxicam,Hepatotoxicity,Serious,True,1
+Meloxicam,Jaundice,Serious,True,1
+Meloxicam,Kidney Problems,Serious,False,1
+Meloxicam,Liver Failure,Serious,True,1
+Meloxicam,Myocardial Infarction,Serious,True,1
+Meloxicam,Pancreatitis,Serious,True,1
+Meloxicam,Renal Failure,Serious,True,1
+Meloxicam,Stevens-Johnson Syndrome,Serious,True,1
+Meloxicam,Thrombocytopenia,Serious,True,1
+Meloxicam,Toxic Epidermal Necrolysis,Serious,True,1
+Meloxicam,Ulcers,Serious,False,1
+Meloxicam,Abdominal Pain,Common,True,2
+Meloxicam,Anxiety,Common,True,2
+Meloxicam,Arthralgia,Common,True,2
+Meloxicam,Back Pain,Common,True,2
+Meloxicam,Confusion,Common,True,2
+Meloxicam,Constipation,Common,True,2
+Meloxicam,Cough,Common,True,2
+Meloxicam,Depression,Common,True,2
+Meloxicam,Diarrhea,Common,True,2
+Meloxicam,Dizziness,Common,True,2
+Meloxicam,Dry Mouth,Common,True,2
+Meloxicam,Dyspepsia,Common,True,2
+Meloxicam,Dyspnea,Common,True,2
+Meloxicam,Edema,Common,True,2
+Meloxicam,Fatigue,Common,True,2
+Meloxicam,Fever,Common,True,2
+Meloxicam,GI Upset,Common,False,2
+Meloxicam,Headache,Common,True,2
+Meloxicam,Heartburn,Common,False,2
+Meloxicam,Hypertension,Common,True,2
+Meloxicam,Hypotension,Common,True,2
+Meloxicam,Insomnia,Common,True,2
+Meloxicam,Malaise,Common,True,2
+Meloxicam,Nausea,Common,True,2
+Meloxicam,Nervousness,Common,True,2
+Meloxicam,Pharyngitis,Common,True,2
+Meloxicam,Pruritus,Common,True,2
+Meloxicam,Rash,Common,True,2
+Meloxicam,Somnolence,Common,True,2
+Meloxicam,Sweating,Common,True,2
+Meloxicam,Swelling,Common,True,2
+Meloxicam,Tachycardia,Common,True,2
+Meloxicam,Tinnitus,Common,True,2
+Meloxicam,Tremor,Common,True,2
+Meloxicam,Urinary Retention,Common,True,2
+Meloxicam,Urticaria,Common,True,2
+Meloxicam,Vertigo,Common,True,2
+Meloxicam,Vomiting,Common,True,2
+Metformin,Anaphylaxis,Serious,True,1
+Metformin,Angioedema,Serious,True,1
+Metformin,Hypersensitivity,Serious,True,1
+Metformin,Pancreatitis,Serious,True,1
+Metformin,Renal Failure,Serious,True,1
+Metformin,Rhabdomyolysis,Serious,True,1
+Metformin,Seizure,Serious,True,1
+Metformin,Stevens-Johnson Syndrome,Serious,True,1
+Metformin,Abdominal Pain,Common,True,2
+Metformin,Arthralgia,Common,True,2
+Metformin,Back Pain,Common,True,2
+Metformin,Constipation,Common,True,2
+Metformin,Diarrhea,Common,True,2
+Metformin,Edema,Common,True,2
+Metformin,Headache,Common,True,2
+Metformin,Hypoglycemia,Common,True,2
+Metformin,Indigestion,Common,True,2
+Metformin,Myalgia,Common,True,2
+Metformin,Nausea,Common,True,2
+Metformin,Pharyngitis,Common,True,2
+Metformin,Pruritus,Common,True,2
+Metformin,Rash,Common,True,2
+Metformin,Urticaria,Common,True,2
+Metformin,Vomiting,Common,True,2
+Methocarbamol,Hypersensitivity,Serious,True,1
+Methocarbamol,Jaundice,Serious,True,1
+Methocarbamol,Seizure,Serious,True,1
+Methocarbamol,Blurred Vision,Common,True,2
+Methocarbamol,Confusion,Common,True,2
+Methocarbamol,Dizziness,Common,True,2
+Methocarbamol,Drowsiness,Common,True,2
+Methocarbamol,Dyspepsia,Common,True,2
+Methocarbamol,Edema,Common,True,2
+Methocarbamol,Fever,Common,True,2
+Methocarbamol,Flushing,Common,True,2
+Methocarbamol,Headache,Common,True,2
+Methocarbamol,Hypotension,Common,True,2
+Methocarbamol,Insomnia,Common,True,2
+Methocarbamol,Nasal Congestion,Common,True,2
+Methocarbamol,Nausea,Common,True,2
+Methocarbamol,Pruritus,Common,True,2
+Methocarbamol,Rash,Common,True,2
+Methocarbamol,Sedation,Common,True,2
+Methocarbamol,Urticaria,Common,True,2
+Methocarbamol,Vertigo,Common,True,2
+Methocarbamol,Vomiting,Common,True,2
+Methylprednisolone,Anaphylaxis,Serious,True,1
+Methylprednisolone,Angioedema,Serious,True,1
+Methylprednisolone,Arrhythmia,Serious,True,1
+Methylprednisolone,Cardiac Arrest,Serious,True,1
+Methylprednisolone,Embolism,Serious,True,1
+Methylprednisolone,Hemorrhage,Serious,True,1
+Methylprednisolone,Hepatitis,Serious,True,1
+Methylprednisolone,Hyperglycemia,Serious,False,1
+Methylprednisolone,Hypersensitivity,Serious,True,1
+Methylprednisolone,Myocardial Infarction,Serious,True,1
+Methylprednisolone,Osteoporosis,Serious,False,1
+Methylprednisolone,Pancreatitis,Serious,True,1
+Methylprednisolone,Depression,Common,True,2
+Methylprednisolone,Edema,Common,True,2
+Methylprednisolone,Flushing,Common,True,2
+Methylprednisolone,Headache,Common,True,2
+Methylprednisolone,Hypertension,Common,True,2
+Methylprednisolone,Increased Appetite,Common,False,2
+Methylprednisolone,Insomnia,Common,True,2
+Methylprednisolone,Malaise,Common,True,2
+Methylprednisolone,Mood Changes,Common,False,2
+Methylprednisolone,Muscle Weakness,Common,True,2
+Methylprednisolone,Nausea,Common,True,2
+Methylprednisolone,Rash,Common,True,2
+Methylprednisolone,Sweating,Common,True,2
+Methylprednisolone,Tachycardia,Common,True,2
+Methylprednisolone,Urticaria,Common,True,2
+Methylprednisolone,Vertigo,Common,True,2
+Methylprednisolone,Weakness,Common,True,2
+Methylprednisolone,Weight Gain,Common,True,2
+Metoclopramide,Agranulocytosis,Serious,True,1
+Metoclopramide,Angioedema,Serious,True,1
+Metoclopramide,Hallucinations,Serious,True,1
+Metoclopramide,Hepatotoxicity,Serious,True,1
+Metoclopramide,Hypersensitivity,Serious,True,1
+Metoclopramide,Jaundice,Serious,True,1
+Metoclopramide,Neuroleptic Malignant Syndrome,Serious,True,1
+Metoclopramide,Neutropenia,Serious,True,1
+Metoclopramide,Seizure,Serious,True,1
+Metoclopramide,Serotonin Syndrome,Serious,True,1
+Metoclopramide,Suicidal Ideation,Serious,True,1
+Metoclopramide,Confusion,Common,True,2
+Metoclopramide,Depression,Common,True,2
+Metoclopramide,Diarrhea,Common,True,2
+Metoclopramide,Dizziness,Common,True,2
+Metoclopramide,Drowsiness,Common,True,2
+Metoclopramide,Edema,Common,True,2
+Metoclopramide,Fatigue,Common,True,2
+Metoclopramide,Headache,Common,True,2
+Metoclopramide,Hypertension,Common,True,2
+Metoclopramide,Hypotension,Common,True,2
+Metoclopramide,Insomnia,Common,True,2
+Metoclopramide,Nausea,Common,True,2
+Metoclopramide,Nervousness,Common,True,2
+Metoclopramide,Rash,Common,True,2
+Metoclopramide,Tachycardia,Common,True,2
+Metoclopramide,Urticaria,Common,True,2
+Metoclopramide,Visual Disturbance,Common,True,2
+Metoprolol,Agranulocytosis,Serious,True,1
+Metoprolol,Bradycardia,Serious,False,1
+Metoprolol,Myocardial Infarction,Serious,True,1
+Metoprolol,Blurred Vision,Common,True,2
+Metoprolol,Cold Extremities,Common,False,2
+Metoprolol,Confusion,Common,True,2
+Metoprolol,Constipation,Common,True,2
+Metoprolol,Depression,Common,True,2
+Metoprolol,Diarrhea,Common,True,2
+Metoprolol,Dizziness,Common,True,2
+Metoprolol,Dry Mouth,Common,True,2
+Metoprolol,Dyspnea,Common,True,2
+Metoprolol,Edema,Common,True,2
+Metoprolol,Fatigue,Common,False,2
+Metoprolol,Fever,Common,True,2
+Metoprolol,Headache,Common,True,2
+Metoprolol,Heartburn,Common,True,2
+Metoprolol,Hypertension,Common,True,2
+Metoprolol,Hypotension,Common,True,2
+Metoprolol,Insomnia,Common,True,2
+Metoprolol,Nausea,Common,True,2
+Metoprolol,Palpitations,Common,True,2
+Metoprolol,Pruritus,Common,True,2
+Metoprolol,Rash,Common,True,2
+Metoprolol,Shortness Of Breath,Common,True,2
+Metoprolol,Tinnitus,Common,True,2
+Metoprolol,Vomiting,Common,True,2
+Metronidazole,Hepatotoxicity,Serious,True,1
+Metronidazole,Hypersensitivity,Serious,True,1
+Metronidazole,Liver Failure,Serious,True,1
+Metronidazole,Neutropenia,Serious,True,1
+Metronidazole,Pancreatitis,Serious,True,1
+Metronidazole,Seizure,Serious,True,1
+Metronidazole,Stevens-Johnson Syndrome,Serious,True,1
+Metronidazole,Thrombocytopenia,Serious,True,1
+Metronidazole,Toxic Epidermal Necrolysis,Serious,True,1
+Metronidazole,Anorexia,Common,True,2
+Metronidazole,Confusion,Common,True,2
+Metronidazole,Constipation,Common,True,2
+Metronidazole,Depression,Common,True,2
+Metronidazole,Diarrhea,Common,True,2
+Metronidazole,Dizziness,Common,True,2
+Metronidazole,Fever,Common,True,2
+Metronidazole,Flushing,Common,True,2
+Metronidazole,Headache,Common,True,2
+Metronidazole,Insomnia,Common,True,2
+Metronidazole,Irritability,Common,True,2
+Metronidazole,Joint Pain,Common,True,2
+Metronidazole,Nasal Congestion,Common,True,2
+Metronidazole,Nausea,Common,True,2
+Metronidazole,Pruritus,Common,True,2
+Metronidazole,Rash,Common,True,2
+Metronidazole,Tinnitus,Common,True,2
+Metronidazole,Urticaria,Common,True,2
+Metronidazole,Vertigo,Common,True,2
+Metronidazole,Vomiting,Common,True,2
+Metronidazole,Weakness,Common,True,2
+Montelukast,Anaphylaxis,Serious,True,1
+Montelukast,Angioedema,Serious,True,1
+Montelukast,Bleeding,Serious,True,1
+Montelukast,Hallucinations,Serious,True,1
+Montelukast,Hepatitis,Serious,True,1
+Montelukast,Hypersensitivity,Serious,True,1
+Montelukast,Pancreatitis,Serious,True,1
+Montelukast,Seizure,Serious,True,1
+Montelukast,Stevens-Johnson Syndrome,Serious,True,1
+Montelukast,Thrombocytopenia,Serious,True,1
+Montelukast,Toxic Epidermal Necrolysis,Serious,True,1
+Montelukast,Abdominal Pain,Common,True,2
+Montelukast,Agitation,Common,True,2
+Montelukast,Arthralgia,Common,True,2
+Montelukast,Cough,Common,True,2
+Montelukast,Depression,Common,True,2
+Montelukast,Diarrhea,Common,True,2
+Montelukast,Dizziness,Common,True,2
+Montelukast,Drowsiness,Common,True,2
+Montelukast,Dyspepsia,Common,True,2
+Montelukast,Edema,Common,True,2
+Montelukast,Fatigue,Common,True,2
+Montelukast,Fever,Common,True,2
+Montelukast,Headache,Common,True,2
+Montelukast,Insomnia,Common,True,2
+Montelukast,Irritability,Common,True,2
+Montelukast,Muscle Cramps,Common,True,2
+Montelukast,Myalgia,Common,True,2
+Montelukast,Nausea,Common,True,2
+Montelukast,Palpitations,Common,True,2
+Montelukast,Pharyngitis,Common,True,2
+Montelukast,Pruritus,Common,True,2
+Montelukast,Rash,Common,True,2
+Montelukast,Somnolence,Common,True,2
+Montelukast,Tremor,Common,True,2
+Montelukast,Upper Respiratory Infection,Common,True,2
+Montelukast,Urticaria,Common,True,2
+Montelukast,Vomiting,Common,True,2
+Naproxen,GI Bleeding,Serious,False,1
+Naproxen,Kidney Problems,Serious,False,1
+Naproxen,Ulcers,Serious,False,1
+Naproxen,GI Upset,Common,False,2
+Naproxen,Heartburn,Common,False,2
+Naproxen,Nausea,Common,False,2
+Nitrofurantoin,Agranulocytosis,Serious,True,1
+Nitrofurantoin,Anaphylaxis,Serious,True,1
+Nitrofurantoin,Angioedema,Serious,True,1
+Nitrofurantoin,Aplastic Anemia,Serious,True,1
+Nitrofurantoin,Hepatitis,Serious,True,1
+Nitrofurantoin,Hypersensitivity,Serious,True,1
+Nitrofurantoin,Jaundice,Serious,True,1
+Nitrofurantoin,Pancreatitis,Serious,True,1
+Nitrofurantoin,Stevens-Johnson Syndrome,Serious,True,1
+Nitrofurantoin,Thrombocytopenia,Serious,True,1
+Nitrofurantoin,Abdominal Pain,Common,True,2
+Nitrofurantoin,Arthralgia,Common,True,2
+Nitrofurantoin,Chest Pain,Common,True,2
+Nitrofurantoin,Chills,Common,True,2
+Nitrofurantoin,Confusion,Common,True,2
+Nitrofurantoin,Constipation,Common,True,2
+Nitrofurantoin,Cough,Common,True,2
+Nitrofurantoin,Depression,Common,True,2
+Nitrofurantoin,Diarrhea,Common,True,2
+Nitrofurantoin,Dizziness,Common,True,2
+Nitrofurantoin,Drowsiness,Common,True,2
+Nitrofurantoin,Dyspepsia,Common,True,2
+Nitrofurantoin,Dyspnea,Common,True,2
+Nitrofurantoin,Edema,Common,True,2
+Nitrofurantoin,Fever,Common,True,2
+Nitrofurantoin,Headache,Common,True,2
+Nitrofurantoin,Hypertension,Common,True,2
+Nitrofurantoin,Malaise,Common,True,2
+Nitrofurantoin,Myalgia,Common,True,2
+Nitrofurantoin,Nausea,Common,True,2
+Nitrofurantoin,Pruritus,Common,True,2
+Nitrofurantoin,Urticaria,Common,True,2
+Nitrofurantoin,Vertigo,Common,True,2
+Omeprazole,Vitamin B12 Deficiency,Serious,False,1
+Omeprazole,Abdominal Pain,Common,False,2
+Omeprazole,Diarrhea,Common,False,2
+Omeprazole,Headache,Common,False,2
+Omeprazole,Nausea,Common,False,2
+Ondansetron,Anaphylaxis,Serious,True,1
+Ondansetron,Angioedema,Serious,True,1
+Ondansetron,Arrhythmia,Serious,True,1
+Ondansetron,Hypersensitivity,Serious,True,1
+Ondansetron,Liver Failure,Serious,True,1
+Ondansetron,Seizure,Serious,True,1
+Ondansetron,Serotonin Syndrome,Serious,True,1
+Ondansetron,Stevens-Johnson Syndrome,Serious,True,1
+Ondansetron,Toxic Epidermal Necrolysis,Serious,True,1
+Ondansetron,Agitation,Common,True,2
+Ondansetron,Anxiety,Common,True,2
+Ondansetron,Constipation,Common,True,2
+Ondansetron,Depression,Common,True,2
+Ondansetron,Diarrhea,Common,True,2
+Ondansetron,Dizziness,Common,True,2
+Ondansetron,Edema,Common,True,2
+Ondansetron,Fatigue,Common,True,2
+Ondansetron,Flushing,Common,True,2
+Ondansetron,Headache,Common,True,2
+Ondansetron,Hypotension,Common,True,2
+Ondansetron,Malaise,Common,True,2
+Ondansetron,Nausea,Common,True,2
+Ondansetron,Palpitations,Common,True,2
+Ondansetron,Pruritus,Common,True,2
+Ondansetron,Rash,Common,True,2
+Ondansetron,Shortness Of Breath,Common,True,2
+Ondansetron,Tachycardia,Common,True,2
+Ondansetron,Urinary Retention,Common,True,2
+Ondansetron,Urticaria,Common,True,2
+Ondansetron,Vomiting,Common,True,2
+Pantoprazole,Agranulocytosis,Serious,True,1
+Pantoprazole,Anaphylactic Shock,Serious,True,1
+Pantoprazole,Anaphylaxis,Serious,True,1
+Pantoprazole,Angioedema,Serious,True,1
+Pantoprazole,Hepatitis,Serious,True,1
+Pantoprazole,Jaundice,Serious,True,1
+Pantoprazole,Rhabdomyolysis,Serious,True,1
+Pantoprazole,Thrombocytopenia,Serious,True,1
+Pantoprazole,Vitamin B12 Deficiency,Serious,False,1
+Pantoprazole,Abdominal Pain,Common,True,2
+Pantoprazole,Arthralgia,Common,True,2
+Pantoprazole,Blurred Vision,Common,True,2
+Pantoprazole,Confusion,Common,True,2
+Pantoprazole,Constipation,Common,True,2
+Pantoprazole,Depression,Common,True,2
+Pantoprazole,Diarrhea,Common,True,2
+Pantoprazole,Dizziness,Common,True,2
+Pantoprazole,Dry Mouth,Common,True,2
+Pantoprazole,Edema,Common,True,2
+Pantoprazole,Erectile Dysfunction,Common,True,2
+Pantoprazole,Fatigue,Common,True,2
+Pantoprazole,Fever,Common,True,2
+Pantoprazole,Headache,Common,True,2
+Pantoprazole,Insomnia,Common,True,2
+Pantoprazole,Malaise,Common,True,2
+Pantoprazole,Myalgia,Common,True,2
+Pantoprazole,Nausea,Common,True,2
+Pantoprazole,Pruritus,Common,True,2
+Pantoprazole,Rash,Common,True,2
+Pantoprazole,Somnolence,Common,True,2
+Pantoprazole,Urticaria,Common,True,2
+Pantoprazole,Vertigo,Common,True,2
+Pantoprazole,Vomiting,Common,True,2
+Paroxetine,Agranulocytosis,Serious,True,1
+Paroxetine,Anaphylaxis,Serious,True,1
+Paroxetine,Angioedema,Serious,True,1
+Paroxetine,Aplastic Anemia,Serious,True,1
+Paroxetine,Bleeding,Serious,True,1
+Paroxetine,Hallucinations,Serious,True,1
+Paroxetine,Hypersensitivity,Serious,True,1
+Paroxetine,Pancreatitis,Serious,True,1
+Paroxetine,Renal Failure,Serious,True,1
+Paroxetine,Seizure,Serious,True,1
+Paroxetine,Serotonin Syndrome,Serious,True,1
+Paroxetine,Stevens-Johnson Syndrome,Serious,True,1
+Paroxetine,Suicidal Ideation,Serious,False,1
+Paroxetine,Thrombocytopenia,Serious,True,1
+Paroxetine,Toxic Epidermal Necrolysis,Serious,True,1
+Paroxetine,Abdominal Pain,Common,True,2
+Paroxetine,Agitation,Common,True,2
+Paroxetine,Anxiety,Common,True,2
+Paroxetine,Back Pain,Common,True,2
+Paroxetine,Blurred Vision,Common,True,2
+Paroxetine,Confusion,Common,True,2
+Paroxetine,Constipation,Common,True,2
+Paroxetine,Cough,Common,True,2
+Paroxetine,Decreased Libido,Common,True,2
+Paroxetine,Depression,Common,True,2
+Paroxetine,Diarrhea,Common,True,2
+Paroxetine,Dizziness,Common,True,2
+Paroxetine,Dry Mouth,Common,True,2
+Paroxetine,Dyspepsia,Common,True,2
+Paroxetine,Edema,Common,True,2
+Paroxetine,Headache,Common,True,2
+Paroxetine,Hypertension,Common,True,2
+Paroxetine,Hypotension,Common,True,2
+Paroxetine,Insomnia,Common,True,2
+Paroxetine,Myalgia,Common,True,2
+Paroxetine,Nausea,Common,True,2
+Paroxetine,Nervousness,Common,True,2
+Paroxetine,Rash,Common,True,2
+Paroxetine,Sexual Dysfunction,Common,True,2
+Paroxetine,Somnolence,Common,True,2
+Paroxetine,Sweating,Common,True,2
+Paroxetine,Tachycardia,Common,True,2
+Paroxetine,Tremor,Common,True,2
+Paroxetine,Urinary Retention,Common,True,2
+Paroxetine,Urticaria,Common,True,2
+Paroxetine,Vomiting,Common,True,2
+Paroxetine,Weight Gain,Common,True,2
+Paroxetine,Weight Loss,Common,True,2
+Potassium Chloride,Bleeding,Serious,True,1
+Potassium Chloride,Abdominal Pain,Common,True,2
+Potassium Chloride,Diarrhea,Common,True,2
+Potassium Chloride,Nausea,Common,True,2
+Potassium Chloride,Rash,Common,True,2
+Potassium Chloride,Vomiting,Common,True,2
+Prednisone,Hemorrhage,Serious,True,1
+Prednisone,Hyperglycemia,Serious,False,1
+Prednisone,Hypersensitivity,Serious,True,1
+Prednisone,Osteoporosis,Serious,False,1
+Prednisone,Pancreatitis,Serious,True,1
+Prednisone,Edema,Common,True,2
+Prednisone,Headache,Common,True,2
+Prednisone,Hypertension,Common,True,2
+Prednisone,Increased Appetite,Common,False,2
+Prednisone,Insomnia,Common,False,2
+Prednisone,Mood Changes,Common,False,2
+Prednisone,Muscle Weakness,Common,True,2
+Prednisone,Sweating,Common,True,2
+Prednisone,Urticaria,Common,True,2
+Prednisone,Vertigo,Common,True,2
+Prednisone,Weakness,Common,True,2
+Prednisone,Weight Gain,Common,False,2
+Pregabalin,Angioedema,Serious,True,1
+Pregabalin,Hallucinations,Serious,True,1
+Pregabalin,Hemorrhage,Serious,True,1
+Pregabalin,Hypersensitivity,Serious,True,1
+Pregabalin,Kidney Failure,Serious,True,1
+Pregabalin,Pancreatitis,Serious,True,1
+Pregabalin,Respiratory Failure,Serious,True,1
+Pregabalin,Seizure,Serious,True,1
+Pregabalin,Stevens-Johnson Syndrome,Serious,True,1
+Pregabalin,Thrombocytopenia,Serious,True,1
+Pregabalin,Abdominal Pain,Common,True,2
+Pregabalin,Agitation,Common,True,2
+Pregabalin,Anxiety,Common,True,2
+Pregabalin,Arthralgia,Common,True,2
+Pregabalin,Back Pain,Common,True,2
+Pregabalin,Blurred Vision,Common,True,2
+Pregabalin,Chest Pain,Common,True,2
+Pregabalin,Chills,Common,True,2
+Pregabalin,Confusion,Common,True,2
+Pregabalin,Constipation,Common,True,2
+Pregabalin,Depression,Common,True,2
+Pregabalin,Diarrhea,Common,True,2
+Pregabalin,Dizziness,Common,True,2
+Pregabalin,Dry Mouth,Common,True,2
+Pregabalin,Dyspnea,Common,True,2
+Pregabalin,Edema,Common,True,2
+Pregabalin,Fatigue,Common,True,2
+Pregabalin,Fever,Common,True,2
+Pregabalin,Headache,Common,True,2
+Pregabalin,Hypertension,Common,True,2
+Pregabalin,Hypoglycemia,Common,True,2
+Pregabalin,Hypotension,Common,True,2
+Pregabalin,Insomnia,Common,True,2
+Pregabalin,Itching,Common,True,2
+Pregabalin,Malaise,Common,True,2
+Pregabalin,Myalgia,Common,True,2
+Pregabalin,Nausea,Common,True,2
+Pregabalin,Nervousness,Common,True,2
+Pregabalin,Pharyngitis,Common,True,2
+Pregabalin,Pruritus,Common,True,2
+Pregabalin,Rash,Common,True,2
+Pregabalin,Sedation,Common,True,2
+Pregabalin,Somnolence,Common,True,2
+Pregabalin,Swelling,Common,True,2
+Pregabalin,Tinnitus,Common,True,2
+Pregabalin,Tremor,Common,True,2
+Pregabalin,Urinary Retention,Common,True,2
+Pregabalin,Urticaria,Common,True,2
+Pregabalin,Vertigo,Common,True,2
+Pregabalin,Vomiting,Common,True,2
+Pregabalin,Weakness,Common,True,2
+Pregabalin,Weight Gain,Common,True,2
+Propranolol,Agranulocytosis,Serious,True,1
+Propranolol,Bradycardia,Serious,False,1
+Propranolol,Hallucinations,Serious,True,1
+Propranolol,Hypersensitivity,Serious,True,1
+Propranolol,Stevens-Johnson Syndrome,Serious,True,1
+Propranolol,Thrombosis,Serious,True,1
+Propranolol,Toxic Epidermal Necrolysis,Serious,True,1
+Propranolol,Cold Extremities,Common,False,2
+Propranolol,Constipation,Common,True,2
+Propranolol,Depression,Common,True,2
+Propranolol,Diarrhea,Common,True,2
+Propranolol,Dizziness,Common,False,2
+Propranolol,Fatigue,Common,True,2
+Propranolol,Fever,Common,True,2
+Propranolol,Hypotension,Common,True,2
+Propranolol,Insomnia,Common,True,2
+Propranolol,Nausea,Common,True,2
+Propranolol,Pharyngitis,Common,True,2
+Propranolol,Rash,Common,True,2
+Propranolol,Urticaria,Common,True,2
+Propranolol,Visual Disturbance,Common,True,2
+Propranolol,Vomiting,Common,True,2
+Propranolol,Weakness,Common,True,2
+Rivaroxaban,Agranulocytosis,Serious,True,1
+Rivaroxaban,Anaphylactic Shock,Serious,True,1
+Rivaroxaban,Angioedema,Serious,True,1
+Rivaroxaban,Bleeding,Serious,True,1
+Rivaroxaban,Embolism,Serious,True,1
+Rivaroxaban,Gastrointestinal Bleeding,Serious,True,1
+Rivaroxaban,Gi Bleeding,Serious,True,1
+Rivaroxaban,Hematoma,Serious,True,1
+Rivaroxaban,Hemorrhage,Serious,True,1
+Rivaroxaban,Hepatitis,Serious,True,1
+Rivaroxaban,Hypersensitivity,Serious,True,1
+Rivaroxaban,Intracranial Bleeding,Serious,True,1
+Rivaroxaban,Jaundice,Serious,True,1
+Rivaroxaban,Myocardial Infarction,Serious,True,1
+Rivaroxaban,Stevens-Johnson Syndrome,Serious,True,1
+Rivaroxaban,Stroke,Serious,True,1
+Rivaroxaban,Thrombocytopenia,Serious,True,1
+Rivaroxaban,Thrombosis,Serious,True,1
+Rivaroxaban,Abdominal Pain,Common,True,2
+Rivaroxaban,Anxiety,Common,True,2
+Rivaroxaban,Back Pain,Common,True,2
+Rivaroxaban,Cough,Common,True,2
+Rivaroxaban,Depression,Common,True,2
+Rivaroxaban,Dizziness,Common,True,2
+Rivaroxaban,Easy Bruising,Common,False,2
+Rivaroxaban,Edema,Common,True,2
+Rivaroxaban,Fatigue,Common,True,2
+Rivaroxaban,Insomnia,Common,True,2
+Rivaroxaban,Nausea,Common,False,2
+Rivaroxaban,Pruritus,Common,True,2
+Rivaroxaban,Rash,Common,True,2
+Rivaroxaban,Vomiting,Common,True,2
+Rosuvastatin,Angioedema,Serious,True,1
+Rosuvastatin,Hepatitis,Serious,True,1
+Rosuvastatin,Hypersensitivity,Serious,True,1
+Rosuvastatin,Jaundice,Serious,True,1
+Rosuvastatin,Liver Problems,Serious,False,1
+Rosuvastatin,Pancreatitis,Serious,True,1
+Rosuvastatin,Rhabdomyolysis,Serious,True,1
+Rosuvastatin,Thrombocytopenia,Serious,True,1
+Rosuvastatin,Abdominal Pain,Common,True,2
+Rosuvastatin,Arthralgia,Common,True,2
+Rosuvastatin,Confusion,Common,True,2
+Rosuvastatin,Constipation,Common,True,2
+Rosuvastatin,Depression,Common,True,2
+Rosuvastatin,Dizziness,Common,True,2
+Rosuvastatin,Edema,Common,True,2
+Rosuvastatin,Headache,Common,True,2
+Rosuvastatin,Insomnia,Common,True,2
+Rosuvastatin,Muscle Pain,Common,False,2
+Rosuvastatin,Myalgia,Common,True,2
+Rosuvastatin,Nausea,Common,True,2
+Rosuvastatin,Pruritus,Common,True,2
+Rosuvastatin,Rash,Common,True,2
+Rosuvastatin,Urticaria,Common,True,2
+Salmeterol,Anaphylaxis,Serious,True,1
+Salmeterol,Angioedema,Serious,True,1
+Salmeterol,Arrhythmia,Serious,True,1
+Salmeterol,Hypersensitivity,Serious,True,1
+Salmeterol,Anxiety,Common,True,2
+Salmeterol,Arthralgia,Common,True,2
+Salmeterol,Cough,Common,True,2
+Salmeterol,Dizziness,Common,True,2
+Salmeterol,Edema,Common,True,2
+Salmeterol,Headache,Common,True,2
+Salmeterol,Hyperglycemia,Common,True,2
+Salmeterol,Hypertension,Common,True,2
+Salmeterol,Muscle Cramps,Common,True,2
+Salmeterol,Muscle Pain,Common,True,2
+Salmeterol,Nasal Congestion,Common,True,2
+Salmeterol,Nausea,Common,True,2
+Salmeterol,Nervousness,Common,True,2
+Salmeterol,Palpitations,Common,True,2
+Salmeterol,Pharyngitis,Common,True,2
+Salmeterol,Rash,Common,True,2
+Salmeterol,Sleep Disturbance,Common,True,2
+Salmeterol,Swelling,Common,True,2
+Salmeterol,Tachycardia,Common,True,2
+Salmeterol,Tremor,Common,True,2
+Salmeterol,Urticaria,Common,True,2
+Salmeterol,Vomiting,Common,True,2
+Sertraline,Agranulocytosis,Serious,True,1
+Sertraline,Anaphylaxis,Serious,True,1
+Sertraline,Angioedema,Serious,True,1
+Sertraline,Aplastic Anemia,Serious,True,1
+Sertraline,Arrhythmia,Serious,True,1
+Sertraline,Bleeding,Serious,True,1
+Sertraline,Hemorrhage,Serious,True,1
+Sertraline,Hepatitis,Serious,True,1
+Sertraline,Hypersensitivity,Serious,True,1
+Sertraline,Jaundice,Serious,True,1
+Sertraline,Liver Failure,Serious,True,1
+Sertraline,Pancreatitis,Serious,True,1
+Sertraline,Renal Failure,Serious,True,1
+Sertraline,Rhabdomyolysis,Serious,True,1
+Sertraline,Seizure,Serious,True,1
+Sertraline,Serotonin Syndrome,Serious,True,1
+Sertraline,Stevens-Johnson Syndrome,Serious,True,1
+Sertraline,Suicidal Ideation,Serious,False,1
+Sertraline,Thrombocytopenia,Serious,True,1
+Sertraline,Toxic Epidermal Necrolysis,Serious,True,1
+Sertraline,Abdominal Pain,Common,True,2
+Sertraline,Agitation,Common,True,2
+Sertraline,Anxiety,Common,True,2
+Sertraline,Arthralgia,Common,True,2
+Sertraline,Blurred Vision,Common,True,2
+Sertraline,Confusion,Common,True,2
+Sertraline,Constipation,Common,True,2
+Sertraline,Decreased Libido,Common,True,2
+Sertraline,Diarrhea,Common,True,2
+Sertraline,Dizziness,Common,True,2
+Sertraline,Dry Mouth,Common,True,2
+Sertraline,Dyspepsia,Common,True,2
+Sertraline,Edema,Common,True,2
+Sertraline,Erectile Dysfunction,Common,True,2
+Sertraline,Fatigue,Common,True,2
+Sertraline,Fever,Common,True,2
+Sertraline,Headache,Common,True,2
+Sertraline,Hyperglycemia,Common,True,2
+Sertraline,Hypertension,Common,True,2
+Sertraline,Hypoglycemia,Common,True,2
+Sertraline,Insomnia,Common,True,2
+Sertraline,Irritability,Common,True,2
+Sertraline,Itching,Common,True,2
+Sertraline,Malaise,Common,True,2
+Sertraline,Nausea,Common,True,2
+Sertraline,Nervousness,Common,True,2
+Sertraline,Palpitations,Common,True,2
+Sertraline,Pruritus,Common,True,2
+Sertraline,Rash,Common,True,2
+Sertraline,Sexual Dysfunction,Common,True,2
+Sertraline,Somnolence,Common,True,2
+Sertraline,Tachycardia,Common,True,2
+Sertraline,Tinnitus,Common,True,2
+Sertraline,Tremor,Common,True,2
+Sertraline,Urticaria,Common,True,2
+Sertraline,Vomiting,Common,True,2
+Sildenafil,Arrhythmia,Serious,True,1
+Sildenafil,Bleeding,Serious,True,1
+Sildenafil,Cardiac Arrest,Serious,True,1
+Sildenafil,Hemorrhage,Serious,True,1
+Sildenafil,Myocardial Infarction,Serious,True,1
+Sildenafil,Seizure,Serious,True,1
+Sildenafil,Thrombosis,Serious,True,1
+Sildenafil,Abdominal Pain,Common,True,2
+Sildenafil,Anxiety,Common,True,2
+Sildenafil,Back Pain,Common,True,2
+Sildenafil,Blurred Vision,Common,True,2
+Sildenafil,Chest Pain,Common,True,2
+Sildenafil,Chills,Common,True,2
+Sildenafil,Cough,Common,True,2
+Sildenafil,Depression,Common,True,2
+Sildenafil,Dizziness,Common,True,2
+Sildenafil,Dry Mouth,Common,True,2
+Sildenafil,Dyspepsia,Common,True,2
+Sildenafil,Dyspnea,Common,True,2
+Sildenafil,Edema,Common,True,2
+Sildenafil,Erectile Dysfunction,Common,True,2
+Sildenafil,Flushing,Common,True,2
+Sildenafil,Headache,Common,True,2
+Sildenafil,Hyperglycemia,Common,True,2
+Sildenafil,Hypertension,Common,True,2
+Sildenafil,Hypotension,Common,True,2
+Sildenafil,Insomnia,Common,True,2
+Sildenafil,Myalgia,Common,True,2
+Sildenafil,Nasal Congestion,Common,True,2
+Sildenafil,Nausea,Common,True,2
+Sildenafil,Pharyngitis,Common,True,2
+Sildenafil,Pruritus,Common,True,2
+Sildenafil,Rash,Common,True,2
+Sildenafil,Somnolence,Common,True,2
+Sildenafil,Sweating,Common,True,2
+Sildenafil,Swelling,Common,True,2
+Sildenafil,Tachycardia,Common,True,2
+Sildenafil,Tinnitus,Common,True,2
+Sildenafil,Tremor,Common,True,2
+Sildenafil,Urticaria,Common,True,2
+Sildenafil,Vertigo,Common,True,2
+Sildenafil,Vomiting,Common,True,2
+Simvastatin,Anaphylaxis,Serious,True,1
+Simvastatin,Angioedema,Serious,True,1
+Simvastatin,Hepatitis,Serious,True,1
+Simvastatin,Hypersensitivity,Serious,True,1
+Simvastatin,Jaundice,Serious,True,1
+Simvastatin,Liver Problems,Serious,False,1
+Simvastatin,Myocardial Infarction,Serious,True,1
+Simvastatin,Pancreatitis,Serious,True,1
+Simvastatin,Rhabdomyolysis,Serious,True,1
+Simvastatin,Stevens-Johnson Syndrome,Serious,True,1
+Simvastatin,Thrombocytopenia,Serious,True,1
+Simvastatin,Toxic Epidermal Necrolysis,Serious,True,1
+Simvastatin,Abdominal Pain,Common,True,2
+Simvastatin,Arthralgia,Common,True,2
+Simvastatin,Chills,Common,True,2
+Simvastatin,Confusion,Common,True,2
+Simvastatin,Constipation,Common,True,2
+Simvastatin,Depression,Common,True,2
+Simvastatin,Dizziness,Common,True,2
+Simvastatin,Dyspnea,Common,True,2
+Simvastatin,Edema,Common,True,2
+Simvastatin,Erectile Dysfunction,Common,True,2
+Simvastatin,Fever,Common,True,2
+Simvastatin,Flushing,Common,True,2
+Simvastatin,Headache,Common,True,2
+Simvastatin,Insomnia,Common,True,2
+Simvastatin,Malaise,Common,True,2
+Simvastatin,Muscle Cramps,Common,True,2
+Simvastatin,Muscle Pain,Common,False,2
+Simvastatin,Muscle Weakness,Common,True,2
+Simvastatin,Myalgia,Common,True,2
+Simvastatin,Nausea,Common,True,2
+Simvastatin,Pruritus,Common,True,2
+Simvastatin,Swelling,Common,True,2
+Simvastatin,Upper Respiratory Infection,Common,True,2
+Simvastatin,Urticaria,Common,True,2
+Simvastatin,Vertigo,Common,True,2
+Simvastatin,Vomiting,Common,True,2
+Simvastatin,Weakness,Common,True,2
+Sitagliptin,Anaphylaxis,Serious,True,1
+Sitagliptin,Angioedema,Serious,True,1
+Sitagliptin,Hypersensitivity,Serious,True,1
+Sitagliptin,Pancreatitis,Serious,True,1
+Sitagliptin,Renal Failure,Serious,True,1
+Sitagliptin,Rhabdomyolysis,Serious,True,1
+Sitagliptin,Seizure,Serious,True,1
+Sitagliptin,Stevens-Johnson Syndrome,Serious,True,1
+Sitagliptin,Abdominal Pain,Common,True,2
+Sitagliptin,Arthralgia,Common,True,2
+Sitagliptin,Back Pain,Common,True,2
+Sitagliptin,Constipation,Common,True,2
+Sitagliptin,Diarrhea,Common,True,2
+Sitagliptin,Edema,Common,True,2
+Sitagliptin,Headache,Common,True,2
+Sitagliptin,Hypoglycemia,Common,True,2
+Sitagliptin,Myalgia,Common,True,2
+Sitagliptin,Nausea,Common,True,2
+Sitagliptin,Pharyngitis,Common,True,2
+Sitagliptin,Pruritus,Common,True,2
+Sitagliptin,Rash,Common,True,2
+Sitagliptin,Upper Respiratory Infection,Common,True,2
+Sitagliptin,Urticaria,Common,True,2
+Sitagliptin,Vomiting,Common,True,2
+Spironolactone,Agranulocytosis,Serious,True,1
+Spironolactone,Bleeding,Serious,True,1
+Spironolactone,Electrolyte Imbalance,Serious,False,1
+Spironolactone,Hypersensitivity,Serious,True,1
+Spironolactone,Renal Failure,Serious,True,1
+Spironolactone,Stevens-Johnson Syndrome,Serious,True,1
+Spironolactone,Thrombocytopenia,Serious,True,1
+Spironolactone,Toxic Epidermal Necrolysis,Serious,True,1
+Spironolactone,Confusion,Common,True,2
+Spironolactone,Decreased Libido,Common,True,2
+Spironolactone,Dehydration,Common,False,2
+Spironolactone,Diarrhea,Common,True,2
+Spironolactone,Dizziness,Common,True,2
+Spironolactone,Drowsiness,Common,True,2
+Spironolactone,Fever,Common,True,2
+Spironolactone,Headache,Common,True,2
+Spironolactone,Hypotension,Common,True,2
+Spironolactone,Increased Urination,Common,False,2
+Spironolactone,Nausea,Common,True,2
+Spironolactone,Rash,Common,True,2
+Spironolactone,Urticaria,Common,True,2
+Spironolactone,Vomiting,Common,True,2
+Tadalafil,Hemorrhage,Serious,True,1
+Tadalafil,Hypersensitivity,Serious,True,1
+Tadalafil,Myocardial Infarction,Serious,True,1
+Tadalafil,Seizure,Serious,True,1
+Tadalafil,Stevens-Johnson Syndrome,Serious,True,1
+Tadalafil,Stroke,Serious,True,1
+Tadalafil,Abdominal Pain,Common,True,2
+Tadalafil,Arthralgia,Common,True,2
+Tadalafil,Back Pain,Common,True,2
+Tadalafil,Blurred Vision,Common,True,2
+Tadalafil,Chest Pain,Common,True,2
+Tadalafil,Cough,Common,True,2
+Tadalafil,Diarrhea,Common,True,2
+Tadalafil,Dizziness,Common,True,2
+Tadalafil,Dry Mouth,Common,True,2
+Tadalafil,Dyspepsia,Common,True,2
+Tadalafil,Dyspnea,Common,True,2
+Tadalafil,Edema,Common,True,2
+Tadalafil,Fatigue,Common,True,2
+Tadalafil,Flushing,Common,True,2
+Tadalafil,Headache,Common,True,2
+Tadalafil,Hypertension,Common,True,2
+Tadalafil,Hypotension,Common,True,2
+Tadalafil,Insomnia,Common,True,2
+Tadalafil,Myalgia,Common,True,2
+Tadalafil,Nasal Congestion,Common,True,2
+Tadalafil,Nausea,Common,True,2
+Tadalafil,Palpitations,Common,True,2
+Tadalafil,Pharyngitis,Common,True,2
+Tadalafil,Pruritus,Common,True,2
+Tadalafil,Rash,Common,True,2
+Tadalafil,Somnolence,Common,True,2
+Tadalafil,Sweating,Common,True,2
+Tadalafil,Swelling,Common,True,2
+Tadalafil,Tachycardia,Common,True,2
+Tadalafil,Tinnitus,Common,True,2
+Tadalafil,Urticaria,Common,True,2
+Tadalafil,Vertigo,Common,True,2
+Tadalafil,Vomiting,Common,True,2
+Tamsulosin,Angioedema,Serious,True,1
+Tamsulosin,Arrhythmia,Serious,True,1
+Tamsulosin,Stevens-Johnson Syndrome,Serious,True,1
+Tamsulosin,Back Pain,Common,True,2
+Tamsulosin,Blurred Vision,Common,True,2
+Tamsulosin,Chest Pain,Common,True,2
+Tamsulosin,Constipation,Common,True,2
+Tamsulosin,Cough,Common,True,2
+Tamsulosin,Diarrhea,Common,True,2
+Tamsulosin,Dizziness,Common,True,2
+Tamsulosin,Dry Mouth,Common,True,2
+Tamsulosin,Dyspnea,Common,True,2
+Tamsulosin,Edema,Common,True,2
+Tamsulosin,Fever,Common,True,2
+Tamsulosin,Headache,Common,True,2
+Tamsulosin,Hypotension,Common,True,2
+Tamsulosin,Insomnia,Common,True,2
+Tamsulosin,Nasal Congestion,Common,True,2
+Tamsulosin,Nausea,Common,True,2
+Tamsulosin,Palpitations,Common,True,2
+Tamsulosin,Pharyngitis,Common,True,2
+Tamsulosin,Pruritus,Common,True,2
+Tamsulosin,Rash,Common,True,2
+Tamsulosin,Somnolence,Common,True,2
+Tamsulosin,Tachycardia,Common,True,2
+Tamsulosin,Urticaria,Common,True,2
+Tamsulosin,Vertigo,Common,True,2
+Tamsulosin,Vomiting,Common,True,2
+Tramadol,Anaphylaxis,Serious,True,1
+Tramadol,Hypersensitivity,Serious,True,1
+Tramadol,Myocardial Infarction,Serious,True,1
+Tramadol,Pancreatitis,Serious,True,1
+Tramadol,Seizure,Serious,True,1
+Tramadol,Serotonin Syndrome,Serious,True,1
+Tramadol,Abdominal Pain,Common,True,2
+Tramadol,Agitation,Common,True,2
+Tramadol,Anorexia,Common,True,2
+Tramadol,Anxiety,Common,True,2
+Tramadol,Arthralgia,Common,True,2
+Tramadol,Back Pain,Common,True,2
+Tramadol,Chest Pain,Common,True,2
+Tramadol,Constipation,Common,True,2
+Tramadol,Cough,Common,True,2
+Tramadol,Depression,Common,True,2
+Tramadol,Diarrhea,Common,True,2
+Tramadol,Dizziness,Common,True,2
+Tramadol,Dry Mouth,Common,True,2
+Tramadol,Dyspepsia,Common,True,2
+Tramadol,Dyspnea,Common,True,2
+Tramadol,Edema,Common,True,2
+Tramadol,Flushing,Common,True,2
+Tramadol,Headache,Common,True,2
+Tramadol,Hypertension,Common,True,2
+Tramadol,Hypoglycemia,Common,True,2
+Tramadol,Hypotension,Common,True,2
+Tramadol,Insomnia,Common,True,2
+Tramadol,Irritability,Common,True,2
+Tramadol,Itching,Common,True,2
+Tramadol,Malaise,Common,True,2
+Tramadol,Muscle Cramps,Common,True,2
+Tramadol,Myalgia,Common,True,2
+Tramadol,Nasal Congestion,Common,True,2
+Tramadol,Nausea,Common,True,2
+Tramadol,Nervousness,Common,True,2
+Tramadol,Palpitations,Common,True,2
+Tramadol,Pharyngitis,Common,True,2
+Tramadol,Pruritus,Common,True,2
+Tramadol,Sedation,Common,True,2
+Tramadol,Somnolence,Common,True,2
+Tramadol,Sweating,Common,True,2
+Tramadol,Swelling,Common,True,2
+Tramadol,Tinnitus,Common,True,2
+Tramadol,Tremor,Common,True,2
+Tramadol,Urinary Retention,Common,True,2
+Tramadol,Urticaria,Common,True,2
+Tramadol,Vertigo,Common,True,2
+Tramadol,Vomiting,Common,True,2
+Tramadol,Weakness,Common,True,2
+Trazodone,Arrhythmia,Serious,True,1
+Trazodone,Bleeding,Serious,True,1
+Trazodone,Cardiac Arrest,Serious,True,1
+Trazodone,Hallucinations,Serious,True,1
+Trazodone,Jaundice,Serious,True,1
+Trazodone,Myocardial Infarction,Serious,True,1
+Trazodone,Seizure,Serious,True,1
+Trazodone,Serotonin Syndrome,Serious,True,1
+Trazodone,Agitation,Common,True,2
+Trazodone,Anxiety,Common,True,2
+Trazodone,Blurred Vision,Common,True,2
+Trazodone,Chest Pain,Common,True,2
+Trazodone,Chills,Common,True,2
+Trazodone,Confusion,Common,True,2
+Trazodone,Constipation,Common,True,2
+Trazodone,Diarrhea,Common,True,2
+Trazodone,Dizziness,Common,True,2
+Trazodone,Drowsiness,Common,True,2
+Trazodone,Dry Mouth,Common,True,2
+Trazodone,Edema,Common,True,2
+Trazodone,Fatigue,Common,True,2
+Trazodone,Headache,Common,True,2
+Trazodone,Hypertension,Common,True,2
+Trazodone,Hypotension,Common,True,2
+Trazodone,Insomnia,Common,True,2
+Trazodone,Itching,Common,True,2
+Trazodone,Malaise,Common,True,2
+Trazodone,Nasal Congestion,Common,True,2
+Trazodone,Nausea,Common,True,2
+Trazodone,Nervousness,Common,True,2
+Trazodone,Palpitations,Common,True,2
+Trazodone,Pruritus,Common,True,2
+Trazodone,Rash,Common,True,2
+Trazodone,Shortness Of Breath,Common,True,2
+Trazodone,Tachycardia,Common,True,2
+Trazodone,Tremor,Common,True,2
+Trazodone,Urinary Retention,Common,True,2
+Trazodone,Urticaria,Common,True,2
+Trazodone,Vertigo,Common,True,2
+Trazodone,Vomiting,Common,True,2
+Trazodone,Weakness,Common,True,2
+Trazodone,Weight Gain,Common,True,2
+Trazodone,Weight Loss,Common,True,2
+Trimethoprim-Sulfamethoxazole,Agranulocytosis,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Anaphylaxis,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Angioedema,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Aplastic Anemia,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Hallucinations,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Hepatitis,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Jaundice,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Nephrotoxicity,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Neutropenia,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Pancreatitis,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Renal Failure,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Respiratory Failure,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Rhabdomyolysis,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Stevens-Johnson Syndrome,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Thrombocytopenia,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Toxic Epidermal Necrolysis,Serious,True,1
+Trimethoprim-Sulfamethoxazole,Abdominal Pain,Common,True,2
+Trimethoprim-Sulfamethoxazole,Anorexia,Common,True,2
+Trimethoprim-Sulfamethoxazole,Arthralgia,Common,True,2
+Trimethoprim-Sulfamethoxazole,Chills,Common,True,2
+Trimethoprim-Sulfamethoxazole,Cough,Common,True,2
+Trimethoprim-Sulfamethoxazole,Depression,Common,True,2
+Trimethoprim-Sulfamethoxazole,Diarrhea,Common,True,2
+Trimethoprim-Sulfamethoxazole,Edema,Common,True,2
+Trimethoprim-Sulfamethoxazole,Fatigue,Common,True,2
+Trimethoprim-Sulfamethoxazole,Fever,Common,True,2
+Trimethoprim-Sulfamethoxazole,Headache,Common,True,2
+Trimethoprim-Sulfamethoxazole,Hypoglycemia,Common,True,2
+Trimethoprim-Sulfamethoxazole,Insomnia,Common,True,2
+Trimethoprim-Sulfamethoxazole,Myalgia,Common,True,2
+Trimethoprim-Sulfamethoxazole,Nausea,Common,True,2
+Trimethoprim-Sulfamethoxazole,Nervousness,Common,True,2
+Trimethoprim-Sulfamethoxazole,Pruritus,Common,True,2
+Trimethoprim-Sulfamethoxazole,Rash,Common,True,2
+Trimethoprim-Sulfamethoxazole,Shortness Of Breath,Common,True,2
+Trimethoprim-Sulfamethoxazole,Tachycardia,Common,True,2
+Trimethoprim-Sulfamethoxazole,Tinnitus,Common,True,2
+Trimethoprim-Sulfamethoxazole,Urticaria,Common,True,2
+Trimethoprim-Sulfamethoxazole,Vertigo,Common,True,2
+Trimethoprim-Sulfamethoxazole,Vomiting,Common,True,2
+Trimethoprim-Sulfamethoxazole,Weakness,Common,True,2
+Venlafaxine,Agranulocytosis,Serious,True,1
+Venlafaxine,Anaphylaxis,Serious,True,1
+Venlafaxine,Angioedema,Serious,True,1
+Venlafaxine,Aplastic Anemia,Serious,True,1
+Venlafaxine,Bleeding,Serious,True,1
+Venlafaxine,Hallucinations,Serious,True,1
+Venlafaxine,Hemorrhage,Serious,True,1
+Venlafaxine,Hepatitis,Serious,True,1
+Venlafaxine,Hypersensitivity,Serious,True,1
+Venlafaxine,Neuroleptic Malignant Syndrome,Serious,True,1
+Venlafaxine,Neutropenia,Serious,True,1
+Venlafaxine,Pancreatitis,Serious,True,1
+Venlafaxine,Rhabdomyolysis,Serious,True,1
+Venlafaxine,Seizure,Serious,True,1
+Venlafaxine,Serotonin Syndrome,Serious,True,1
+Venlafaxine,Stevens-Johnson Syndrome,Serious,True,1
+Venlafaxine,Thrombocytopenia,Serious,True,1
+Venlafaxine,Toxic Epidermal Necrolysis,Serious,True,1
+Venlafaxine,Agitation,Common,True,2
+Venlafaxine,Anorexia,Common,True,2
+Venlafaxine,Anxiety,Common,True,2
+Venlafaxine,Chills,Common,True,2
+Venlafaxine,Confusion,Common,True,2
+Venlafaxine,Constipation,Common,True,2
+Venlafaxine,Decreased Libido,Common,True,2
+Venlafaxine,Diarrhea,Common,True,2
+Venlafaxine,Dizziness,Common,True,2
+Venlafaxine,Dry Mouth,Common,True,2
+Venlafaxine,Dyspnea,Common,True,2
+Venlafaxine,Edema,Common,True,2
+Venlafaxine,Headache,Common,True,2
+Venlafaxine,Hypertension,Common,True,2
+Venlafaxine,Hypotension,Common,True,2
+Venlafaxine,Insomnia,Common,True,2
+Venlafaxine,Nausea,Common,True,2
+Venlafaxine,Nervousness,Common,True,2
+Venlafaxine,Pruritus,Common,True,2
+Venlafaxine,Rash,Common,True,2
+Venlafaxine,Sexual Dysfunction,Common,True,2
+Venlafaxine,Somnolence,Common,True,2
+Venlafaxine,Sweating,Common,True,2
+Venlafaxine,Tachycardia,Common,True,2
+Venlafaxine,Tinnitus,Common,True,2
+Venlafaxine,Tremor,Common,True,2
+Venlafaxine,Urinary Retention,Common,True,2
+Venlafaxine,Urticaria,Common,True,2
+Venlafaxine,Vomiting,Common,True,2
+Venlafaxine,Weight Gain,Common,True,2
+Venlafaxine,Weight Loss,Common,True,2
+Verapamil,Myocardial Infarction,Serious,True,1
+Verapamil,Stevens-Johnson Syndrome,Serious,True,1
+Verapamil,Arthralgia,Common,True,2
+Verapamil,Blurred Vision,Common,True,2
+Verapamil,Chest Pain,Common,True,2
+Verapamil,Confusion,Common,True,2
+Verapamil,Constipation,Common,True,2
+Verapamil,Diarrhea,Common,True,2
+Verapamil,Dizziness,Common,True,2
+Verapamil,Dry Mouth,Common,True,2
+Verapamil,Dyspnea,Common,True,2
+Verapamil,Edema,Common,True,2
+Verapamil,Fatigue,Common,True,2
+Verapamil,Flushing,Common,True,2
+Verapamil,Headache,Common,True,2
+Verapamil,Hypotension,Common,True,2
+Verapamil,Insomnia,Common,True,2
+Verapamil,Muscle Cramps,Common,True,2
+Verapamil,Nausea,Common,True,2
+Verapamil,Palpitations,Common,True,2
+Verapamil,Rash,Common,True,2
+Verapamil,Somnolence,Common,True,2
+Verapamil,Sweating,Common,True,2
+Verapamil,Tinnitus,Common,True,2
+Verapamil,Urticaria,Common,True,2
+Vitamin B12,Anaphylactic Shock,Serious,True,1
+Vitamin B12,Thrombosis,Serious,True,1
+Vitamin B12,Diarrhea,Common,True,2
+Vitamin B12,Edema,Common,True,2
+Vitamin B12,Itching,Common,True,2
+Vitamin B12,Swelling,Common,True,2
+Vitamin D,Rash,Common,True,2
+Warfarin,Bleeding,Serious,False,1
+Warfarin,Hemorrhage,Serious,True,1
+Warfarin,Hepatitis,Serious,True,1
+Warfarin,Hypersensitivity,Serious,True,1
+Warfarin,Intracranial Bleeding,Serious,False,1
+Warfarin,Abdominal Pain,Common,True,2
+Warfarin,Chills,Common,True,2
+Warfarin,Diarrhea,Common,True,2
+Warfarin,Easy Bruising,Common,False,2
+Warfarin,Nausea,Common,True,2
+Warfarin,Pruritus,Common,True,2
+Warfarin,Rash,Common,True,2
+Warfarin,Urticaria,Common,True,2
+Warfarin,Vomiting,Common,True,2
+Zolpidem,Anaphylactic Shock,Serious,True,1
+Zolpidem,Arrhythmia,Serious,True,1
+Zolpidem,Embolism,Serious,True,1
+Zolpidem,Hallucinations,Serious,True,1
+Zolpidem,Hemorrhage,Serious,True,1
+Zolpidem,Jaundice,Serious,True,1
+Zolpidem,Myocardial Infarction,Serious,True,1
+Zolpidem,Renal Failure,Serious,True,1
+Zolpidem,Suicide Attempt,Serious,True,1
+Zolpidem,Thrombosis,Serious,True,1
+Zolpidem,Agitation,Common,True,2
+Zolpidem,Anorexia,Common,True,2
+Zolpidem,Anxiety,Common,True,2
+Zolpidem,Arthralgia,Common,True,2
+Zolpidem,Back Pain,Common,True,2
+Zolpidem,Chest Pain,Common,True,2
+Zolpidem,Confusion,Common,True,2
+Zolpidem,Constipation,Common,True,2
+Zolpidem,Cough,Common,True,2
+Zolpidem,Decreased Libido,Common,True,2
+Zolpidem,Depression,Common,True,2
+Zolpidem,Diarrhea,Common,True,2
+Zolpidem,Dizziness,Common,True,2
+Zolpidem,Drowsiness,Common,True,2
+Zolpidem,Dry Mouth,Common,True,2
+Zolpidem,Dyspepsia,Common,True,2
+Zolpidem,Dyspnea,Common,True,2
+Zolpidem,Edema,Common,True,2
+Zolpidem,Fatigue,Common,True,2
+Zolpidem,Fever,Common,True,2
+Zolpidem,Flushing,Common,True,2
+Zolpidem,Headache,Common,True,2
+Zolpidem,Hyperglycemia,Common,True,2
+Zolpidem,Hypertension,Common,True,2
+Zolpidem,Hypotension,Common,True,2
+Zolpidem,Insomnia,Common,True,2
+Zolpidem,Malaise,Common,True,2
+Zolpidem,Muscle Weakness,Common,True,2
+Zolpidem,Myalgia,Common,True,2
+Zolpidem,Nausea,Common,True,2
+Zolpidem,Nervousness,Common,True,2
+Zolpidem,Palpitations,Common,True,2
+Zolpidem,Pharyngitis,Common,True,2
+Zolpidem,Pruritus,Common,True,2
+Zolpidem,Rash,Common,True,2
+Zolpidem,Somnolence,Common,True,2
+Zolpidem,Sweating,Common,True,2
+Zolpidem,Tachycardia,Common,True,2
+Zolpidem,Tinnitus,Common,True,2
+Zolpidem,Tremor,Common,True,2
+Zolpidem,Urinary Retention,Common,True,2
+Zolpidem,Urticaria,Common,True,2
+Zolpidem,Vertigo,Common,True,2
+Zolpidem,Visual Disturbance,Common,True,2
+Zolpidem,Vomiting,Common,True,2
+Zolpidem,Weakness,Common,True,2

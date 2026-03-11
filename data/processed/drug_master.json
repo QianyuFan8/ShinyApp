@@ -1,0 +1,802 @@
+[
+  {
+    "generic_name":"Lisinopril",
+    "brand_names":"Prinivil, Zestril",
+    "category":"ACE Inhibitor",
+    "rxcui":"29046",
+    "search_terms":"lisinopril,prinivil, zestril,ace inhibitor",
+    "display_name":"Lisinopril (Prinivil)"
+  },
+  {
+    "generic_name":"Atorvastatin",
+    "brand_names":"Lipitor",
+    "category":"Statin",
+    "rxcui":"83367",
+    "search_terms":"atorvastatin,lipitor,statin",
+    "display_name":"Atorvastatin (Lipitor)"
+  },
+  {
+    "generic_name":"Amlodipine",
+    "brand_names":"Norvasc",
+    "category":"Calcium Channel Blocker",
+    "rxcui":"17767",
+    "search_terms":"amlodipine,norvasc,calcium channel blocker",
+    "display_name":"Amlodipine (Norvasc)"
+  },
+  {
+    "generic_name":"Metoprolol",
+    "brand_names":"Lopressor, Toprol-XL",
+    "category":"Beta Blocker",
+    "rxcui":"6918",
+    "search_terms":"metoprolol,lopressor, toprol-xl,beta blocker",
+    "display_name":"Metoprolol (Lopressor)"
+  },
+  {
+    "generic_name":"Losartan",
+    "brand_names":"Cozaar",
+    "category":"ARB",
+    "rxcui":"52175",
+    "search_terms":"losartan,cozaar,arb",
+    "display_name":"Losartan (Cozaar)"
+  },
+  {
+    "generic_name":"Simvastatin",
+    "brand_names":"Zocor",
+    "category":"Statin",
+    "rxcui":"36567",
+    "search_terms":"simvastatin,zocor,statin",
+    "display_name":"Simvastatin (Zocor)"
+  },
+  {
+    "generic_name":"Furosemide",
+    "brand_names":"Lasix",
+    "category":"Diuretic",
+    "rxcui":"4603",
+    "search_terms":"furosemide,lasix,diuretic",
+    "display_name":"Furosemide (Lasix)"
+  },
+  {
+    "generic_name":"Hydrochlorothiazide",
+    "brand_names":"Microzide",
+    "category":"Diuretic",
+    "rxcui":"5487",
+    "search_terms":"hydrochlorothiazide,microzide,diuretic",
+    "display_name":"Hydrochlorothiazide (Microzide)"
+  },
+  {
+    "generic_name":"Carvedilol",
+    "brand_names":"Coreg",
+    "category":"Beta Blocker",
+    "rxcui":"20352",
+    "search_terms":"carvedilol,coreg,beta blocker",
+    "display_name":"Carvedilol (Coreg)"
+  },
+  {
+    "generic_name":"Clopidogrel",
+    "brand_names":"Plavix",
+    "category":"Antiplatelet",
+    "rxcui":"32968",
+    "search_terms":"clopidogrel,plavix,antiplatelet",
+    "display_name":"Clopidogrel (Plavix)"
+  },
+  {
+    "generic_name":"Warfarin",
+    "brand_names":"Coumadin, Jantoven",
+    "category":"Anticoagulant",
+    "rxcui":"11289",
+    "search_terms":"warfarin,coumadin, jantoven,anticoagulant",
+    "display_name":"Warfarin (Coumadin)"
+  },
+  {
+    "generic_name":"Apixaban",
+    "brand_names":"Eliquis",
+    "category":"Anticoagulant",
+    "rxcui":"1364430",
+    "search_terms":"apixaban,eliquis,anticoagulant",
+    "display_name":"Apixaban (Eliquis)"
+  },
+  {
+    "generic_name":"Rivaroxaban",
+    "brand_names":"Xarelto",
+    "category":"Anticoagulant",
+    "rxcui":"1114195",
+    "search_terms":"rivaroxaban,xarelto,anticoagulant",
+    "display_name":"Rivaroxaban (Xarelto)"
+  },
+  {
+    "generic_name":"Spironolactone",
+    "brand_names":"Aldactone",
+    "category":"Diuretic",
+    "rxcui":"9997",
+    "search_terms":"spironolactone,aldactone,diuretic",
+    "display_name":"Spironolactone (Aldactone)"
+  },
+  {
+    "generic_name":"Diltiazem",
+    "brand_names":"Cardizem",
+    "category":"Calcium Channel Blocker",
+    "rxcui":"3443",
+    "search_terms":"diltiazem,cardizem,calcium channel blocker",
+    "display_name":"Diltiazem (Cardizem)"
+  },
+  {
+    "generic_name":"Verapamil",
+    "brand_names":"Calan",
+    "category":"Calcium Channel Blocker",
+    "rxcui":"11170",
+    "search_terms":"verapamil,calan,calcium channel blocker",
+    "display_name":"Verapamil (Calan)"
+  },
+  {
+    "generic_name":"Propranolol",
+    "brand_names":"Inderal",
+    "category":"Beta Blocker",
+    "rxcui":"8787",
+    "search_terms":"propranolol,inderal,beta blocker",
+    "display_name":"Propranolol (Inderal)"
+  },
+  {
+    "generic_name":"Atenolol",
+    "brand_names":"Tenormin",
+    "category":"Beta Blocker",
+    "rxcui":"1202",
+    "search_terms":"atenolol,tenormin,beta blocker",
+    "display_name":"Atenolol (Tenormin)"
+  },
+  {
+    "generic_name":"Digoxin",
+    "brand_names":"Lanoxin",
+    "category":"Cardiac Glycoside",
+    "rxcui":"3407",
+    "search_terms":"digoxin,lanoxin,cardiac glycoside",
+    "display_name":"Digoxin (Lanoxin)"
+  },
+  {
+    "generic_name":"Rosuvastatin",
+    "brand_names":"Crestor",
+    "category":"Statin",
+    "rxcui":"301542",
+    "search_terms":"rosuvastatin,crestor,statin",
+    "display_name":"Rosuvastatin (Crestor)"
+  },
+  {
+    "generic_name":"Metformin",
+    "brand_names":"Glucophage",
+    "category":"Antidiabetic",
+    "rxcui":"6809",
+    "search_terms":"metformin,glucophage,antidiabetic",
+    "display_name":"Metformin (Glucophage)"
+  },
+  {
+    "generic_name":"Glipizide",
+    "brand_names":"Glucotrol",
+    "category":"Sulfonylurea",
+    "rxcui":"4815",
+    "search_terms":"glipizide,glucotrol,sulfonylurea",
+    "display_name":"Glipizide (Glucotrol)"
+  },
+  {
+    "generic_name":"Insulin Glargine",
+    "brand_names":"Lantus",
+    "category":"Insulin",
+    "rxcui":"274783",
+    "search_terms":"insulin glargine,lantus,insulin",
+    "display_name":"Insulin Glargine (Lantus)"
+  },
+  {
+    "generic_name":"Sitagliptin",
+    "brand_names":"Januvia",
+    "category":"DPP-4 Inhibitor",
+    "rxcui":"665033",
+    "search_terms":"sitagliptin,januvia,dpp-4 inhibitor",
+    "display_name":"Sitagliptin (Januvia)"
+  },
+  {
+    "generic_name":"Empagliflozin",
+    "brand_names":"Jardiance",
+    "category":"SGLT2 Inhibitor",
+    "rxcui":"1545653",
+    "search_terms":"empagliflozin,jardiance,sglt2 inhibitor",
+    "display_name":"Empagliflozin (Jardiance)"
+  },
+  {
+    "generic_name":"Dulaglutide",
+    "brand_names":"Trulicity",
+    "category":"GLP-1 Agonist",
+    "rxcui":"1551291",
+    "search_terms":"dulaglutide,trulicity,glp-1 agonist",
+    "display_name":"Dulaglutide (Trulicity)"
+  },
+  {
+    "generic_name":"Insulin Aspart",
+    "brand_names":"Novolog",
+    "category":"Insulin",
+    "rxcui":"253182",
+    "search_terms":"insulin aspart,novolog,insulin",
+    "display_name":"Insulin Aspart (Novolog)"
+  },
+  {
+    "generic_name":"Glyburide",
+    "brand_names":"DiaBeta",
+    "category":"Sulfonylurea",
+    "rxcui":"4821",
+    "search_terms":"glyburide,diabeta,sulfonylurea",
+    "display_name":"Glyburide (DiaBeta)"
+  },
+  {
+    "generic_name":"Ibuprofen",
+    "brand_names":"Advil, Motrin",
+    "category":"NSAID",
+    "rxcui":"5640",
+    "search_terms":"ibuprofen,advil, motrin,nsaid",
+    "display_name":"Ibuprofen (Advil)"
+  },
+  {
+    "generic_name":"Naproxen",
+    "brand_names":"Aleve, Naprosyn",
+    "category":"NSAID",
+    "rxcui":"7258",
+    "search_terms":"naproxen,aleve, naprosyn,nsaid",
+    "display_name":"Naproxen (Aleve)"
+  },
+  {
+    "generic_name":"Acetaminophen",
+    "brand_names":"Tylenol",
+    "category":"Analgesic",
+    "rxcui":"161",
+    "search_terms":"acetaminophen,tylenol,analgesic",
+    "display_name":"Acetaminophen (Tylenol)"
+  },
+  {
+    "generic_name":"Aspirin",
+    "brand_names":"Bayer, Ecotrin",
+    "category":"NSAID",
+    "rxcui":"1191",
+    "search_terms":"aspirin,bayer, ecotrin,nsaid",
+    "display_name":"Aspirin (Bayer)"
+  },
+  {
+    "generic_name":"Meloxicam",
+    "brand_names":"Mobic",
+    "category":"NSAID",
+    "rxcui":"6960",
+    "search_terms":"meloxicam,mobic,nsaid",
+    "display_name":"Meloxicam (Mobic)"
+  },
+  {
+    "generic_name":"Tramadol",
+    "brand_names":"Ultram",
+    "category":"Opioid",
+    "rxcui":"10689",
+    "search_terms":"tramadol,ultram,opioid",
+    "display_name":"Tramadol (Ultram)"
+  },
+  {
+    "generic_name":"Gabapentin",
+    "brand_names":"Neurontin",
+    "category":"Anticonvulsant",
+    "rxcui":"4493",
+    "search_terms":"gabapentin,neurontin,anticonvulsant",
+    "display_name":"Gabapentin (Neurontin)"
+  },
+  {
+    "generic_name":"Pregabalin",
+    "brand_names":"Lyrica",
+    "category":"Anticonvulsant",
+    "rxcui":"187832",
+    "search_terms":"pregabalin,lyrica,anticonvulsant",
+    "display_name":"Pregabalin (Lyrica)"
+  },
+  {
+    "generic_name":"Cyclobenzaprine",
+    "brand_names":"Flexeril",
+    "category":"Muscle Relaxant",
+    "rxcui":"3112",
+    "search_terms":"cyclobenzaprine,flexeril,muscle relaxant",
+    "display_name":"Cyclobenzaprine (Flexeril)"
+  },
+  {
+    "generic_name":"Baclofen",
+    "brand_names":"Lioresal",
+    "category":"Muscle Relaxant",
+    "rxcui":"1292",
+    "search_terms":"baclofen,lioresal,muscle relaxant",
+    "display_name":"Baclofen (Lioresal)"
+  },
+  {
+    "generic_name":"Methocarbamol",
+    "brand_names":"Robaxin",
+    "category":"Muscle Relaxant",
+    "rxcui":"6878",
+    "search_terms":"methocarbamol,robaxin,muscle relaxant",
+    "display_name":"Methocarbamol (Robaxin)"
+  },
+  {
+    "generic_name":"Diclofenac",
+    "brand_names":"Voltaren",
+    "category":"NSAID",
+    "rxcui":"3355",
+    "search_terms":"diclofenac,voltaren,nsaid",
+    "display_name":"Diclofenac (Voltaren)"
+  },
+  {
+    "generic_name":"Sertraline",
+    "brand_names":"Zoloft",
+    "category":"SSRI",
+    "rxcui":"36437",
+    "search_terms":"sertraline,zoloft,ssri",
+    "display_name":"Sertraline (Zoloft)"
+  },
+  {
+    "generic_name":"Escitalopram",
+    "brand_names":"Lexapro",
+    "category":"SSRI",
+    "rxcui":"321988",
+    "search_terms":"escitalopram,lexapro,ssri",
+    "display_name":"Escitalopram (Lexapro)"
+  },
+  {
+    "generic_name":"Fluoxetine",
+    "brand_names":"Prozac",
+    "category":"SSRI",
+    "rxcui":"4493",
+    "search_terms":"fluoxetine,prozac,ssri",
+    "display_name":"Fluoxetine (Prozac)"
+  },
+  {
+    "generic_name":"Citalopram",
+    "brand_names":"Celexa",
+    "category":"SSRI",
+    "rxcui":"2556",
+    "search_terms":"citalopram,celexa,ssri",
+    "display_name":"Citalopram (Celexa)"
+  },
+  {
+    "generic_name":"Paroxetine",
+    "brand_names":"Paxil",
+    "category":"SSRI",
+    "rxcui":"32937",
+    "search_terms":"paroxetine,paxil,ssri",
+    "display_name":"Paroxetine (Paxil)"
+  },
+  {
+    "generic_name":"Bupropion",
+    "brand_names":"Wellbutrin",
+    "category":"Antidepressant",
+    "rxcui":"42347",
+    "search_terms":"bupropion,wellbutrin,antidepressant",
+    "display_name":"Bupropion (Wellbutrin)"
+  },
+  {
+    "generic_name":"Duloxetine",
+    "brand_names":"Cymbalta",
+    "category":"SNRI",
+    "rxcui":"72625",
+    "search_terms":"duloxetine,cymbalta,snri",
+    "display_name":"Duloxetine (Cymbalta)"
+  },
+  {
+    "generic_name":"Venlafaxine",
+    "brand_names":"Effexor",
+    "category":"SNRI",
+    "rxcui":"39786",
+    "search_terms":"venlafaxine,effexor,snri",
+    "display_name":"Venlafaxine (Effexor)"
+  },
+  {
+    "generic_name":"Trazodone",
+    "brand_names":"Desyrel",
+    "category":"Antidepressant",
+    "rxcui":"10737",
+    "search_terms":"trazodone,desyrel,antidepressant",
+    "display_name":"Trazodone (Desyrel)"
+  },
+  {
+    "generic_name":"Amitriptyline",
+    "brand_names":"Elavil",
+    "category":"TCA",
+    "rxcui":"704",
+    "search_terms":"amitriptyline,elavil,tca",
+    "display_name":"Amitriptyline (Elavil)"
+  },
+  {
+    "generic_name":"Alprazolam",
+    "brand_names":"Xanax",
+    "category":"Benzodiazepine",
+    "rxcui":"596",
+    "search_terms":"alprazolam,xanax,benzodiazepine",
+    "display_name":"Alprazolam (Xanax)"
+  },
+  {
+    "generic_name":"Lorazepam",
+    "brand_names":"Ativan",
+    "category":"Benzodiazepine",
+    "rxcui":"6470",
+    "search_terms":"lorazepam,ativan,benzodiazepine",
+    "display_name":"Lorazepam (Ativan)"
+  },
+  {
+    "generic_name":"Clonazepam",
+    "brand_names":"Klonopin",
+    "category":"Benzodiazepine",
+    "rxcui":"2598",
+    "search_terms":"clonazepam,klonopin,benzodiazepine",
+    "display_name":"Clonazepam (Klonopin)"
+  },
+  {
+    "generic_name":"Diazepam",
+    "brand_names":"Valium",
+    "category":"Benzodiazepine",
+    "rxcui":"3322",
+    "search_terms":"diazepam,valium,benzodiazepine",
+    "display_name":"Diazepam (Valium)"
+  },
+  {
+    "generic_name":"Zolpidem",
+    "brand_names":"Ambien",
+    "category":"Sedative",
+    "rxcui":"39993",
+    "search_terms":"zolpidem,ambien,sedative",
+    "display_name":"Zolpidem (Ambien)"
+  },
+  {
+    "generic_name":"Omeprazole",
+    "brand_names":"Prilosec",
+    "category":"PPI",
+    "rxcui":"7646",
+    "search_terms":"omeprazole,prilosec,ppi",
+    "display_name":"Omeprazole (Prilosec)"
+  },
+  {
+    "generic_name":"Pantoprazole",
+    "brand_names":"Protonix",
+    "category":"PPI",
+    "rxcui":"40790",
+    "search_terms":"pantoprazole,protonix,ppi",
+    "display_name":"Pantoprazole (Protonix)"
+  },
+  {
+    "generic_name":"Lansoprazole",
+    "brand_names":"Prevacid",
+    "category":"PPI",
+    "rxcui":"17128",
+    "search_terms":"lansoprazole,prevacid,ppi",
+    "display_name":"Lansoprazole (Prevacid)"
+  },
+  {
+    "generic_name":"Esomeprazole",
+    "brand_names":"Nexium",
+    "category":"PPI",
+    "rxcui":"283742",
+    "search_terms":"esomeprazole,nexium,ppi",
+    "display_name":"Esomeprazole (Nexium)"
+  },
+  {
+    "generic_name":"Famotidine",
+    "brand_names":"Pepcid",
+    "category":"H2 Blocker",
+    "rxcui":"4278",
+    "search_terms":"famotidine,pepcid,h2 blocker",
+    "display_name":"Famotidine (Pepcid)"
+  },
+  {
+    "generic_name":"Ranitidine",
+    "brand_names":"Zantac",
+    "category":"H2 Blocker",
+    "rxcui":"8987",
+    "search_terms":"ranitidine,zantac,h2 blocker",
+    "display_name":"Ranitidine (Zantac)"
+  },
+  {
+    "generic_name":"Ondansetron",
+    "brand_names":"Zofran",
+    "category":"Antiemetic",
+    "rxcui":"38400",
+    "search_terms":"ondansetron,zofran,antiemetic",
+    "display_name":"Ondansetron (Zofran)"
+  },
+  {
+    "generic_name":"Metoclopramide",
+    "brand_names":"Reglan",
+    "category":"Antiemetic",
+    "rxcui":"6915",
+    "search_terms":"metoclopramide,reglan,antiemetic",
+    "display_name":"Metoclopramide (Reglan)"
+  },
+  {
+    "generic_name":"Albuterol",
+    "brand_names":"ProAir, Ventolin",
+    "category":"Beta-2 Agonist",
+    "rxcui":"435",
+    "search_terms":"albuterol,proair, ventolin,beta-2 agonist",
+    "display_name":"Albuterol (ProAir)"
+  },
+  {
+    "generic_name":"Montelukast",
+    "brand_names":"Singulair",
+    "category":"Leukotriene Inhibitor",
+    "rxcui":"88249",
+    "search_terms":"montelukast,singulair,leukotriene inhibitor",
+    "display_name":"Montelukast (Singulair)"
+  },
+  {
+    "generic_name":"Fluticasone",
+    "brand_names":"Flovent",
+    "category":"Corticosteroid",
+    "rxcui":"202421",
+    "search_terms":"fluticasone,flovent,corticosteroid",
+    "display_name":"Fluticasone (Flovent)"
+  },
+  {
+    "generic_name":"Budesonide",
+    "brand_names":"Pulmicort",
+    "category":"Corticosteroid",
+    "rxcui":"1998",
+    "search_terms":"budesonide,pulmicort,corticosteroid",
+    "display_name":"Budesonide (Pulmicort)"
+  },
+  {
+    "generic_name":"Prednisone",
+    "brand_names":"Deltasone",
+    "category":"Corticosteroid",
+    "rxcui":"8640",
+    "search_terms":"prednisone,deltasone,corticosteroid",
+    "display_name":"Prednisone (Deltasone)"
+  },
+  {
+    "generic_name":"Methylprednisolone",
+    "brand_names":"Medrol",
+    "category":"Corticosteroid",
+    "rxcui":"6902",
+    "search_terms":"methylprednisolone,medrol,corticosteroid",
+    "display_name":"Methylprednisolone (Medrol)"
+  },
+  {
+    "generic_name":"Dexamethasone",
+    "brand_names":"Decadron",
+    "category":"Corticosteroid",
+    "rxcui":"3264",
+    "search_terms":"dexamethasone,decadron,corticosteroid",
+    "display_name":"Dexamethasone (Decadron)"
+  },
+  {
+    "generic_name":"Salmeterol",
+    "brand_names":"Serevent",
+    "category":"Beta-2 Agonist",
+    "rxcui":"36117",
+    "search_terms":"salmeterol,serevent,beta-2 agonist",
+    "display_name":"Salmeterol (Serevent)"
+  },
+  {
+    "generic_name":"Amoxicillin",
+    "brand_names":"Amoxil",
+    "category":"Penicillin",
+    "rxcui":"723",
+    "search_terms":"amoxicillin,amoxil,penicillin",
+    "display_name":"Amoxicillin (Amoxil)"
+  },
+  {
+    "generic_name":"Azithromycin",
+    "brand_names":"Zithromax",
+    "category":"Macrolide",
+    "rxcui":"18631",
+    "search_terms":"azithromycin,zithromax,macrolide",
+    "display_name":"Azithromycin (Zithromax)"
+  },
+  {
+    "generic_name":"Doxycycline",
+    "brand_names":"Vibramycin",
+    "category":"Tetracycline",
+    "rxcui":"3640",
+    "search_terms":"doxycycline,vibramycin,tetracycline",
+    "display_name":"Doxycycline (Vibramycin)"
+  },
+  {
+    "generic_name":"Ciprofloxacin",
+    "brand_names":"Cipro",
+    "category":"Fluoroquinolone",
+    "rxcui":"2551",
+    "search_terms":"ciprofloxacin,cipro,fluoroquinolone",
+    "display_name":"Ciprofloxacin (Cipro)"
+  },
+  {
+    "generic_name":"Levofloxacin",
+    "brand_names":"Levaquin",
+    "category":"Fluoroquinolone",
+    "rxcui":"82122",
+    "search_terms":"levofloxacin,levaquin,fluoroquinolone",
+    "display_name":"Levofloxacin (Levaquin)"
+  },
+  {
+    "generic_name":"Cephalexin",
+    "brand_names":"Keflex",
+    "category":"Cephalosporin",
+    "rxcui":"2231",
+    "search_terms":"cephalexin,keflex,cephalosporin",
+    "display_name":"Cephalexin (Keflex)"
+  },
+  {
+    "generic_name":"Clindamycin",
+    "brand_names":"Cleocin",
+    "category":"Lincosamide",
+    "rxcui":"2582",
+    "search_terms":"clindamycin,cleocin,lincosamide",
+    "display_name":"Clindamycin (Cleocin)"
+  },
+  {
+    "generic_name":"Trimethoprim-Sulfamethoxazole",
+    "brand_names":"Bactrim",
+    "category":"Sulfonamide",
+    "rxcui":"10831",
+    "search_terms":"trimethoprim-sulfamethoxazole,bactrim,sulfonamide",
+    "display_name":"Trimethoprim-Sulfamethoxazole (Bactrim)"
+  },
+  {
+    "generic_name":"Metronidazole",
+    "brand_names":"Flagyl",
+    "category":"Nitroimidazole",
+    "rxcui":"6922",
+    "search_terms":"metronidazole,flagyl,nitroimidazole",
+    "display_name":"Metronidazole (Flagyl)"
+  },
+  {
+    "generic_name":"Nitrofurantoin",
+    "brand_names":"Macrobid",
+    "category":"Nitrofuran",
+    "rxcui":"7517",
+    "search_terms":"nitrofurantoin,macrobid,nitrofuran",
+    "display_name":"Nitrofurantoin (Macrobid)"
+  },
+  {
+    "generic_name":"Levothyroxine",
+    "brand_names":"Synthroid",
+    "category":"Thyroid",
+    "rxcui":"10582",
+    "search_terms":"levothyroxine,synthroid,thyroid",
+    "display_name":"Levothyroxine (Synthroid)"
+  },
+  {
+    "generic_name":"Vitamin D",
+    "brand_names":"Cholecalciferol",
+    "category":"Supplement",
+    "rxcui":"316672",
+    "search_terms":"vitamin d,cholecalciferol,supplement",
+    "display_name":"Vitamin D (Cholecalciferol)"
+  },
+  {
+    "generic_name":"Vitamin B12",
+    "brand_names":"Cyanocobalamin",
+    "category":"Supplement",
+    "rxcui":"3310",
+    "search_terms":"vitamin b12,cyanocobalamin,supplement",
+    "display_name":"Vitamin B12 (Cyanocobalamin)"
+  },
+  {
+    "generic_name":"Folic Acid",
+    "brand_names":"",
+    "category":"Supplement",
+    "rxcui":"4419",
+    "search_terms":"folic acid,,supplement",
+    "display_name":"Folic Acid"
+  },
+  {
+    "generic_name":"Iron Sulfate",
+    "brand_names":"Feosol",
+    "category":"Supplement",
+    "rxcui":"5640",
+    "search_terms":"iron sulfate,feosol,supplement",
+    "display_name":"Iron Sulfate (Feosol)"
+  },
+  {
+    "generic_name":"Calcium Carbonate",
+    "brand_names":"Tums",
+    "category":"Supplement",
+    "rxcui":"2122",
+    "search_terms":"calcium carbonate,tums,supplement",
+    "display_name":"Calcium Carbonate (Tums)"
+  },
+  {
+    "generic_name":"Tamsulosin",
+    "brand_names":"Flomax",
+    "category":"Alpha Blocker",
+    "rxcui":"77492",
+    "search_terms":"tamsulosin,flomax,alpha blocker",
+    "display_name":"Tamsulosin (Flomax)"
+  },
+  {
+    "generic_name":"Finasteride",
+    "brand_names":"Proscar",
+    "category":"5-Alpha Reductase",
+    "rxcui":"4469",
+    "search_terms":"finasteride,proscar,5-alpha reductase",
+    "display_name":"Finasteride (Proscar)"
+  },
+  {
+    "generic_name":"Sildenafil",
+    "brand_names":"Viagra",
+    "category":"PDE5 Inhibitor",
+    "rxcui":"136411",
+    "search_terms":"sildenafil,viagra,pde5 inhibitor",
+    "display_name":"Sildenafil (Viagra)"
+  },
+  {
+    "generic_name":"Tadalafil",
+    "brand_names":"Cialis",
+    "category":"PDE5 Inhibitor",
+    "rxcui":"349332",
+    "search_terms":"tadalafil,cialis,pde5 inhibitor",
+    "display_name":"Tadalafil (Cialis)"
+  },
+  {
+    "generic_name":"Cetirizine",
+    "brand_names":"Zyrtec",
+    "category":"Antihistamine",
+    "rxcui":"2270",
+    "search_terms":"cetirizine,zyrtec,antihistamine",
+    "display_name":"Cetirizine (Zyrtec)"
+  },
+  {
+    "generic_name":"Loratadine",
+    "brand_names":"Claritin",
+    "category":"Antihistamine",
+    "rxcui":"6472",
+    "search_terms":"loratadine,claritin,antihistamine",
+    "display_name":"Loratadine (Claritin)"
+  },
+  {
+    "generic_name":"Fexofenadine",
+    "brand_names":"Allegra",
+    "category":"Antihistamine",
+    "rxcui":"83160",
+    "search_terms":"fexofenadine,allegra,antihistamine",
+    "display_name":"Fexofenadine (Allegra)"
+  },
+  {
+    "generic_name":"Diphenhydramine",
+    "brand_names":"Benadryl",
+    "category":"Antihistamine",
+    "rxcui":"3498",
+    "search_terms":"diphenhydramine,benadryl,antihistamine",
+    "display_name":"Diphenhydramine (Benadryl)"
+  },
+  {
+    "generic_name":"Pseudoephedrine",
+    "brand_names":"Sudafed",
+    "category":"Decongestant",
+    "rxcui":"8787",
+    "search_terms":"pseudoephedrine,sudafed,decongestant",
+    "display_name":"Pseudoephedrine (Sudafed)"
+  },
+  {
+    "generic_name":"Potassium Chloride",
+    "brand_names":"K-Dur",
+    "category":"Electrolyte",
+    "rxcui":"8591",
+    "search_terms":"potassium chloride,k-dur,electrolyte",
+    "display_name":"Potassium Chloride (K-Dur)"
+  },
+  {
+    "generic_name":"Magnesium Oxide",
+    "brand_names":"",
+    "category":"Supplement",
+    "rxcui":"6675",
+    "search_terms":"magnesium oxide,,supplement",
+    "display_name":"Magnesium Oxide"
+  },
+  {
+    "generic_name":"Multivitamin",
+    "brand_names":"",
+    "category":"Supplement",
+    "rxcui":"7238",
+    "search_terms":"multivitamin,,supplement",
+    "display_name":"Multivitamin"
+  },
+  {
+    "generic_name":"Fish Oil",
+    "brand_names":"Omega-3",
+    "category":"Supplement",
+    "rxcui":"849574",
+    "search_terms":"fish oil,omega-3,supplement",
+    "display_name":"Fish Oil (Omega-3)"
+  }
+]

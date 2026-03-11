@@ -1,0 +1,1428 @@
+{
+  "nodes": [
+    {
+      "id": "Carvedilol",
+      "label": "Carvedilol",
+      "group": "Beta Blocker",
+      "rxcui": "20352"
+    },
+    {
+      "id": "Atenolol",
+      "label": "Atenolol",
+      "group": "Beta Blocker",
+      "rxcui": "1202"
+    },
+    {
+      "id": "Amoxicillin",
+      "label": "Amoxicillin",
+      "group": "Penicillin",
+      "rxcui": "723"
+    },
+    {
+      "id": "Prednisone",
+      "label": "Prednisone",
+      "group": "Corticosteroid",
+      "rxcui": "8640"
+    },
+    {
+      "id": "Rivaroxaban",
+      "label": "Rivaroxaban",
+      "group": "Anticoagulant",
+      "rxcui": "1114195"
+    },
+    {
+      "id": "Fluoxetine",
+      "label": "Fluoxetine",
+      "group": "SSRI",
+      "rxcui": "4493"
+    },
+    {
+      "id": "Omeprazole",
+      "label": "Omeprazole",
+      "group": "PPI",
+      "rxcui": "7646"
+    },
+    {
+      "id": "Atorvastatin",
+      "label": "Atorvastatin",
+      "group": "Statin",
+      "rxcui": "83367"
+    },
+    {
+      "id": "Doxycycline",
+      "label": "Doxycycline",
+      "group": "Tetracycline",
+      "rxcui": "3640"
+    },
+    {
+      "id": "Meloxicam",
+      "label": "Meloxicam",
+      "group": "NSAID",
+      "rxcui": "6960"
+    },
+    {
+      "id": "Nitrofurantoin",
+      "label": "Nitrofurantoin",
+      "group": "Nitrofuran",
+      "rxcui": "7517"
+    },
+    {
+      "id": "Simvastatin",
+      "label": "Simvastatin",
+      "group": "Statin",
+      "rxcui": "36567"
+    },
+    {
+      "id": "Citalopram",
+      "label": "Citalopram",
+      "group": "SSRI",
+      "rxcui": "2556"
+    },
+    {
+      "id": "Azithromycin",
+      "label": "Azithromycin",
+      "group": "Macrolide",
+      "rxcui": "18631"
+    },
+    {
+      "id": "Tamsulosin",
+      "label": "Tamsulosin",
+      "group": "Alpha Blocker",
+      "rxcui": "77492"
+    },
+    {
+      "id": "Metronidazole",
+      "label": "Metronidazole",
+      "group": "Nitroimidazole",
+      "rxcui": "6922"
+    },
+    {
+      "id": "Clonazepam",
+      "label": "Clonazepam",
+      "group": "Benzodiazepine",
+      "rxcui": "2598"
+    },
+    {
+      "id": "Methylprednisolone",
+      "label": "Methylprednisolone",
+      "group": "Corticosteroid",
+      "rxcui": "6902"
+    },
+    {
+      "id": "Metformin",
+      "label": "Metformin",
+      "group": "Antidiabetic",
+      "rxcui": "6809"
+    },
+    {
+      "id": "Apixaban",
+      "label": "Apixaban",
+      "group": "Anticoagulant",
+      "rxcui": "1364430"
+    },
+    {
+      "id": "Magnesium Oxide",
+      "label": "Magnesium Oxide",
+      "group": "Supplement",
+      "rxcui": "6675"
+    },
+    {
+      "id": "Digoxin",
+      "label": "Digoxin",
+      "group": "Cardiac Glycoside",
+      "rxcui": "3407"
+    },
+    {
+      "id": "Clindamycin",
+      "label": "Clindamycin",
+      "group": "Lincosamide",
+      "rxcui": "2582"
+    },
+    {
+      "id": "Ibuprofen",
+      "label": "Ibuprofen",
+      "group": "NSAID",
+      "rxcui": "5640"
+    },
+    {
+      "id": "Venlafaxine",
+      "label": "Venlafaxine",
+      "group": "SNRI",
+      "rxcui": "39786"
+    },
+    {
+      "id": "Ciprofloxacin",
+      "label": "Ciprofloxacin",
+      "group": "Fluoroquinolone",
+      "rxcui": "2551"
+    },
+    {
+      "id": "Losartan",
+      "label": "Losartan",
+      "group": "ARB",
+      "rxcui": "52175"
+    },
+    {
+      "id": "Tadalafil",
+      "label": "Tadalafil",
+      "group": "PDE5 Inhibitor",
+      "rxcui": "349332"
+    },
+    {
+      "id": "Spironolactone",
+      "label": "Spironolactone",
+      "group": "Diuretic",
+      "rxcui": "9997"
+    },
+    {
+      "id": "Gabapentin",
+      "label": "Gabapentin",
+      "group": "Anticonvulsant",
+      "rxcui": "4493"
+    },
+    {
+      "id": "Sildenafil",
+      "label": "Sildenafil",
+      "group": "PDE5 Inhibitor",
+      "rxcui": "136411"
+    },
+    {
+      "id": "Aspirin",
+      "label": "Aspirin",
+      "group": "NSAID",
+      "rxcui": "1191"
+    },
+    {
+      "id": "Diphenhydramine",
+      "label": "Diphenhydramine",
+      "group": "Antihistamine",
+      "rxcui": "3498"
+    },
+    {
+      "id": "Sertraline",
+      "label": "Sertraline",
+      "group": "SSRI",
+      "rxcui": "36437"
+    },
+    {
+      "id": "Metoprolol",
+      "label": "Metoprolol",
+      "group": "Beta Blocker",
+      "rxcui": "6918"
+    },
+    {
+      "id": "Levothyroxine",
+      "label": "Levothyroxine",
+      "group": "Thyroid",
+      "rxcui": "10582"
+    },
+    {
+      "id": "Cephalexin",
+      "label": "Cephalexin",
+      "group": "Cephalosporin",
+      "rxcui": "2231"
+    },
+    {
+      "id": "Potassium Chloride",
+      "label": "Potassium Chloride",
+      "group": "Electrolyte",
+      "rxcui": "8591"
+    },
+    {
+      "id": "Alprazolam",
+      "label": "Alprazolam",
+      "group": "Benzodiazepine",
+      "rxcui": "596"
+    },
+    {
+      "id": "Trazodone",
+      "label": "Trazodone",
+      "group": "Antidepressant",
+      "rxcui": "10737"
+    },
+    {
+      "id": "Calcium Carbonate",
+      "label": "Calcium Carbonate",
+      "group": "Supplement",
+      "rxcui": "2122"
+    },
+    {
+      "id": "Bupropion",
+      "label": "Bupropion",
+      "group": "Antidepressant",
+      "rxcui": "42347"
+    },
+    {
+      "id": "Duloxetine",
+      "label": "Duloxetine",
+      "group": "SNRI",
+      "rxcui": "72625"
+    },
+    {
+      "id": "Diclofenac",
+      "label": "Diclofenac",
+      "group": "NSAID",
+      "rxcui": "3355"
+    },
+    {
+      "id": "Diazepam",
+      "label": "Diazepam",
+      "group": "Benzodiazepine",
+      "rxcui": "3322"
+    },
+    {
+      "id": "Lansoprazole",
+      "label": "Lansoprazole",
+      "group": "PPI",
+      "rxcui": "17128"
+    },
+    {
+      "id": "Pregabalin",
+      "label": "Pregabalin",
+      "group": "Anticonvulsant",
+      "rxcui": "187832"
+    },
+    {
+      "id": "Clopidogrel",
+      "label": "Clopidogrel",
+      "group": "Antiplatelet",
+      "rxcui": "32968"
+    },
+    {
+      "id": "Lorazepam",
+      "label": "Lorazepam",
+      "group": "Benzodiazepine",
+      "rxcui": "6470"
+    },
+    {
+      "id": "Escitalopram",
+      "label": "Escitalopram",
+      "group": "SSRI",
+      "rxcui": "321988"
+    },
+    {
+      "id": "Dexamethasone",
+      "label": "Dexamethasone",
+      "group": "Corticosteroid",
+      "rxcui": "3264"
+    },
+    {
+      "id": "Levofloxacin",
+      "label": "Levofloxacin",
+      "group": "Fluoroquinolone",
+      "rxcui": "82122"
+    },
+    {
+      "id": "Iron Sulfate",
+      "label": "Iron Sulfate",
+      "group": "Supplement",
+      "rxcui": "5640"
+    },
+    {
+      "id": "Furosemide",
+      "label": "Furosemide",
+      "group": "Diuretic",
+      "rxcui": "4603"
+    },
+    {
+      "id": "Hydrochlorothiazide",
+      "label": "Hydrochlorothiazide",
+      "group": "Diuretic",
+      "rxcui": "5487"
+    },
+    {
+      "id": "Paroxetine",
+      "label": "Paroxetine",
+      "group": "SSRI",
+      "rxcui": "32937"
+    },
+    {
+      "id": "Verapamil",
+      "label": "Verapamil",
+      "group": "Calcium Channel Blocker",
+      "rxcui": "11170"
+    },
+    {
+      "id": "Amlodipine",
+      "label": "Amlodipine",
+      "group": "Calcium Channel Blocker",
+      "rxcui": "17767"
+    },
+    {
+      "id": "Diltiazem",
+      "label": "Diltiazem",
+      "group": "Calcium Channel Blocker",
+      "rxcui": "3443"
+    },
+    {
+      "id": "Esomeprazole",
+      "label": "Esomeprazole",
+      "group": "PPI",
+      "rxcui": "283742"
+    },
+    {
+      "id": "Trimethoprim-Sulfamethoxazole",
+      "label": "Trimethoprim-Sulfamethoxazole",
+      "group": "Sulfonamide",
+      "rxcui": "10831"
+    },
+    {
+      "id": "Zolpidem",
+      "label": "Zolpidem",
+      "group": "Sedative",
+      "rxcui": "39993"
+    },
+    {
+      "id": "Warfarin",
+      "label": "Warfarin",
+      "group": "Anticoagulant",
+      "rxcui": "11289"
+    },
+    {
+      "id": "Naproxen",
+      "label": "Naproxen",
+      "group": "NSAID",
+      "rxcui": "7258"
+    },
+    {
+      "id": "Propranolol",
+      "label": "Propranolol",
+      "group": "Beta Blocker",
+      "rxcui": "8787"
+    },
+    {
+      "id": "Lisinopril",
+      "label": "Lisinopril",
+      "group": "ACE Inhibitor",
+      "rxcui": "29046"
+    },
+    {
+      "id": "Pantoprazole",
+      "label": "Pantoprazole",
+      "group": "PPI",
+      "rxcui": "40790"
+    },
+    {
+      "id": "Tramadol",
+      "label": "Tramadol",
+      "group": "Opioid",
+      "rxcui": "10689"
+    },
+    {
+      "id": "Albuterol",
+      "label": "Albuterol",
+      "group": "Beta-2 Agonist",
+      "rxcui": "435"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Warfarin",
+      "to": "Aspirin",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Warfarin + Aspirin: High",
+      "description": "Concurrent use significantly increases bleeding risk. Both inhibit platelet function through different mechanisms. Monitor for signs of bleeding (bruising, hematoma, blood in stool/urine). Consider ga..."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Ibuprofen",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Warfarin + Ibuprofen: High",
+      "description": "NSAIDs increase bleeding risk 2-3 fold when combined with warfarin. Ibuprofen inhibits platelet COX-1, impairing aggregation. Monitor INR closely; may need warfarin dose reduction."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Naproxen",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Warfarin + Naproxen: High",
+      "description": "Naproxen prolongs bleeding time and may displace warfarin from protein binding sites. Risk of major hemorrhage. Monitor INR every 3-7 days after NSAID initiation."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Meloxicam",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Warfarin + Meloxicam: High",
+      "description": "COX-2 selective NSAIDs still increase bleeding risk with anticoagulants. Less GI toxicity than non-selective NSAIDs but bleeding risk remains. Monitor closely."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Diclofenac",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Warfarin + Diclofenac: High",
+      "description": "Diclofenac increases warfarin effect via pharmacodynamic interaction. Risk of serious bleeding events. Use lowest effective NSAID dose for shortest duration."
+    },
+    {
+      "from": "Apixaban",
+      "to": "Aspirin",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Apixaban + Aspirin: High",
+      "description": "Direct oral anticoagulant (DOAC) plus antiplatelet increases major bleeding risk 1.5-2 fold. Often used together post-ACS but requires careful risk-benefit assessment."
+    },
+    {
+      "from": "Apixaban",
+      "to": "Ibuprofen",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Apixaban + Ibuprofen: High",
+      "description": "NSAID use with DOAC increases bleeding risk without providing additional thrombotic protection. Avoid concurrent use when possible; use acetaminophen for pain."
+    },
+    {
+      "from": "Apixaban",
+      "to": "Naproxen",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Apixaban + Naproxen: High",
+      "description": "Combined antiplatelet effect significantly increases hemorrhage risk. If NSAID necessary, use lowest dose for shortest time and counsel patient on bleeding signs."
+    },
+    {
+      "from": "Rivaroxaban",
+      "to": "Aspirin",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Rivaroxaban + Aspirin: High",
+      "description": "Aspirin plus rivaroxaban acceptable only when clear indication exists (e.g., post-PCI). Increases bleeding without reducing stroke risk in atrial fibrillation alone."
+    },
+    {
+      "from": "Rivaroxaban",
+      "to": "Ibuprofen",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Rivaroxaban + Ibuprofen: High",
+      "description": "NSAID use contraindicated with rivaroxaban unless benefits clearly outweigh bleeding risks. Consider alternatives like acetaminophen or topical NSAIDs."
+    },
+    {
+      "from": "Rivaroxaban",
+      "to": "Naproxen",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Rivaroxaban + Naproxen: High",
+      "description": "Naproxen has long half-life (12-17 hours), providing prolonged antiplatelet effect. This increases bleeding risk when combined with DOAC. Avoid combination."
+    },
+    {
+      "from": "Clopidogrel",
+      "to": "Aspirin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Clopidogrel + Aspirin: Medium",
+      "description": "Dual antiplatelet therapy (DAPT) standard post-stent but increases bleeding 2-3 fold. Duration depends on stent type and bleeding risk. Monitor closely."
+    },
+    {
+      "from": "Apixaban",
+      "to": "Clopidogrel",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Apixaban + Clopidogrel: High",
+      "description": "Triple therapy (DOAC + dual antiplatelet) reserved for specific situations (recent PCI + atrial fib). Very high bleeding risk. Shorten DAPT duration when possible."
+    },
+    {
+      "from": "Rivaroxaban",
+      "to": "Clopidogrel",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Rivaroxaban + Clopidogrel: High",
+      "description": "Similar to apixaban + clopidogrel. Major bleeding rate 2-3% annually. Use only when benefits outweigh risks. Consider PPI for gastroprotection."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Azithromycin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Warfarin + Azithromycin: Medium",
+      "description": "Macrolides may potentiate warfarin via unknown mechanism. Monitor INR within 3-5 days of starting azithromycin. Expect potential 20-30% INR increase. Consider prophylactic warfarin dose reduction of 1..."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Ciprofloxacin",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Warfarin + Ciprofloxacin: High",
+      "description": "Fluoroquinolones significantly increase warfarin levels via CYP1A2 and CYP3A4 inhibition. INR may increase 50-100%. Reduce warfarin dose 25-50% empirically. Check INR every 2-3 days during therapy."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Levofloxacin",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Warfarin + Levofloxacin: High",
+      "description": "Similar to ciprofloxacin. Levofloxacin inhibits warfarin metabolism, increasing bleeding risk. Reduce warfarin dose proactively. Multiple case reports of serious bleeding events."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Metronidazole",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Warfarin + Metronidazole: High",
+      "description": "Potent CYP2C9 inhibition causes 30-50% increase in warfarin levels. One of the strongest warfarin interactions. Reduce dose 30-40% when starting metronidazole. Check INR frequently (every 2-3 days)."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Trimethoprim-Sulfamethoxazole",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Warfarin + Trimethoprim-Sulfamethoxazole: High",
+      "description": "Stereoselective inhibition of S-warfarin metabolism (more potent enantiomer). Can cause dramatic INR increases (>10 reported). High bleeding risk. Consider alternative antibiotic if possible."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Clindamycin",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Warfarin + Clindamycin: Low",
+      "description": "Limited interaction data. Theoretically may alter gut flora affecting vitamin K production. Monitor INR but significant changes uncommon. Generally safe combination."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Amoxicillin",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Warfarin + Amoxicillin: Low",
+      "description": "Beta-lactams have minimal direct interaction with warfarin. May reduce vitamin K producing gut bacteria with prolonged use. Monitor INR if therapy >7-10 days."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Doxycycline",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Warfarin + Doxycycline: Medium",
+      "description": "Tetracyclines may enhance warfarin effect through unclear mechanism. Monitor INR but interaction less pronounced than with fluoroquinolones or metronidazole."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Cephalexin",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Warfarin + Cephalexin: Low",
+      "description": "First-generation cephalosporins have minimal warfarin interaction. Routine INR monitoring sufficient. Generally safe combination."
+    },
+    {
+      "from": "Warfarin",
+      "to": "Nitrofurantoin",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Warfarin + Nitrofurantoin: Low",
+      "description": "Minimal interaction reported. Safe for UTI treatment in patients on warfarin. Standard INR monitoring adequate."
+    },
+    {
+      "from": "Sertraline",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Sertraline + Tramadol: High",
+      "description": "Both increase serotonin. Risk of serotonin syndrome (SS): agitation, confusion, tachycardia, hypertension, hyperthermia, hyperreflexia, myoclonus. SS can be fatal. Avoid combination; use non-serotoner..."
+    },
+    {
+      "from": "Escitalopram",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Escitalopram + Tramadol: High",
+      "description": "Escitalopram is potent SSRI; tramadol inhibits serotonin/norepinephrine reuptake. High SS risk especially with tramadol doses >200mg/day. Consider alternatives: acetaminophen, NSAIDs, or opioids witho..."
+    },
+    {
+      "from": "Fluoxetine",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Fluoxetine + Tramadol: High",
+      "description": "Fluoxetine has long half-life (4-6 days) and active metabolite (7-9 days). Combined with tramadol, creates prolonged SS risk. Also increases seizure risk via lowered seizure threshold. Strongly avoid ..."
+    },
+    {
+      "from": "Citalopram",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Citalopram + Tramadol: High",
+      "description": "Similar mechanism to other SSRIs. SS onset can be within hours or take several days. Early symptoms: restlessness, diarrhea, tremor. Severe: rigidity, seizures, autonomic instability. Educate patients..."
+    },
+    {
+      "from": "Paroxetine",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Paroxetine + Tramadol: High",
+      "description": "Paroxetine is potent CYP2D6 inhibitor, reducing tramadol metabolism to active metabolite (M1). Creates dual risk: SS from serotonin excess, plus reduced analgesia. Avoid combination."
+    },
+    {
+      "from": "Duloxetine",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Duloxetine + Tramadol: High",
+      "description": "SNRI (affects both serotonin and norepinephrine) plus tramadol creates very high SS risk. Duloxetine also used for pain, making tramadol potentially unnecessary. Consider if adequate pain control with..."
+    },
+    {
+      "from": "Venlafaxine",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Venlafaxine + Tramadol: High",
+      "description": "Venlafaxine at doses >150mg/day has significant serotonergic effect. Combined with tramadol, substantially increases SS risk. Monitor closely if combination unavoidable; use lowest tramadol dose."
+    },
+    {
+      "from": "Sertraline",
+      "to": "Trazodone",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Sertraline + Trazodone: Medium",
+      "description": "Trazodone used for insomnia in depression patients on SSRIs. Low-dose trazodone (25-100mg) generally safe but monitor for SS symptoms. Higher trazodone doses increase risk."
+    },
+    {
+      "from": "Fluoxetine",
+      "to": "Bupropion",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Fluoxetine + Bupropion: Medium",
+      "description": "Not traditional serotonin syndrome but fluoxetine inhibits bupropion metabolism via CYP2D6, increasing seizure risk. Monitor for agitation, insomnia. Generally safe combination but requires monitoring..."
+    },
+    {
+      "from": "Alprazolam",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Alprazolam + Tramadol: High",
+      "description": "FDA BLACK BOX WARNING: Benzodiazepine-opioid combination increases risk of profound sedation, respiratory depression, coma, death. Over 30% of opioid overdose deaths involve benzodiazepines. Avoid com..."
+    },
+    {
+      "from": "Lorazepam",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Lorazepam + Tramadol: High",
+      "description": "Additive CNS and respiratory depression. Elderly especially vulnerable. If combination unavoidable: start low doses (e.g., lorazepam 0.5mg, tramadol 25mg), titrate slowly, educate patient/family on ov..."
+    },
+    {
+      "from": "Diazepam",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Diazepam + Tramadol: High",
+      "description": "Diazepam has long half-life (20-100 hours) and active metabolites, creating prolonged interaction risk. Additive sedation and respiratory depression. Strongly avoid; consider non-benzodiazepine altern..."
+    },
+    {
+      "from": "Clonazepam",
+      "to": "Tramadol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Clonazepam + Tramadol: High",
+      "description": "Similar risks to other benzodiazepines. Clonazepam often used long-term for seizures/anxiety, making interaction more clinically relevant. Discuss tapering benzodiazepine before starting opioid, or us..."
+    },
+    {
+      "from": "Alprazolam",
+      "to": "Gabapentin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Alprazolam + Gabapentin: Medium",
+      "description": "Both cause CNS depression but respiratory depression risk lower than with opioids. Still increases fall risk (especially elderly), sedation, cognitive impairment. Monitor closely; consider dose reduct..."
+    },
+    {
+      "from": "Lorazepam",
+      "to": "Gabapentin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Lorazepam + Gabapentin: Medium",
+      "description": "Additive dizziness, drowsiness, confusion. Falls are major concern in elderly. Start gabapentin at low dose (100-300mg/day) if patient on benzodiazepine. Consider fall risk assessment."
+    },
+    {
+      "from": "Diazepam",
+      "to": "Gabapentin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Diazepam + Gabapentin: Medium",
+      "description": "Enhanced sedation and ataxia. Elderly at high risk for falls and hip fractures. If combination needed, use lowest effective doses and implement fall precautions (remove trip hazards, use assistive dev..."
+    },
+    {
+      "from": "Alprazolam",
+      "to": "Pregabalin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Alprazolam + Pregabalin: Medium",
+      "description": "Similar to gabapentin interaction. Pregabalin may have stronger sedative effect than gabapentin. Monitor for excessive drowsiness, impaired coordination. Avoid driving/operating machinery until effect..."
+    },
+    {
+      "from": "Lorazepam",
+      "to": "Pregabalin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Lorazepam + Pregabalin: Medium",
+      "description": "Additive CNS effects. Pregabalin has abuse potential, as do benzodiazepines; combination may be sought by drug-seeking patients. Monitor for misuse signs. Consider non-addictive alternatives."
+    },
+    {
+      "from": "Alprazolam",
+      "to": "Zolpidem",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Alprazolam + Zolpidem: Medium",
+      "description": "Both are CNS depressants for sleep. Combination provides no additional benefit and significantly increases next-day sedation, fall risk, complex sleep behaviors. Use one agent, not both."
+    },
+    {
+      "from": "Lorazepam",
+      "to": "Zolpidem",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Lorazepam + Zolpidem: Medium",
+      "description": "Redundant therapy with increased adverse effects. If patient has both anxiety and insomnia, consider using single benzodiazepine at bedtime rather than adding zolpidem. Reduces polypharmacy."
+    },
+    {
+      "from": "Diphenhydramine",
+      "to": "Alprazolam",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Diphenhydramine + Alprazolam: Medium",
+      "description": "First-generation antihistamine has strong anticholinergic and sedative effects. Combined with benzodiazepine, increases delirium risk in elderly (Beers Criteria - avoid this combination in \u226565 years o..."
+    },
+    {
+      "from": "Diphenhydramine",
+      "to": "Lorazepam",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Diphenhydramine + Lorazepam: Medium",
+      "description": "Additive anticholinergic effects: dry mouth, urinary retention, constipation, confusion. In elderly, can precipitate delirium or worsen dementia. Prefer non-sedating antihistamine (loratadine, cetiriz..."
+    },
+    {
+      "from": "Diphenhydramine",
+      "to": "Zolpidem",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Diphenhydramine + Zolpidem: Medium",
+      "description": "Both cause sedation and increase fall risk. Next-day \"hangover\" effect common. Avoid using OTC sleep aids (diphenhydramine) if already on prescription sleep medication."
+    },
+    {
+      "from": "Lisinopril",
+      "to": "Spironolactone",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Lisinopril + Spironolactone: Medium",
+      "description": "ACE inhibitor reduces aldosterone, causing K+ retention. Spironolactone is aldosterone antagonist, also retaining K+. Combined effect can cause dangerous hyperkalemia (K+ >5.5 mEq/L). Monitor K+ withi..."
+    },
+    {
+      "from": "Lisinopril",
+      "to": "Potassium Chloride",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Lisinopril + Potassium Chloride: Medium",
+      "description": "ACE inhibitor plus K+ supplement significantly increases hyperkalemia risk. Often patients started on K+ for diuretic-induced hypokalemia, then ACE inhibitor added later. Reassess need for K+ suppleme..."
+    },
+    {
+      "from": "Losartan",
+      "to": "Spironolactone",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Losartan + Spironolactone: Medium",
+      "description": "ARB plus aldosterone antagonist: both reduce K+ excretion. Particularly problematic in heart failure patients who may be on both for proven mortality benefit. Requires very close K+ monitoring (weekly..."
+    },
+    {
+      "from": "Losartan",
+      "to": "Potassium Chloride",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Losartan + Potassium Chloride: Medium",
+      "description": "Similar to lisinopril + K+ interaction. ARBs increase K+ retention. Reassess need for supplementation. If patient on HCTZ or furosemide causing hypokalemia, ARB may normalize K+ without need for suppl..."
+    },
+    {
+      "from": "Lisinopril",
+      "to": "Ibuprofen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Lisinopril + Ibuprofen: Medium",
+      "description": "Triple whammy for kidneys: ACE inhibitor + NSAID + (often) diuretic. NSAIDs reduce renal blood flow, ACE inhibitors dilate efferent arteriole - combined effect impairs GFR. Can precipitate acute kidne..."
+    },
+    {
+      "from": "Losartan",
+      "to": "Naproxen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Losartan + Naproxen: Medium",
+      "description": "ARB plus NSAID impairs kidney function, reducing K+ excretion. Especially risky in elderly, volume depleted, or pre-existing CKD. If NSAID necessary, use shortest duration, monitor renal function and ..."
+    },
+    {
+      "from": "Naproxen",
+      "to": "Lisinopril",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Naproxen + Lisinopril: Medium",
+      "description": "Similar to ibuprofen. Naproxen has longer half-life (12-17 hours), providing more sustained prostaglandin inhibition and BP elevation. Monitor BP weekly for first month if combination unavoidable."
+    },
+    {
+      "from": "Ibuprofen",
+      "to": "Losartan",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Ibuprofen + Losartan: Medium",
+      "description": "NSAIDs reduce ARB antihypertensive efficacy. Mechanism: decreased renal prostaglandin synthesis impairs pressure natriuresis. Clinical significance: 10-15% of patients may lose BP control. Consider AR..."
+    },
+    {
+      "from": "Meloxicam",
+      "to": "Lisinopril",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Meloxicam + Lisinopril: Medium",
+      "description": "COX-2 selective NSAID still interferes with ACE inhibitor. Less GI toxicity than non-selective NSAIDs but similar BP effects. Not preferred over non-pharmacologic pain management or acetaminophen."
+    },
+    {
+      "from": "Ibuprofen",
+      "to": "Amlodipine",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Ibuprofen + Amlodipine: Low",
+      "description": "NSAIDs have minimal effect on calcium channel blocker efficacy. CCBs work via direct vasodilation, not prostaglandin-dependent. Generally safe combination; monitor BP but significant changes uncommon."
+    },
+    {
+      "from": "Ibuprofen",
+      "to": "Metoprolol",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Ibuprofen + Metoprolol: Low",
+      "description": "NSAIDs do not significantly affect beta blocker antihypertensive effect. However, NSAIDs may worsen heart failure (fluid retention), which beta blockers help treat. Monitor for edema, weight gain."
+    },
+    {
+      "from": "Ibuprofen",
+      "to": "Hydrochlorothiazide",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Ibuprofen + Hydrochlorothiazide: Medium",
+      "description": "NSAIDs reduce diuretic natriuretic and antihypertensive effects. Mechanism: decreased renal prostaglandins impair response to diuretics. May cause fluid retention (2-3 kg weight gain). Monitor BP, wei..."
+    },
+    {
+      "from": "Naproxen",
+      "to": "Hydrochlorothiazide",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Naproxen + Hydrochlorothiazide: Medium",
+      "description": "Similar to ibuprofen + HCTZ. Naproxen may cause more Na+ and fluid retention due to longer half-life. Can precipitate heart failure exacerbation in susceptible patients. Monitor volume status closely."
+    },
+    {
+      "from": "Ibuprofen",
+      "to": "Furosemide",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Ibuprofen + Furosemide: Medium",
+      "description": "NSAIDs blunt loop diuretic response. Problematic in heart failure patients where diuresis critical. May require furosemide dose increase (sometimes 2-3x) to overcome NSAID effect. Avoid combination in..."
+    },
+    {
+      "from": "Meloxicam",
+      "to": "Furosemide",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Meloxicam + Furosemide: Medium",
+      "description": "COX-2 selective NSAID still impairs loop diuretic efficacy. Not exempt from interaction. If pain control needed in HF patient, consider alternatives: topical NSAIDs, acetaminophen, or opioids (cautiou..."
+    },
+    {
+      "from": "Omeprazole",
+      "to": "Clopidogrel",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Omeprazole + Clopidogrel: Medium",
+      "description": "Omeprazole is potent CYP2C19 inhibitor. Clopidogrel is prodrug requiring CYP2C19 activation. Omeprazole reduces active metabolite formation by 40-50%, potentially decreasing antiplatelet effect. Alter..."
+    },
+    {
+      "from": "Esomeprazole",
+      "to": "Clopidogrel",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Esomeprazole + Clopidogrel: Medium",
+      "description": "S-isomer of omeprazole with similar CYP2C19 inhibition. Reduces clopidogrel effectiveness. FDA recommends avoiding this combination. If PPI necessary for GI protection, use pantoprazole or consider H2..."
+    },
+    {
+      "from": "Pantoprazole",
+      "to": "Clopidogrel",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Pantoprazole + Clopidogrel: Low",
+      "description": "Minimal CYP2C19 inhibition compared to omeprazole/esomeprazole. Preferred PPI for patients on clopidogrel. Some residual interaction possible but clinically insignificant in most patients. Generally c..."
+    },
+    {
+      "from": "Lansoprazole",
+      "to": "Clopidogrel",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Lansoprazole + Clopidogrel: Medium",
+      "description": "Moderate CYP2C19 inhibition. Less than omeprazole but more than pantoprazole. If patient already on lansoprazole + clopidogrel, consider switching to pantoprazole. Clinical significance debated but pr..."
+    },
+    {
+      "from": "Omeprazole",
+      "to": "Aspirin",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Omeprazole + Aspirin: Low",
+      "description": "Aspirin is not a prodrug; PPI does not reduce antiplatelet effect. PPIs recommended for GI protection in patients on aspirin, especially if dual antiplatelet therapy or high bleeding risk. Safe combin..."
+    },
+    {
+      "from": "Metformin",
+      "to": "Lisinopril",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Metformin + Lisinopril: Medium",
+      "description": "ACE inhibitors can reduce renal function, especially in bilateral renal artery stenosis or volume depletion. Impaired metformin clearance increases lactic acidosis risk. Monitor renal function (SCr, e..."
+    },
+    {
+      "from": "Metformin",
+      "to": "Losartan",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Metformin + Losartan: Medium",
+      "description": "Similar to ACE inhibitor interaction. ARBs reduce GFR via efferent arteriole dilation. In diabetic nephropathy, ARB benefits usually outweigh risks, but requires close renal monitoring. Adjust metform..."
+    },
+    {
+      "from": "Metformin",
+      "to": "Furosemide",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Metformin + Furosemide: Medium",
+      "description": "Loop diuretic can cause volume depletion and pre-renal azotemia, impairing metformin clearance. Lactic acidosis risk increases. Monitor: volume status, renal function, signs of lactic acidosis (nausea..."
+    },
+    {
+      "from": "Metformin",
+      "to": "Hydrochlorothiazide",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Metformin + Hydrochlorothiazide: Low",
+      "description": "Thiazide diuretic usually does not significantly impair renal function at standard doses. Monitor renal function routinely but metformin dose adjustment rarely needed. Ensure adequate hydration."
+    },
+    {
+      "from": "Metoprolol",
+      "to": "Diltiazem",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Metoprolol + Diltiazem: Medium",
+      "description": "Both slow AV conduction and reduce heart rate. Risk: severe bradycardia (<50 bpm), AV block, hypotension. Often used together for rate control in atrial fibrillation but requires close monitoring. Che..."
+    },
+    {
+      "from": "Metoprolol",
+      "to": "Verapamil",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Metoprolol + Verapamil: Medium",
+      "description": "Similar to diltiazem interaction. Verapamil has stronger negative inotropic effect; higher risk of heart failure exacerbation. Monitor: HR, BP, signs of HF (edema, dyspnea, weight gain). Use with caut..."
+    },
+    {
+      "from": "Carvedilol",
+      "to": "Diltiazem",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Carvedilol + Diltiazem: Medium",
+      "description": "Carvedilol is non-selective beta blocker with alpha-blocking properties, causing more hypotension than metoprolol. Combined with diltiazem: significant bradycardia and hypotension risk. Common in HF p..."
+    },
+    {
+      "from": "Carvedilol",
+      "to": "Verapamil",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Carvedilol + Verapamil: Medium",
+      "description": "High-risk combination. Both have negative inotropic effects. Can precipitate acute HF decompensation. Generally avoided. If both needed, consider: beta blocker + dihydropyridine CCB (amlodipine) inste..."
+    },
+    {
+      "from": "Atenolol",
+      "to": "Diltiazem",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Atenolol + Diltiazem: Medium",
+      "description": "Beta-1 selective blocker plus non-dihydropyridine CCB. Lower risk than carvedilol combinations but still requires monitoring. Additive effects on HR and conduction. Monitor ECG for PR interval prolong..."
+    },
+    {
+      "from": "Atenolol",
+      "to": "Verapamil",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Atenolol + Verapamil: Medium",
+      "description": "Similar to atenolol + diltiazem. Verapamil more potent; slightly higher interaction risk. Combination sometimes used but requires close follow-up, especially in elderly or those with baseline bradycar..."
+    },
+    {
+      "from": "Metoprolol",
+      "to": "Amlodipine",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Metoprolol + Amlodipine: Low",
+      "description": "Amlodipine is dihydropyridine CCB with minimal cardiac effects (pure vasodilator). No significant interaction with beta blockers. Often used together for hypertension. Safe combination; monitor BP but..."
+    },
+    {
+      "from": "Carvedilol",
+      "to": "Amlodipine",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Carvedilol + Amlodipine: Low",
+      "description": "Safe combination commonly used in hypertension and heart failure. Amlodipine does not affect cardiac conduction. Monitor BP (can be additive), but generally well-tolerated. Preferred CCB when patient ..."
+    },
+    {
+      "from": "Digoxin",
+      "to": "Furosemide",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Digoxin + Furosemide: Medium",
+      "description": "Loop diuretic causes hypokalemia and hypomagnesemia, which increase myocardial sensitivity to digoxin. Electrolyte abnormalities are major cause of digoxin toxicity (nausea, vomiting, arrhythmias, vis..."
+    },
+    {
+      "from": "Digoxin",
+      "to": "Hydrochlorothiazide",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Digoxin + Hydrochlorothiazide: Medium",
+      "description": "Thiazide-induced hypokalemia predisposes to digoxin toxicity. Chronic thiazide use often requires K+ supplementation or K+-sparing diuretic (spironolactone, amiloride). Check electrolytes every 3-6 mo..."
+    },
+    {
+      "from": "Digoxin",
+      "to": "Verapamil",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Digoxin + Verapamil: High",
+      "description": "Verapamil inhibits P-glycoprotein, reducing digoxin renal and biliary excretion. Increases digoxin levels 50-75%. Reduce digoxin dose by 50% when starting verapamil. Check digoxin level 5-7 days after..."
+    },
+    {
+      "from": "Digoxin",
+      "to": "Diltiazem",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Digoxin + Diltiazem: Medium",
+      "description": "Similar mechanism to verapamil but weaker effect. Increases digoxin levels 20-30%. Consider empiric digoxin dose reduction of 25%. Monitor digoxin level and signs of toxicity (bradycardia, AV block, G..."
+    },
+    {
+      "from": "Digoxin",
+      "to": "Spironolactone",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Digoxin + Spironolactone: Low",
+      "description": "Spironolactone may slightly increase digoxin levels and can interfere with digoxin immunoassay, causing falsely elevated lab results. True interaction minimal; more important is that spironolactone pr..."
+    },
+    {
+      "from": "Prednisone",
+      "to": "Ibuprofen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Prednisone + Ibuprofen: Medium",
+      "description": "Both increase gastric ulcer risk independently. Combined use increases peptic ulcer incidence 4-5 fold. Mechanism: corticosteroids thin gastric mucosa, NSAIDs inhibit protective prostaglandins. High-r..."
+    },
+    {
+      "from": "Prednisone",
+      "to": "Naproxen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Prednisone + Naproxen: Medium",
+      "description": "Similar to ibuprofen. Naproxen has longer half-life, providing sustained COX inhibition. GI bleeding risk higher with naproxen than shorter-acting NSAIDs. If combination necessary: use PPI (omeprazole..."
+    },
+    {
+      "from": "Prednisone",
+      "to": "Aspirin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Prednisone + Aspirin: Medium",
+      "description": "Even low-dose aspirin (81mg) increases GI risk when combined with corticosteroids. Aspirin irreversibly inhibits platelet COX, affecting hemostasis for platelet lifespan (7-10 days). If both needed (e..."
+    },
+    {
+      "from": "Dexamethasone",
+      "to": "Ibuprofen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Dexamethasone + Ibuprofen: Medium",
+      "description": "Dexamethasone is more potent than prednisone (6-7x). Higher GI toxicity potential. Avoid NSAID if possible; use acetaminophen for pain. If NSAID necessary, limit to 5-7 days maximum, use with PPI."
+    },
+    {
+      "from": "Methylprednisolone",
+      "to": "Naproxen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Methylprednisolone + Naproxen: Medium",
+      "description": "Potent corticosteroid (4-5x prednisone) plus NSAID creates high GI risk. Commonly seen in rheumatologic disease flares where both may be used. Educate patient on warning signs: black stools (melena), ..."
+    },
+    {
+      "from": "Ibuprofen",
+      "to": "Naproxen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Ibuprofen + Naproxen: Medium",
+      "description": "No additional anti-inflammatory benefit from combining NSAIDs. GI toxicity increases 2-3 fold. Renal toxicity also increased. Common error: patient taking OTC ibuprofen while on prescription naproxen,..."
+    },
+    {
+      "from": "Aspirin",
+      "to": "Ibuprofen",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Aspirin + Ibuprofen: Low",
+      "description": "Ibuprofen competes with aspirin for COX-1 binding site on platelets. If ibuprofen taken before aspirin, may block aspirin antiplatelet effect. Clinical relevance debated but concerning for CV protecti..."
+    },
+    {
+      "from": "Aspirin",
+      "to": "Naproxen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Aspirin + Naproxen: Medium",
+      "description": "Both have antiplatelet effects but naproxen does not interfere with aspirin binding like ibuprofen. Still increases bleeding and GI risk without additional CV benefit. Generally avoid combination; if ..."
+    },
+    {
+      "from": "Aspirin",
+      "to": "Meloxicam",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Aspirin + Meloxicam: Medium",
+      "description": "Meloxicam is COX-2 selective but still increases bleeding risk when combined with aspirin. No CV benefit beyond aspirin alone. Additive GI toxicity. Reserve meloxicam for inflammatory conditions; use ..."
+    },
+    {
+      "from": "Ibuprofen",
+      "to": "Meloxicam",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Ibuprofen + Meloxicam: Medium",
+      "description": "Combining non-selective NSAID with COX-2 selective NSAID provides no benefit. Increases GI and renal adverse effects. Common in patients self-medicating with OTC ibuprofen while on prescription meloxi..."
+    },
+    {
+      "from": "Naproxen",
+      "to": "Meloxicam",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Naproxen + Meloxicam: Medium",
+      "description": "Redundant NSAID therapy. Both have long half-lives (naproxen 12-17h, meloxicam 15-20h), increasing steady-state accumulation risk. Higher likelihood of renal dysfunction, edema, hypertension. Use sing..."
+    },
+    {
+      "from": "Diclofenac",
+      "to": "Ibuprofen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Diclofenac + Ibuprofen: Medium",
+      "description": "No rationale for combination. Diclofenac has highest CV risk among NSAIDs; adding ibuprofen increases this further. Avoid combination. If NSAID needed, choose one based on indication and patient risk ..."
+    },
+    {
+      "from": "Ciprofloxacin",
+      "to": "Calcium Carbonate",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Ciprofloxacin + Calcium Carbonate: Medium",
+      "description": "Divalent/trivalent cations (Ca2+, Mg2+, Fe3+, Al3+, Zn2+) chelate fluoroquinolones in GI tract, forming non-absorbable complexes. Reduces ciprofloxacin bioavailability 50-90%, causing treatment failur..."
+    },
+    {
+      "from": "Levofloxacin",
+      "to": "Calcium Carbonate",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Levofloxacin + Calcium Carbonate: Medium",
+      "description": "Same chelation mechanism as ciprofloxacin. Levofloxacin bioavailability reduced significantly. Critical for serious infections (pneumonia, UTI). Dose separation essential: 2 hours before or 6 hours af..."
+    },
+    {
+      "from": "Ciprofloxacin",
+      "to": "Iron Sulfate",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Ciprofloxacin + Iron Sulfate: Medium",
+      "description": "Iron forms particularly strong chelate with fluoroquinolones. Can reduce absorption >90%. Common in patients on iron for anemia. Must separate by at least 2 hours before or 6 hours after fluoroquinolo..."
+    },
+    {
+      "from": "Ciprofloxacin",
+      "to": "Magnesium Oxide",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Ciprofloxacin + Magnesium Oxide: Medium",
+      "description": "Magnesium supplement or magnesium-containing laxatives/antacids significantly impair fluoroquinolone absorption. Many OTC products contain magnesium; check labels. Separate dosing strictly. Alternativ..."
+    },
+    {
+      "from": "Doxycycline",
+      "to": "Calcium Carbonate",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Doxycycline + Calcium Carbonate: Medium",
+      "description": "Tetracyclines form stable chelate complexes with polyvalent cations. Reduces doxycycline absorption by 50-90%. Classic teaching: \"don't take tetracyclines with milk/dairy\" (high calcium). Separate dos..."
+    },
+    {
+      "from": "Doxycycline",
+      "to": "Iron Sulfate",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Doxycycline + Iron Sulfate: Medium",
+      "description": "Iron-tetracycline chelation reduces absorption of both drugs. Problematic for patients needing long-term doxycycline (acne, rosacea) who are also iron deficient. Strict dose separation required. Monit..."
+    },
+    {
+      "from": "Levofloxacin",
+      "to": "Iron Sulfate",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Levofloxacin + Iron Sulfate: Medium",
+      "description": "Similar to ciprofloxacin + iron. Separation critical. For elderly patients on multiple supplements, create dosing schedule: e.g., levofloxacin 8 AM, calcium + vitamin D noon, iron 6 PM. Ensure underst..."
+    },
+    {
+      "from": "Azithromycin",
+      "to": "Calcium Carbonate",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Azithromycin + Calcium Carbonate: Low",
+      "description": "Macrolides not significantly affected by cation chelation. No dose separation needed. Safe to take azithromycin with or without food, supplements. Good alternative when patient has complex supplement ..."
+    },
+    {
+      "from": "Levothyroxine",
+      "to": "Calcium Carbonate",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Levothyroxine + Calcium Carbonate: Medium",
+      "description": "Calcium binds levothyroxine in GI tract, reducing absorption by 20-40%. Can lead to hypothyroid symptoms or need for dose increase. Take levothyroxine on empty stomach (30-60 min before breakfast), ca..."
+    },
+    {
+      "from": "Levothyroxine",
+      "to": "Iron Sulfate",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Levothyroxine + Iron Sulfate: Medium",
+      "description": "Iron forms complex with levothyroxine, reducing absorption by 40-50%. Especially problematic in pregnancy (high iron needs + increased levothyroxine requirements). Strict separation: levothyroxine upo..."
+    },
+    {
+      "from": "Levothyroxine",
+      "to": "Omeprazole",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Levothyroxine + Omeprazole: Low",
+      "description": "PPIs increase gastric pH, potentially reducing levothyroxine dissolution and absorption. Clinical significance controversial; some studies show effect, others don't. Monitor TSH 6-12 weeks after PPI i..."
+    },
+    {
+      "from": "Levothyroxine",
+      "to": "Esomeprazole",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Levothyroxine + Esomeprazole: Low",
+      "description": "Similar to omeprazole. Some patients may experience reduced levothyroxine absorption. More likely in elderly or those with atrophic gastritis. If TSH becomes elevated after starting PPI, consider: dos..."
+    },
+    {
+      "from": "Levothyroxine",
+      "to": "Magnesium Oxide",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Levothyroxine + Magnesium Oxide: Low",
+      "description": "Limited interaction data. Theoretically may reduce absorption via chelation. Separate doses as precaution (4 hours). More important for patients on high magnesium doses or with borderline hypothyroidi..."
+    },
+    {
+      "from": "Tamsulosin",
+      "to": "Sildenafil",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Tamsulosin + Sildenafil: Medium",
+      "description": "Both cause vasodilation via different mechanisms. Tamsulosin: alpha-1 blockade in prostate and vasculature. Sildenafil: PDE5 inhibition increasing cGMP. Combined effect can cause symptomatic orthostat..."
+    },
+    {
+      "from": "Tamsulosin",
+      "to": "Tadalafil",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Tamsulosin + Tadalafil: Medium",
+      "description": "Similar to sildenafil interaction. Tadalafil has longer half-life (17.5 hours), creating more sustained interaction. For once-daily tadalafil (BPH indication), use lower dose (2.5-5mg). For as-needed ..."
+    },
+    {
+      "from": "Sertraline",
+      "to": "Ibuprofen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Sertraline + Ibuprofen: Medium",
+      "description": "SSRIs inhibit serotonin reuptake into platelets, impairing platelet aggregation. NSAIDs inhibit COX-1, reducing protective gastric prostaglandins. Synergistic effect increases upper GI bleeding risk 6..."
+    },
+    {
+      "from": "Sertraline",
+      "to": "Aspirin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Sertraline + Aspirin: Medium",
+      "description": "Even low-dose aspirin (81mg) plus SSRI increases bleeding. Often both needed (depression + CV protection). Strongly recommend PPI. Monitor for: melena, hematemesis, anemia symptoms. Rare but serious: ..."
+    },
+    {
+      "from": "Escitalopram",
+      "to": "Ibuprofen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Escitalopram + Ibuprofen: Medium",
+      "description": "Escitalopram is potent SSRI with strong platelet serotonin depletion effect. Combined with NSAID, clinically significant bleeding risk. Alternatives: SNRI (if pain is indication - dual benefit), or ac..."
+    },
+    {
+      "from": "Fluoxetine",
+      "to": "Naproxen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Fluoxetine + Naproxen: Medium",
+      "description": "Fluoxetine has long half-life; prolonged bleeding risk. Naproxen also has long half-life (12-17 hours). Both drugs present in system for extended periods, increasing sustained bleeding risk. Careful p..."
+    },
+    {
+      "from": "Citalopram",
+      "to": "Aspirin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Citalopram + Aspirin: Medium",
+      "description": "Common combination in older adults (depression + CV disease). PPI prophylaxis recommended, especially if additional risk factors. Some evidence suggests proton pump inhibitor reduces upper GI bleeding..."
+    },
+    {
+      "from": "Paroxetine",
+      "to": "Ibuprofen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Paroxetine + Ibuprofen: Medium",
+      "description": "Paroxetine has strong serotonergic effect and anticholinergic properties. Combined with NSAID, increases GI bleeding risk. Also consider: paroxetine anticholinergic effects may slow GI motility, poten..."
+    },
+    {
+      "from": "Duloxetine",
+      "to": "Ibuprofen",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Duloxetine + Ibuprofen: Medium",
+      "description": "SNRI (not pure SSRI) but still affects platelet serotonin. Duloxetine often used for chronic pain; NSAID may be redundant. Optimize duloxetine dose (60-120mg/day) before adding NSAID. If both needed, ..."
+    },
+    {
+      "from": "Albuterol",
+      "to": "Metoprolol",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Albuterol + Metoprolol: Medium",
+      "description": "Beta-2 agonist antagonized by beta blocker. Metoprolol is \"cardioselective\" (beta-1 preferential) but not completely selective, especially at higher doses (>100mg/day). Can reduce albuterol bronchodil..."
+    },
+    {
+      "from": "Albuterol",
+      "to": "Atenolol",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Albuterol + Atenolol: Medium",
+      "description": "Similar to metoprolol. Atenolol is beta-1 selective. Generally safe in COPD but use cautiously in asthma. If patient develops increased dyspnea or wheezing after beta blocker initiation, consider: dos..."
+    },
+    {
+      "from": "Albuterol",
+      "to": "Carvedilol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Albuterol + Carvedilol: High",
+      "description": "Carvedilol is NON-selective beta blocker (blocks both beta-1 and beta-2). Significantly antagonizes albuterol effect and can cause severe bronchospasm in reactive airway disease. Generally CONTRAINDIC..."
+    },
+    {
+      "from": "Albuterol",
+      "to": "Propranolol",
+      "severity": "High",
+      "color": "#E74C3C",
+      "title": "Albuterol + Propranolol: High",
+      "description": "Propranolol is non-selective beta blocker. Absolutely contraindicated in asthma and generally avoided in COPD. Blocks beta-2 receptors in bronchi, causing bronchospasm. If patient on propranolol devel..."
+    },
+    {
+      "from": "Atorvastatin",
+      "to": "Azithromycin",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Atorvastatin + Azithromycin: Low",
+      "description": "Minimal interaction. Azithromycin is weak CYP3A4 inhibitor; atorvastatin is CYP3A4 substrate. Short azithromycin course (3-5 days) unlikely to significantly increase statin levels. Monitor for muscle ..."
+    },
+    {
+      "from": "Simvastatin",
+      "to": "Azithromycin",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Simvastatin + Azithromycin: Medium",
+      "description": "Simvastatin more sensitive to CYP3A4 inhibition than atorvastatin. During azithromycin course, consider: temporarily holding simvastatin, reducing dose, or monitoring closely for myopathy symptoms (mu..."
+    },
+    {
+      "from": "Atorvastatin",
+      "to": "Amlodipine",
+      "severity": "Low",
+      "color": "#27AE60",
+      "title": "Atorvastatin + Amlodipine: Low",
+      "description": "Amlodipine mildly inhibits CYP3A4. May increase atorvastatin levels ~20%, but clinical significance minimal. FDA allows combination without dose limit. Monitor lipids and liver enzymes routinely. Gene..."
+    },
+    {
+      "from": "Simvastatin",
+      "to": "Amlodipine",
+      "severity": "Medium",
+      "color": "#F39C12",
+      "title": "Simvastatin + Amlodipine: Medium",
+      "description": "Simvastatin more affected than atorvastatin. FDA recommends limiting simvastatin to 20mg/day when combined with amlodipine due to increased myopathy risk. Alternative: switch to atorvastatin or rosuva..."
+    }
+  ]
+}

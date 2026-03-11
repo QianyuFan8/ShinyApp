@@ -1,0 +1,1106 @@
+[
+  {
+    "rxcui": "29046",
+    "generic_name": "Lisinopril",
+    "search_terms": [
+      "lisinopril",
+      "prinivil",
+      "zestril",
+      "lisinopril",
+      "lisinopril"
+    ],
+    "category": "ACE Inhibitor"
+  },
+  {
+    "rxcui": "83367",
+    "generic_name": "Atorvastatin",
+    "search_terms": [
+      "atorvastatin",
+      "lipitor",
+      "atorvastatin",
+      "atorvastatin"
+    ],
+    "category": "Statin"
+  },
+  {
+    "rxcui": "17767",
+    "generic_name": "Amlodipine",
+    "search_terms": [
+      "amlodipine",
+      "norvasc",
+      "amlodipine",
+      "amlodipine"
+    ],
+    "category": "Calcium Channel Blocker"
+  },
+  {
+    "rxcui": "6918",
+    "generic_name": "Metoprolol",
+    "search_terms": [
+      "metoprolol",
+      "lopressor",
+      "toprol-xl",
+      "metoprolol",
+      "metoprolol"
+    ],
+    "category": "Beta Blocker"
+  },
+  {
+    "rxcui": "52175",
+    "generic_name": "Losartan",
+    "search_terms": [
+      "losartan",
+      "cozaar",
+      "losartan",
+      "losartan"
+    ],
+    "category": "ARB"
+  },
+  {
+    "rxcui": "36567",
+    "generic_name": "Simvastatin",
+    "search_terms": [
+      "simvastatin",
+      "zocor",
+      "simvastatin",
+      "simvastatin"
+    ],
+    "category": "Statin"
+  },
+  {
+    "rxcui": "4603",
+    "generic_name": "Furosemide",
+    "search_terms": [
+      "furosemide",
+      "lasix",
+      "furosemide",
+      "furosemide"
+    ],
+    "category": "Diuretic"
+  },
+  {
+    "rxcui": "5487",
+    "generic_name": "Hydrochlorothiazide",
+    "search_terms": [
+      "hydrochlorothiazide",
+      "microzide",
+      "hydrochlorothiazide",
+      "hydrochlorothiazide"
+    ],
+    "category": "Diuretic"
+  },
+  {
+    "rxcui": "20352",
+    "generic_name": "Carvedilol",
+    "search_terms": [
+      "carvedilol",
+      "coreg",
+      "carvedilol",
+      "carvedilol"
+    ],
+    "category": "Beta Blocker"
+  },
+  {
+    "rxcui": "32968",
+    "generic_name": "Clopidogrel",
+    "search_terms": [
+      "clopidogrel",
+      "plavix",
+      "clopidogrel",
+      "clopidogrel"
+    ],
+    "category": "Antiplatelet"
+  },
+  {
+    "rxcui": "11289",
+    "generic_name": "Warfarin",
+    "search_terms": [
+      "warfarin",
+      "coumadin",
+      "jantoven",
+      "warfarin",
+      "warfarin"
+    ],
+    "category": "Anticoagulant"
+  },
+  {
+    "rxcui": "1364430",
+    "generic_name": "Apixaban",
+    "search_terms": [
+      "apixaban",
+      "eliquis",
+      "apixaban",
+      "apixaban"
+    ],
+    "category": "Anticoagulant"
+  },
+  {
+    "rxcui": "1114195",
+    "generic_name": "Rivaroxaban",
+    "search_terms": [
+      "rivaroxaban",
+      "xarelto",
+      "rivaroxaban",
+      "rivaroxaban"
+    ],
+    "category": "Anticoagulant"
+  },
+  {
+    "rxcui": "9997",
+    "generic_name": "Spironolactone",
+    "search_terms": [
+      "spironolactone",
+      "aldactone",
+      "spironolactone",
+      "spironolactone"
+    ],
+    "category": "Diuretic"
+  },
+  {
+    "rxcui": "3443",
+    "generic_name": "Diltiazem",
+    "search_terms": [
+      "diltiazem",
+      "cardizem",
+      "diltiazem",
+      "diltiazem"
+    ],
+    "category": "Calcium Channel Blocker"
+  },
+  {
+    "rxcui": "11170",
+    "generic_name": "Verapamil",
+    "search_terms": [
+      "verapamil",
+      "calan",
+      "verapamil",
+      "verapamil"
+    ],
+    "category": "Calcium Channel Blocker"
+  },
+  {
+    "rxcui": "8787",
+    "generic_name": "Propranolol",
+    "search_terms": [
+      "propranolol",
+      "inderal",
+      "propranolol",
+      "propranolol"
+    ],
+    "category": "Beta Blocker"
+  },
+  {
+    "rxcui": "1202",
+    "generic_name": "Atenolol",
+    "search_terms": [
+      "atenolol",
+      "tenormin",
+      "atenolol",
+      "atenolol"
+    ],
+    "category": "Beta Blocker"
+  },
+  {
+    "rxcui": "3407",
+    "generic_name": "Digoxin",
+    "search_terms": [
+      "digoxin",
+      "lanoxin",
+      "digoxin",
+      "digoxin"
+    ],
+    "category": "Cardiac Glycoside"
+  },
+  {
+    "rxcui": "301542",
+    "generic_name": "Rosuvastatin",
+    "search_terms": [
+      "rosuvastatin",
+      "crestor",
+      "rosuvastatin",
+      "rosuvastatin"
+    ],
+    "category": "Statin"
+  },
+  {
+    "rxcui": "6809",
+    "generic_name": "Metformin",
+    "search_terms": [
+      "metformin",
+      "glucophage",
+      "metformin",
+      "metformin"
+    ],
+    "category": "Antidiabetic"
+  },
+  {
+    "rxcui": "4815",
+    "generic_name": "Glipizide",
+    "search_terms": [
+      "glipizide",
+      "glucotrol",
+      "glipizide",
+      "glipizide"
+    ],
+    "category": "Sulfonylurea"
+  },
+  {
+    "rxcui": "274783",
+    "generic_name": "Insulin Glargine",
+    "search_terms": [
+      "insulin glargine",
+      "lantus",
+      "insulin glargine",
+      "insulinglargine"
+    ],
+    "category": "Insulin"
+  },
+  {
+    "rxcui": "665033",
+    "generic_name": "Sitagliptin",
+    "search_terms": [
+      "sitagliptin",
+      "januvia",
+      "sitagliptin",
+      "sitagliptin"
+    ],
+    "category": "DPP-4 Inhibitor"
+  },
+  {
+    "rxcui": "1545653",
+    "generic_name": "Empagliflozin",
+    "search_terms": [
+      "empagliflozin",
+      "jardiance",
+      "empagliflozin",
+      "empagliflozin"
+    ],
+    "category": "SGLT2 Inhibitor"
+  },
+  {
+    "rxcui": "1551291",
+    "generic_name": "Dulaglutide",
+    "search_terms": [
+      "dulaglutide",
+      "trulicity",
+      "dulaglutide",
+      "dulaglutide"
+    ],
+    "category": "GLP-1 Agonist"
+  },
+  {
+    "rxcui": "253182",
+    "generic_name": "Insulin Aspart",
+    "search_terms": [
+      "insulin aspart",
+      "novolog",
+      "insulin aspart",
+      "insulinaspart"
+    ],
+    "category": "Insulin"
+  },
+  {
+    "rxcui": "4821",
+    "generic_name": "Glyburide",
+    "search_terms": [
+      "glyburide",
+      "diabeta",
+      "glyburide",
+      "glyburide"
+    ],
+    "category": "Sulfonylurea"
+  },
+  {
+    "rxcui": "5640",
+    "generic_name": "Ibuprofen",
+    "search_terms": [
+      "ibuprofen",
+      "advil",
+      "motrin",
+      "ibuprofen",
+      "ibuprofen"
+    ],
+    "category": "NSAID"
+  },
+  {
+    "rxcui": "7258",
+    "generic_name": "Naproxen",
+    "search_terms": [
+      "naproxen",
+      "aleve",
+      "naprosyn",
+      "naproxen",
+      "naproxen"
+    ],
+    "category": "NSAID"
+  },
+  {
+    "rxcui": "161",
+    "generic_name": "Acetaminophen",
+    "search_terms": [
+      "acetaminophen",
+      "tylenol",
+      "acetaminophen",
+      "acetaminophen"
+    ],
+    "category": "Analgesic"
+  },
+  {
+    "rxcui": "1191",
+    "generic_name": "Aspirin",
+    "search_terms": [
+      "aspirin",
+      "bayer",
+      "ecotrin",
+      "aspirin",
+      "aspirin"
+    ],
+    "category": "NSAID"
+  },
+  {
+    "rxcui": "6960",
+    "generic_name": "Meloxicam",
+    "search_terms": [
+      "meloxicam",
+      "mobic",
+      "meloxicam",
+      "meloxicam"
+    ],
+    "category": "NSAID"
+  },
+  {
+    "rxcui": "10689",
+    "generic_name": "Tramadol",
+    "search_terms": [
+      "tramadol",
+      "ultram",
+      "tramadol",
+      "tramadol"
+    ],
+    "category": "Opioid"
+  },
+  {
+    "rxcui": "4493",
+    "generic_name": "Gabapentin",
+    "search_terms": [
+      "gabapentin",
+      "neurontin",
+      "gabapentin",
+      "gabapentin"
+    ],
+    "category": "Anticonvulsant"
+  },
+  {
+    "rxcui": "187832",
+    "generic_name": "Pregabalin",
+    "search_terms": [
+      "pregabalin",
+      "lyrica",
+      "pregabalin",
+      "pregabalin"
+    ],
+    "category": "Anticonvulsant"
+  },
+  {
+    "rxcui": "3112",
+    "generic_name": "Cyclobenzaprine",
+    "search_terms": [
+      "cyclobenzaprine",
+      "flexeril",
+      "cyclobenzaprine",
+      "cyclobenzaprine"
+    ],
+    "category": "Muscle Relaxant"
+  },
+  {
+    "rxcui": "1292",
+    "generic_name": "Baclofen",
+    "search_terms": [
+      "baclofen",
+      "lioresal",
+      "baclofen",
+      "baclofen"
+    ],
+    "category": "Muscle Relaxant"
+  },
+  {
+    "rxcui": "6878",
+    "generic_name": "Methocarbamol",
+    "search_terms": [
+      "methocarbamol",
+      "robaxin",
+      "methocarbamol",
+      "methocarbamol"
+    ],
+    "category": "Muscle Relaxant"
+  },
+  {
+    "rxcui": "3355",
+    "generic_name": "Diclofenac",
+    "search_terms": [
+      "diclofenac",
+      "voltaren",
+      "diclofenac",
+      "diclofenac"
+    ],
+    "category": "NSAID"
+  },
+  {
+    "rxcui": "36437",
+    "generic_name": "Sertraline",
+    "search_terms": [
+      "sertraline",
+      "zoloft",
+      "sertraline",
+      "sertraline"
+    ],
+    "category": "SSRI"
+  },
+  {
+    "rxcui": "321988",
+    "generic_name": "Escitalopram",
+    "search_terms": [
+      "escitalopram",
+      "lexapro",
+      "escitalopram",
+      "escitalopram"
+    ],
+    "category": "SSRI"
+  },
+  {
+    "rxcui": "4493",
+    "generic_name": "Fluoxetine",
+    "search_terms": [
+      "fluoxetine",
+      "prozac",
+      "fluoxetine",
+      "fluoxetine"
+    ],
+    "category": "SSRI"
+  },
+  {
+    "rxcui": "2556",
+    "generic_name": "Citalopram",
+    "search_terms": [
+      "citalopram",
+      "celexa",
+      "citalopram",
+      "citalopram"
+    ],
+    "category": "SSRI"
+  },
+  {
+    "rxcui": "32937",
+    "generic_name": "Paroxetine",
+    "search_terms": [
+      "paroxetine",
+      "paxil",
+      "paroxetine",
+      "paroxetine"
+    ],
+    "category": "SSRI"
+  },
+  {
+    "rxcui": "42347",
+    "generic_name": "Bupropion",
+    "search_terms": [
+      "bupropion",
+      "wellbutrin",
+      "bupropion",
+      "bupropion"
+    ],
+    "category": "Antidepressant"
+  },
+  {
+    "rxcui": "72625",
+    "generic_name": "Duloxetine",
+    "search_terms": [
+      "duloxetine",
+      "cymbalta",
+      "duloxetine",
+      "duloxetine"
+    ],
+    "category": "SNRI"
+  },
+  {
+    "rxcui": "39786",
+    "generic_name": "Venlafaxine",
+    "search_terms": [
+      "venlafaxine",
+      "effexor",
+      "venlafaxine",
+      "venlafaxine"
+    ],
+    "category": "SNRI"
+  },
+  {
+    "rxcui": "10737",
+    "generic_name": "Trazodone",
+    "search_terms": [
+      "trazodone",
+      "desyrel",
+      "trazodone",
+      "trazodone"
+    ],
+    "category": "Antidepressant"
+  },
+  {
+    "rxcui": "704",
+    "generic_name": "Amitriptyline",
+    "search_terms": [
+      "amitriptyline",
+      "elavil",
+      "amitriptyline",
+      "amitriptyline"
+    ],
+    "category": "TCA"
+  },
+  {
+    "rxcui": "596",
+    "generic_name": "Alprazolam",
+    "search_terms": [
+      "alprazolam",
+      "xanax",
+      "alprazolam",
+      "alprazolam"
+    ],
+    "category": "Benzodiazepine"
+  },
+  {
+    "rxcui": "6470",
+    "generic_name": "Lorazepam",
+    "search_terms": [
+      "lorazepam",
+      "ativan",
+      "lorazepam",
+      "lorazepam"
+    ],
+    "category": "Benzodiazepine"
+  },
+  {
+    "rxcui": "2598",
+    "generic_name": "Clonazepam",
+    "search_terms": [
+      "clonazepam",
+      "klonopin",
+      "clonazepam",
+      "clonazepam"
+    ],
+    "category": "Benzodiazepine"
+  },
+  {
+    "rxcui": "3322",
+    "generic_name": "Diazepam",
+    "search_terms": [
+      "diazepam",
+      "valium",
+      "diazepam",
+      "diazepam"
+    ],
+    "category": "Benzodiazepine"
+  },
+  {
+    "rxcui": "39993",
+    "generic_name": "Zolpidem",
+    "search_terms": [
+      "zolpidem",
+      "ambien",
+      "zolpidem",
+      "zolpidem"
+    ],
+    "category": "Sedative"
+  },
+  {
+    "rxcui": "7646",
+    "generic_name": "Omeprazole",
+    "search_terms": [
+      "omeprazole",
+      "prilosec",
+      "omeprazole",
+      "omeprazole"
+    ],
+    "category": "PPI"
+  },
+  {
+    "rxcui": "40790",
+    "generic_name": "Pantoprazole",
+    "search_terms": [
+      "pantoprazole",
+      "protonix",
+      "pantoprazole",
+      "pantoprazole"
+    ],
+    "category": "PPI"
+  },
+  {
+    "rxcui": "17128",
+    "generic_name": "Lansoprazole",
+    "search_terms": [
+      "lansoprazole",
+      "prevacid",
+      "lansoprazole",
+      "lansoprazole"
+    ],
+    "category": "PPI"
+  },
+  {
+    "rxcui": "283742",
+    "generic_name": "Esomeprazole",
+    "search_terms": [
+      "esomeprazole",
+      "nexium",
+      "esomeprazole",
+      "esomeprazole"
+    ],
+    "category": "PPI"
+  },
+  {
+    "rxcui": "4278",
+    "generic_name": "Famotidine",
+    "search_terms": [
+      "famotidine",
+      "pepcid",
+      "famotidine",
+      "famotidine"
+    ],
+    "category": "H2 Blocker"
+  },
+  {
+    "rxcui": "8987",
+    "generic_name": "Ranitidine",
+    "search_terms": [
+      "ranitidine",
+      "zantac",
+      "ranitidine",
+      "ranitidine"
+    ],
+    "category": "H2 Blocker"
+  },
+  {
+    "rxcui": "38400",
+    "generic_name": "Ondansetron",
+    "search_terms": [
+      "ondansetron",
+      "zofran",
+      "ondansetron",
+      "ondansetron"
+    ],
+    "category": "Antiemetic"
+  },
+  {
+    "rxcui": "6915",
+    "generic_name": "Metoclopramide",
+    "search_terms": [
+      "metoclopramide",
+      "reglan",
+      "metoclopramide",
+      "metoclopramide"
+    ],
+    "category": "Antiemetic"
+  },
+  {
+    "rxcui": "435",
+    "generic_name": "Albuterol",
+    "search_terms": [
+      "albuterol",
+      "proair",
+      "ventolin",
+      "albuterol",
+      "albuterol"
+    ],
+    "category": "Beta-2 Agonist"
+  },
+  {
+    "rxcui": "88249",
+    "generic_name": "Montelukast",
+    "search_terms": [
+      "montelukast",
+      "singulair",
+      "montelukast",
+      "montelukast"
+    ],
+    "category": "Leukotriene Inhibitor"
+  },
+  {
+    "rxcui": "202421",
+    "generic_name": "Fluticasone",
+    "search_terms": [
+      "fluticasone",
+      "flovent",
+      "fluticasone",
+      "fluticasone"
+    ],
+    "category": "Corticosteroid"
+  },
+  {
+    "rxcui": "1998",
+    "generic_name": "Budesonide",
+    "search_terms": [
+      "budesonide",
+      "pulmicort",
+      "budesonide",
+      "budesonide"
+    ],
+    "category": "Corticosteroid"
+  },
+  {
+    "rxcui": "8640",
+    "generic_name": "Prednisone",
+    "search_terms": [
+      "prednisone",
+      "deltasone",
+      "prednisone",
+      "prednisone"
+    ],
+    "category": "Corticosteroid"
+  },
+  {
+    "rxcui": "6902",
+    "generic_name": "Methylprednisolone",
+    "search_terms": [
+      "methylprednisolone",
+      "medrol",
+      "methylprednisolone",
+      "methylprednisolone"
+    ],
+    "category": "Corticosteroid"
+  },
+  {
+    "rxcui": "3264",
+    "generic_name": "Dexamethasone",
+    "search_terms": [
+      "dexamethasone",
+      "decadron",
+      "dexamethasone",
+      "dexamethasone"
+    ],
+    "category": "Corticosteroid"
+  },
+  {
+    "rxcui": "36117",
+    "generic_name": "Salmeterol",
+    "search_terms": [
+      "salmeterol",
+      "serevent",
+      "salmeterol",
+      "salmeterol"
+    ],
+    "category": "Beta-2 Agonist"
+  },
+  {
+    "rxcui": "723",
+    "generic_name": "Amoxicillin",
+    "search_terms": [
+      "amoxicillin",
+      "amoxil",
+      "amoxicillin",
+      "amoxicillin"
+    ],
+    "category": "Penicillin"
+  },
+  {
+    "rxcui": "18631",
+    "generic_name": "Azithromycin",
+    "search_terms": [
+      "azithromycin",
+      "zithromax",
+      "azithromycin",
+      "azithromycin"
+    ],
+    "category": "Macrolide"
+  },
+  {
+    "rxcui": "3640",
+    "generic_name": "Doxycycline",
+    "search_terms": [
+      "doxycycline",
+      "vibramycin",
+      "doxycycline",
+      "doxycycline"
+    ],
+    "category": "Tetracycline"
+  },
+  {
+    "rxcui": "2551",
+    "generic_name": "Ciprofloxacin",
+    "search_terms": [
+      "ciprofloxacin",
+      "cipro",
+      "ciprofloxacin",
+      "ciprofloxacin"
+    ],
+    "category": "Fluoroquinolone"
+  },
+  {
+    "rxcui": "82122",
+    "generic_name": "Levofloxacin",
+    "search_terms": [
+      "levofloxacin",
+      "levaquin",
+      "levofloxacin",
+      "levofloxacin"
+    ],
+    "category": "Fluoroquinolone"
+  },
+  {
+    "rxcui": "2231",
+    "generic_name": "Cephalexin",
+    "search_terms": [
+      "cephalexin",
+      "keflex",
+      "cephalexin",
+      "cephalexin"
+    ],
+    "category": "Cephalosporin"
+  },
+  {
+    "rxcui": "2582",
+    "generic_name": "Clindamycin",
+    "search_terms": [
+      "clindamycin",
+      "cleocin",
+      "clindamycin",
+      "clindamycin"
+    ],
+    "category": "Lincosamide"
+  },
+  {
+    "rxcui": "10831",
+    "generic_name": "Trimethoprim-Sulfamethoxazole",
+    "search_terms": [
+      "trimethoprim-sulfamethoxazole",
+      "bactrim",
+      "trimethoprim sulfamethoxazole",
+      "trimethoprim-sulfamethoxazole"
+    ],
+    "category": "Sulfonamide"
+  },
+  {
+    "rxcui": "6922",
+    "generic_name": "Metronidazole",
+    "search_terms": [
+      "metronidazole",
+      "flagyl",
+      "metronidazole",
+      "metronidazole"
+    ],
+    "category": "Nitroimidazole"
+  },
+  {
+    "rxcui": "7517",
+    "generic_name": "Nitrofurantoin",
+    "search_terms": [
+      "nitrofurantoin",
+      "macrobid",
+      "nitrofurantoin",
+      "nitrofurantoin"
+    ],
+    "category": "Nitrofuran"
+  },
+  {
+    "rxcui": "10582",
+    "generic_name": "Levothyroxine",
+    "search_terms": [
+      "levothyroxine",
+      "synthroid",
+      "levothyroxine",
+      "levothyroxine"
+    ],
+    "category": "Thyroid"
+  },
+  {
+    "rxcui": "316672",
+    "generic_name": "Vitamin D",
+    "search_terms": [
+      "vitamin d",
+      "cholecalciferol",
+      "vitamin d",
+      "vitamind"
+    ],
+    "category": "Supplement"
+  },
+  {
+    "rxcui": "3310",
+    "generic_name": "Vitamin B12",
+    "search_terms": [
+      "vitamin b12",
+      "cyanocobalamin",
+      "vitamin b12",
+      "vitaminb12"
+    ],
+    "category": "Supplement"
+  },
+  {
+    "rxcui": "4419",
+    "generic_name": "Folic Acid",
+    "search_terms": [
+      "folic acid",
+      "folic acid",
+      "folicacid"
+    ],
+    "category": "Supplement"
+  },
+  {
+    "rxcui": "5640",
+    "generic_name": "Iron Sulfate",
+    "search_terms": [
+      "iron sulfate",
+      "feosol",
+      "iron sulfate",
+      "ironsulfate"
+    ],
+    "category": "Supplement"
+  },
+  {
+    "rxcui": "2122",
+    "generic_name": "Calcium Carbonate",
+    "search_terms": [
+      "calcium carbonate",
+      "tums",
+      "calcium carbonate",
+      "calciumcarbonate"
+    ],
+    "category": "Supplement"
+  },
+  {
+    "rxcui": "77492",
+    "generic_name": "Tamsulosin",
+    "search_terms": [
+      "tamsulosin",
+      "flomax",
+      "tamsulosin",
+      "tamsulosin"
+    ],
+    "category": "Alpha Blocker"
+  },
+  {
+    "rxcui": "4469",
+    "generic_name": "Finasteride",
+    "search_terms": [
+      "finasteride",
+      "proscar",
+      "finasteride",
+      "finasteride"
+    ],
+    "category": "5-Alpha Reductase"
+  },
+  {
+    "rxcui": "136411",
+    "generic_name": "Sildenafil",
+    "search_terms": [
+      "sildenafil",
+      "viagra",
+      "sildenafil",
+      "sildenafil"
+    ],
+    "category": "PDE5 Inhibitor"
+  },
+  {
+    "rxcui": "349332",
+    "generic_name": "Tadalafil",
+    "search_terms": [
+      "tadalafil",
+      "cialis",
+      "tadalafil",
+      "tadalafil"
+    ],
+    "category": "PDE5 Inhibitor"
+  },
+  {
+    "rxcui": "2270",
+    "generic_name": "Cetirizine",
+    "search_terms": [
+      "cetirizine",
+      "zyrtec",
+      "cetirizine",
+      "cetirizine"
+    ],
+    "category": "Antihistamine"
+  },
+  {
+    "rxcui": "6472",
+    "generic_name": "Loratadine",
+    "search_terms": [
+      "loratadine",
+      "claritin",
+      "loratadine",
+      "loratadine"
+    ],
+    "category": "Antihistamine"
+  },
+  {
+    "rxcui": "83160",
+    "generic_name": "Fexofenadine",
+    "search_terms": [
+      "fexofenadine",
+      "allegra",
+      "fexofenadine",
+      "fexofenadine"
+    ],
+    "category": "Antihistamine"
+  },
+  {
+    "rxcui": "3498",
+    "generic_name": "Diphenhydramine",
+    "search_terms": [
+      "diphenhydramine",
+      "benadryl",
+      "diphenhydramine",
+      "diphenhydramine"
+    ],
+    "category": "Antihistamine"
+  },
+  {
+    "rxcui": "8787",
+    "generic_name": "Pseudoephedrine",
+    "search_terms": [
+      "pseudoephedrine",
+      "sudafed",
+      "pseudoephedrine",
+      "pseudoephedrine"
+    ],
+    "category": "Decongestant"
+  },
+  {
+    "rxcui": "8591",
+    "generic_name": "Potassium Chloride",
+    "search_terms": [
+      "potassium chloride",
+      "k-dur",
+      "potassium chloride",
+      "potassiumchloride"
+    ],
+    "category": "Electrolyte"
+  },
+  {
+    "rxcui": "6675",
+    "generic_name": "Magnesium Oxide",
+    "search_terms": [
+      "magnesium oxide",
+      "magnesium oxide",
+      "magnesiumoxide"
+    ],
+    "category": "Supplement"
+  },
+  {
+    "rxcui": "7238",
+    "generic_name": "Multivitamin",
+    "search_terms": [
+      "multivitamin",
+      "multivitamin",
+      "multivitamin"
+    ],
+    "category": "Supplement"
+  },
+  {
+    "rxcui": "849574",
+    "generic_name": "Fish Oil",
+    "search_terms": [
+      "fish oil",
+      "omega-3",
+      "fish oil",
+      "fishoil"
+    ],
+    "category": "Supplement"
+  }
+]
