@@ -48,3 +48,4 @@ shiny_bookmarks/
 # Python project
 .venv/
 
+.DS_Store
