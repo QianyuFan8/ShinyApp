@@ -435,5 +435,3 @@ A: The fuzzy matching algorithm handles minor misspellings and brand name variat
 
 ---
 
-_This project was crated as part of the BMI 709 course at Harvard Medical
-School_
