@@ -400,13 +400,10 @@ Atorvastatin
 ### Common Questions
 
 **Q: Why doesn't my drug show FDA label information?**
-A: OTC medications and supplements often have limited FDA labeling. See Limitations section for details.
+A: OTC medications and supplements often have limited FDA labeling.
 
 **Q: How many interactions are in the database?**
 A: 126 clinically significant interactions among 100 drugs.
-
-**Q: Can I export the network visualization?**
-A: Yes, use browser's screenshot tool or "Print to PDF" function.
 
 **Q: What if my CSV has spelling errors?**
 A: The fuzzy matching algorithm handles minor misspellings and brand name variations.
