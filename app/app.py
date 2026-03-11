@@ -1360,12 +1360,6 @@ def server(input, output, session):
                 for _, row in low_risk.iterrows():
                     report += f"\n{row['drug_a_name']} + {row['drug_b_name']}\n"
                     report += f"  {row['description']}\n"
-            
-            # report += "\n\n" + "═" * 60 + "\n"
-            # report += "DISCLAIMER: This is an educational tool only.\n"
-            # report += "Not for clinical decision-making.\n"
-            # report += "Always consult healthcare professionals.\n"
-            # report += "═" * 60 + "\n"
         
         return io.BytesIO(report.encode())
 
